@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>923</CNE>
+    <LastName>Rosellini</LastName>
+    <FirstName>Tootsie</FirstName>
+    <DateofBirth>18/01/1998</DateofBirth>
+    <Phone>765 759 5864</Phone>
+    <Email>omackstead60@bloglines.com</Email>
+  </student><student>
+    <CNE>924</CNE>
+    <LastName>Sneesbie</LastName>
+    <FirstName>Charmain</FirstName>
+    <DateofBirth>15/11/1998</DateofBirth>
+    <Phone>936 446 8664</Phone>
+    <Email>bcrosskell61@sciencedaily.com</Email>
+  </student><student>
+    <CNE>925</CNE>
+    <LastName>Gerwood</LastName>
+    <FirstName>Rhona</FirstName>
+    <DateofBirth>15/03/2000</DateofBirth>
+    <Phone>350 878 0089</Phone>
+    <Email>mburkman62@biglobe.ne.jp</Email>
+  </student><student>
+    <CNE>926</CNE>
+    <LastName>Ebbins</LastName>
+    <FirstName>Hymie</FirstName>
+    <DateofBirth>03/11/2000</DateofBirth>
+    <Phone>908 280 2941</Phone>
+    <Email>hchurchlow63@wunderground.com</Email>
+  </student><student>
+    <CNE>927</CNE>
+    <LastName>Dunsire</LastName>
+    <FirstName>Vivien</FirstName>
+    <DateofBirth>21/03/2000</DateofBirth>
+    <Phone>661 136 0784</Phone>
+    <Email>jratcliff64@scribd.com</Email>
+  </student><student>
+    <CNE>928</CNE>
+    <LastName>Bleackly</LastName>
+    <FirstName>Chicky</FirstName>
+    <DateofBirth>02/07/1999</DateofBirth>
+    <Phone>830 643 6401</Phone>
+    <Email>gpogosian65@cocolog-nifty.com</Email>
+  </student><student>
+    <CNE>929</CNE>
+    <LastName>Gerram</LastName>
+    <FirstName>Roberta</FirstName>
+    <DateofBirth>22/08/1999</DateofBirth>
+    <Phone>999 213 7732</Phone>
+    <Email>nemps66@booking.com</Email>
+  </student><student>
+    <CNE>930</CNE>
+    <LastName>Speak</LastName>
+    <FirstName>Saundra</FirstName>
+    <DateofBirth>02/08/2000</DateofBirth>
+    <Phone>490 367 5571</Phone>
+    <Email>owhatham67@indiatimes.com</Email>
+  </student><student>
+    <CNE>931</CNE>
+    <LastName>Zuan</LastName>
+    <FirstName>Alikee</FirstName>
+    <DateofBirth>10/02/2000</DateofBirth>
+    <Phone>571 166 5876</Phone>
+    <Email>eearl68@alexa.com</Email>
+  </student><student>
+    <CNE>932</CNE>
+    <LastName>Blenkhorn</LastName>
+    <FirstName>Aluino</FirstName>
+    <DateofBirth>15/03/1998</DateofBirth>
+    <Phone>316 727 8792</Phone>
+    <Email>jburgiss69@ed.gov</Email>
+  </student><student>
+    <CNE>933</CNE>
+    <LastName>Eplett</LastName>
+    <FirstName>Stanfield</FirstName>
+    <DateofBirth>21/09/1998</DateofBirth>
+    <Phone>659 731 1313</Phone>
+    <Email>tballing6a@themeforest.net</Email>
+  </student><student>
+    <CNE>934</CNE>
+    <LastName>Phippard</LastName>
+    <FirstName>Calida</FirstName>
+    <DateofBirth>31/05/1998</DateofBirth>
+    <Phone>571 327 1832</Phone>
+    <Email>vgallacher6b@sbwire.com</Email>
+  </student><student>
+    <CNE>935</CNE>
+    <LastName>Kubik</LastName>
+    <FirstName>Kerrin</FirstName>
+    <DateofBirth>05/05/1998</DateofBirth>
+    <Phone>709 591 4567</Phone>
+    <Email>fegan6c@drupal.org</Email>
+  </student><student>
+    <CNE>936</CNE>
+    <LastName>Gandrich</LastName>
+    <FirstName>Cris</FirstName>
+    <DateofBirth>17/12/1999</DateofBirth>
+    <Phone>720 570 1974</Phone>
+    <Email>amatthews6d@sciencedirect.com</Email>
+  </student><student>
+    <CNE>937</CNE>
+    <LastName>Pullin</LastName>
+    <FirstName>Gil</FirstName>
+    <DateofBirth>28/02/1998</DateofBirth>
+    <Phone>664 968 8769</Phone>
+    <Email>mirwin6e@acquirethisname.com</Email>
+  </student><student>
+    <CNE>938</CNE>
+    <LastName>Balasin</LastName>
+    <FirstName>Berk</FirstName>
+    <DateofBirth>04/06/1998</DateofBirth>
+    <Phone>865 488 2576</Phone>
+    <Email>yormshaw6f@domainmarket.com</Email>
+  </student><student>
+    <CNE>939</CNE>
+    <LastName>Wabersinke</LastName>
+    <FirstName>Em</FirstName>
+    <DateofBirth>13/07/1999</DateofBirth>
+    <Phone>878 864 4955</Phone>
+    <Email>rmacvaugh6g@unc.edu</Email>
+  </student><student>
+    <CNE>940</CNE>
+    <LastName>Esom</LastName>
+    <FirstName>Brande</FirstName>
+    <DateofBirth>13/08/1998</DateofBirth>
+    <Phone>103 255 8071</Phone>
+    <Email>relington6h@cargocollective.com</Email>
+  </student><student>
+    <CNE>941</CNE>
+    <LastName>Rymell</LastName>
+    <FirstName>Kevyn</FirstName>
+    <DateofBirth>24/03/1998</DateofBirth>
+    <Phone>643 854 5790</Phone>
+    <Email>kskally6i@chicagotribune.com</Email>
+  </student><student>
+    <CNE>942</CNE>
+    <LastName>Cottle</LastName>
+    <FirstName>Hobart</FirstName>
+    <DateofBirth>07/06/2000</DateofBirth>
+    <Phone>589 166 6297</Phone>
+    <Email>nbolan6j@over-blog.com</Email>
+  </student><student>
+    <CNE>943</CNE>
+    <LastName>Ibbs</LastName>
+    <FirstName>Mickie</FirstName>
+    <DateofBirth>18/11/1999</DateofBirth>
+    <Phone>810 501 8742</Phone>
+    <Email>sfreed6k@ehow.com</Email>
+  </student><student>
+    <CNE>944</CNE>
+    <LastName>Spinozzi</LastName>
+    <FirstName>Ted</FirstName>
+    <DateofBirth>25/03/2000</DateofBirth>
+    <Phone>923 864 6562</Phone>
+    <Email>mvanshin6l@geocities.com</Email>
+  </student><student>
+    <CNE>945</CNE>
+    <LastName>Hazeman</LastName>
+    <FirstName>Ruthann</FirstName>
+    <DateofBirth>20/02/2000</DateofBirth>
+    <Phone>599 581 8745</Phone>
+    <Email>rhakewell6m@ucoz.com</Email>
+  </student><student>
+    <CNE>946</CNE>
+    <LastName>Sadat</LastName>
+    <FirstName>Fleur</FirstName>
+    <DateofBirth>06/04/1999</DateofBirth>
+    <Phone>471 650 6456</Phone>
+    <Email>rgravenall6n@nasa.gov</Email>
+  </student></students>

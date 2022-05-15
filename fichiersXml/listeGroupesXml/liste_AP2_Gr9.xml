@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>899</CNE>
+    <LastName>Seton</LastName>
+    <FirstName>Suellen</FirstName>
+    <DateofBirth>29/07/1998</DateofBirth>
+    <Phone>191 714 3827</Phone>
+    <Email>lvasichev5c@bizjournals.com</Email>
+  </student><student>
+    <CNE>900</CNE>
+    <LastName>Bernardez</LastName>
+    <FirstName>Malvin</FirstName>
+    <DateofBirth>01/03/1998</DateofBirth>
+    <Phone>407 293 9578</Phone>
+    <Email>onestoruk5d@mayoclinic.com</Email>
+  </student><student>
+    <CNE>901</CNE>
+    <LastName>Stollberger</LastName>
+    <FirstName>Aleece</FirstName>
+    <DateofBirth>26/05/1998</DateofBirth>
+    <Phone>821 977 9965</Phone>
+    <Email>nbrugger5e@cloudflare.com</Email>
+  </student><student>
+    <CNE>902</CNE>
+    <LastName>Buche</LastName>
+    <FirstName>Ramona</FirstName>
+    <DateofBirth>02/02/1999</DateofBirth>
+    <Phone>177 362 9531</Phone>
+    <Email>rwickes5f@jigsy.com</Email>
+  </student><student>
+    <CNE>903</CNE>
+    <LastName>Cerie</LastName>
+    <FirstName>Loreen</FirstName>
+    <DateofBirth>21/05/1998</DateofBirth>
+    <Phone>410 191 8569</Phone>
+    <Email>dpothergill5g@cargocollective.com</Email>
+  </student><student>
+    <CNE>904</CNE>
+    <LastName>de Tocqueville</LastName>
+    <FirstName>Leonerd</FirstName>
+    <DateofBirth>24/03/1999</DateofBirth>
+    <Phone>106 667 9146</Phone>
+    <Email>jhapps5h@scientificamerican.com</Email>
+  </student><student>
+    <CNE>905</CNE>
+    <LastName>Setter</LastName>
+    <FirstName>Helenka</FirstName>
+    <DateofBirth>11/01/1999</DateofBirth>
+    <Phone>299 299 2850</Phone>
+    <Email>fthewles5i@xinhuanet.com</Email>
+  </student><student>
+    <CNE>906</CNE>
+    <LastName>Allinson</LastName>
+    <FirstName>Garnette</FirstName>
+    <DateofBirth>10/07/2000</DateofBirth>
+    <Phone>478 402 7298</Phone>
+    <Email>ehambrook5j@mysql.com</Email>
+  </student><student>
+    <CNE>907</CNE>
+    <LastName>Knudsen</LastName>
+    <FirstName>Lucy</FirstName>
+    <DateofBirth>24/04/1998</DateofBirth>
+    <Phone>968 717 9565</Phone>
+    <Email>mgaynes5k@ft.com</Email>
+  </student><student>
+    <CNE>908</CNE>
+    <LastName>Bebb</LastName>
+    <FirstName>Goldina</FirstName>
+    <DateofBirth>23/12/1999</DateofBirth>
+    <Phone>717 109 9224</Phone>
+    <Email>wgreaterex5l@myspace.com</Email>
+  </student><student>
+    <CNE>909</CNE>
+    <LastName>L'Episcopio</LastName>
+    <FirstName>Reinald</FirstName>
+    <DateofBirth>05/04/1999</DateofBirth>
+    <Phone>660 213 7938</Phone>
+    <Email>lsiddaley5m@mtv.com</Email>
+  </student><student>
+    <CNE>910</CNE>
+    <LastName>Gregory</LastName>
+    <FirstName>Cristal</FirstName>
+    <DateofBirth>21/05/1999</DateofBirth>
+    <Phone>344 753 0219</Phone>
+    <Email>kgellibrand5n@elpais.com</Email>
+  </student><student>
+    <CNE>911</CNE>
+    <LastName>Le Barr</LastName>
+    <FirstName>Dedra</FirstName>
+    <DateofBirth>19/02/1998</DateofBirth>
+    <Phone>659 639 6709</Phone>
+    <Email>rkimbly5o@ebay.co.uk</Email>
+  </student><student>
+    <CNE>912</CNE>
+    <LastName>McGinnis</LastName>
+    <FirstName>Maxie</FirstName>
+    <DateofBirth>25/07/1999</DateofBirth>
+    <Phone>546 701 6086</Phone>
+    <Email>ksenton5p@ning.com</Email>
+  </student><student>
+    <CNE>913</CNE>
+    <LastName>Capin</LastName>
+    <FirstName>Essy</FirstName>
+    <DateofBirth>10/02/2000</DateofBirth>
+    <Phone>199 571 9590</Phone>
+    <Email>tmeric5q@liveinternet.ru</Email>
+  </student><student>
+    <CNE>914</CNE>
+    <LastName>Dulling</LastName>
+    <FirstName>Dido</FirstName>
+    <DateofBirth>29/09/1999</DateofBirth>
+    <Phone>433 286 6412</Phone>
+    <Email>rwoodcraft5r@cnn.com</Email>
+  </student><student>
+    <CNE>915</CNE>
+    <LastName>Ventura</LastName>
+    <FirstName>Morry</FirstName>
+    <DateofBirth>27/06/1998</DateofBirth>
+    <Phone>176 878 7268</Phone>
+    <Email>kbrusin5s@dot.gov</Email>
+  </student><student>
+    <CNE>916</CNE>
+    <LastName>Chuck</LastName>
+    <FirstName>Kit</FirstName>
+    <DateofBirth>29/05/1998</DateofBirth>
+    <Phone>549 107 8165</Phone>
+    <Email>lgrandisson5t@liveinternet.ru</Email>
+  </student><student>
+    <CNE>917</CNE>
+    <LastName>Joyner</LastName>
+    <FirstName>Emelen</FirstName>
+    <DateofBirth>30/09/1999</DateofBirth>
+    <Phone>666 271 2491</Phone>
+    <Email>hfarfalameev5u@scientificamerican.com</Email>
+  </student><student>
+    <CNE>918</CNE>
+    <LastName>Goodband</LastName>
+    <FirstName>Ludovico</FirstName>
+    <DateofBirth>02/05/1998</DateofBirth>
+    <Phone>450 168 3421</Phone>
+    <Email>zbromfield5v@ucoz.ru</Email>
+  </student><student>
+    <CNE>919</CNE>
+    <LastName>Carillo</LastName>
+    <FirstName>Darrelle</FirstName>
+    <DateofBirth>28/04/1999</DateofBirth>
+    <Phone>805 585 6418</Phone>
+    <Email>hcordelette5w@bloomberg.com</Email>
+  </student><student>
+    <CNE>920</CNE>
+    <LastName>Camfield</LastName>
+    <FirstName>Hakeem</FirstName>
+    <DateofBirth>04/04/2000</DateofBirth>
+    <Phone>145 530 0911</Phone>
+    <Email>pvonbrook5x@dailymotion.com</Email>
+  </student><student>
+    <CNE>921</CNE>
+    <LastName>Deniscke</LastName>
+    <FirstName>Ronnica</FirstName>
+    <DateofBirth>02/04/1998</DateofBirth>
+    <Phone>825 423 7516</Phone>
+    <Email>rjacobowitz5y@lycos.com</Email>
+  </student><student>
+    <CNE>922</CNE>
+    <LastName>Stanway</LastName>
+    <FirstName>Liz</FirstName>
+    <DateofBirth>02/06/2000</DateofBirth>
+    <Phone>358 819 7036</Phone>
+    <Email>ncockrill5z@umich.edu</Email>
+  </student></students>

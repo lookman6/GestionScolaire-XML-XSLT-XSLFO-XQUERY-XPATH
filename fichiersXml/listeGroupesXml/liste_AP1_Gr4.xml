@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>1019</CNE>
+    <LastName>McLeese</LastName>
+    <FirstName>Kippie</FirstName>
+    <DateofBirth>12/11/1998</DateofBirth>
+    <Phone>417 265 8929</Phone>
+    <Email>amacpeice20@redcross.org</Email>
+  </student><student>
+    <CNE>1020</CNE>
+    <LastName>Callaby</LastName>
+    <FirstName>Homer</FirstName>
+    <DateofBirth>03/10/2000</DateofBirth>
+    <Phone>866 993 8930</Phone>
+    <Email>scurnucke21@altervista.org</Email>
+  </student><student>
+    <CNE>1021</CNE>
+    <LastName>Billison</LastName>
+    <FirstName>Mallissa</FirstName>
+    <DateofBirth>03/10/1999</DateofBirth>
+    <Phone>239 611 4678</Phone>
+    <Email>tbourdis22@ibm.com</Email>
+  </student><student>
+    <CNE>1022</CNE>
+    <LastName>Pischel</LastName>
+    <FirstName>Batsheva</FirstName>
+    <DateofBirth>30/05/2000</DateofBirth>
+    <Phone>810 231 3949</Phone>
+    <Email>psnap23@cbsnews.com</Email>
+  </student><student>
+    <CNE>1023</CNE>
+    <LastName>Tichelaar</LastName>
+    <FirstName>Carlynne</FirstName>
+    <DateofBirth>05/09/1999</DateofBirth>
+    <Phone>223 436 5625</Phone>
+    <Email>santcliffe24@guardian.co.uk</Email>
+  </student><student>
+    <CNE>1024</CNE>
+    <LastName>Farnon</LastName>
+    <FirstName>Lorene</FirstName>
+    <DateofBirth>15/09/2000</DateofBirth>
+    <Phone>372 460 2875</Phone>
+    <Email>kbever25@eepurl.com</Email>
+  </student><student>
+    <CNE>1025</CNE>
+    <LastName>Matej</LastName>
+    <FirstName>Jayme</FirstName>
+    <DateofBirth>08/04/1998</DateofBirth>
+    <Phone>423 593 8979</Phone>
+    <Email>sgeraud26@miibeian.gov.cn</Email>
+  </student><student>
+    <CNE>1026</CNE>
+    <LastName>Rush</LastName>
+    <FirstName>Vinson</FirstName>
+    <DateofBirth>22/08/1998</DateofBirth>
+    <Phone>713 787 4933</Phone>
+    <Email>hgrabeham27@ca.gov</Email>
+  </student><student>
+    <CNE>1027</CNE>
+    <LastName>Witheford</LastName>
+    <FirstName>Corrinne</FirstName>
+    <DateofBirth>11/12/1999</DateofBirth>
+    <Phone>861 772 4705</Phone>
+    <Email>rprantoni28@vkontakte.ru</Email>
+  </student><student>
+    <CNE>1028</CNE>
+    <LastName>Lemerle</LastName>
+    <FirstName>Riane</FirstName>
+    <DateofBirth>23/07/2000</DateofBirth>
+    <Phone>993 141 8896</Phone>
+    <Email>eantonellini29@dell.com</Email>
+  </student><student>
+    <CNE>1029</CNE>
+    <LastName>Western</LastName>
+    <FirstName>Gabriello</FirstName>
+    <DateofBirth>26/03/1999</DateofBirth>
+    <Phone>715 351 1641</Phone>
+    <Email>jhugett2a@cbslocal.com</Email>
+  </student><student>
+    <CNE>1030</CNE>
+    <LastName>Boncore</LastName>
+    <FirstName>Gerik</FirstName>
+    <DateofBirth>07/06/2000</DateofBirth>
+    <Phone>334 887 4902</Phone>
+    <Email>opelz2b@dell.com</Email>
+  </student><student>
+    <CNE>1031</CNE>
+    <LastName>Kolakovic</LastName>
+    <FirstName>Bliss</FirstName>
+    <DateofBirth>02/02/1999</DateofBirth>
+    <Phone>653 696 7918</Phone>
+    <Email>rlowndsbrough2c@harvard.edu</Email>
+  </student><student>
+    <CNE>1032</CNE>
+    <LastName>Fynan</LastName>
+    <FirstName>Brenden</FirstName>
+    <DateofBirth>09/05/1999</DateofBirth>
+    <Phone>694 430 4510</Phone>
+    <Email>tboarleyson2d@aol.com</Email>
+  </student><student>
+    <CNE>1033</CNE>
+    <LastName>Killough</LastName>
+    <FirstName>Kippie</FirstName>
+    <DateofBirth>25/08/1999</DateofBirth>
+    <Phone>689 451 5104</Phone>
+    <Email>abeetham2e@smh.com.au</Email>
+  </student><student>
+    <CNE>1034</CNE>
+    <LastName>Flaws</LastName>
+    <FirstName>Dian</FirstName>
+    <DateofBirth>19/11/2000</DateofBirth>
+    <Phone>459 623 3522</Phone>
+    <Email>ccrippell2f@artisteer.com</Email>
+  </student><student>
+    <CNE>1035</CNE>
+    <LastName>Fletcher</LastName>
+    <FirstName>Roze</FirstName>
+    <DateofBirth>30/07/2000</DateofBirth>
+    <Phone>460 627 2603</Phone>
+    <Email>agaskins2g@blog.com</Email>
+  </student><student>
+    <CNE>1036</CNE>
+    <LastName>Smalridge</LastName>
+    <FirstName>Enid</FirstName>
+    <DateofBirth>17/02/2000</DateofBirth>
+    <Phone>741 129 5463</Phone>
+    <Email>rbarriball2h@blinklist.com</Email>
+  </student><student>
+    <CNE>1037</CNE>
+    <LastName>Findlow</LastName>
+    <FirstName>Peyter</FirstName>
+    <DateofBirth>26/09/1999</DateofBirth>
+    <Phone>826 388 5101</Phone>
+    <Email>cconelly2i@devhub.com</Email>
+  </student><student>
+    <CNE>1038</CNE>
+    <LastName>Hurlin</LastName>
+    <FirstName>Efren</FirstName>
+    <DateofBirth>09/11/1998</DateofBirth>
+    <Phone>228 219 8703</Phone>
+    <Email>astoffers2j@slashdot.org</Email>
+  </student><student>
+    <CNE>1039</CNE>
+    <LastName>Arlt</LastName>
+    <FirstName>Fleming</FirstName>
+    <DateofBirth>21/09/1998</DateofBirth>
+    <Phone>466 743 5890</Phone>
+    <Email>bmelato2k@com.com</Email>
+  </student><student>
+    <CNE>1040</CNE>
+    <LastName>Bucknell</LastName>
+    <FirstName>Tremayne</FirstName>
+    <DateofBirth>02/12/2001</DateofBirth>
+    <Phone>890 445 7106</Phone>
+    <Email>fbradnocke2l@weebly.com</Email>
+  </student><student>
+    <CNE>1041</CNE>
+    <LastName>Tilte</LastName>
+    <FirstName>Caddric</FirstName>
+    <DateofBirth>09/11/2000</DateofBirth>
+    <Phone>519 200 7839</Phone>
+    <Email>jragat2m@diigo.com</Email>
+  </student><student>
+    <CNE>1042</CNE>
+    <LastName>Stormes</LastName>
+    <FirstName>Leyla</FirstName>
+    <DateofBirth>02/06/1999</DateofBirth>
+    <Phone>647 413 6739</Phone>
+    <Email>hlegges2n@drupal.org</Email>
+  </student></students>

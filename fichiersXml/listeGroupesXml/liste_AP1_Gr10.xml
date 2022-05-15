@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>1163</CNE>
+    <LastName>Dossetter</LastName>
+    <FirstName>Andreas</FirstName>
+    <DateofBirth>04/04/2001</DateofBirth>
+    <Phone>101 325 1401</Phone>
+    <Email>kmarkussen60@surveymonkey.com</Email>
+  </student><student>
+    <CNE>1164</CNE>
+    <LastName>Antrim</LastName>
+    <FirstName>Joelie</FirstName>
+    <DateofBirth>19/05/1998</DateofBirth>
+    <Phone>675 994 1727</Phone>
+    <Email>ltommasetti61@sun.com</Email>
+  </student><student>
+    <CNE>1165</CNE>
+    <LastName>Bartoszewski</LastName>
+    <FirstName>Jonell</FirstName>
+    <DateofBirth>22/07/2000</DateofBirth>
+    <Phone>918 282 9632</Phone>
+    <Email>dtrustrie62@state.tx.us</Email>
+  </student><student>
+    <CNE>1166</CNE>
+    <LastName>Sailer</LastName>
+    <FirstName>Lew</FirstName>
+    <DateofBirth>22/11/1998</DateofBirth>
+    <Phone>784 588 6513</Phone>
+    <Email>apassingham63@baidu.com</Email>
+  </student><student>
+    <CNE>1167</CNE>
+    <LastName>Strode</LastName>
+    <FirstName>Brucie</FirstName>
+    <DateofBirth>11/04/1999</DateofBirth>
+    <Phone>134 788 8730</Phone>
+    <Email>ginsoll64@dedecms.com</Email>
+  </student><student>
+    <CNE>1168</CNE>
+    <LastName>Trathen</LastName>
+    <FirstName>Sinclare</FirstName>
+    <DateofBirth>22/02/1999</DateofBirth>
+    <Phone>984 738 5215</Phone>
+    <Email>hniven65@nba.com</Email>
+  </student><student>
+    <CNE>1169</CNE>
+    <LastName>Farrens</LastName>
+    <FirstName>Emilee</FirstName>
+    <DateofBirth>11/01/2001</DateofBirth>
+    <Phone>950 782 7981</Phone>
+    <Email>mwallentin66@tmall.com</Email>
+  </student><student>
+    <CNE>1170</CNE>
+    <LastName>Pringuer</LastName>
+    <FirstName>Pennie</FirstName>
+    <DateofBirth>13/08/2001</DateofBirth>
+    <Phone>397 264 8208</Phone>
+    <Email>aburgane67@java.com</Email>
+  </student><student>
+    <CNE>1171</CNE>
+    <LastName>Hurdwell</LastName>
+    <FirstName>Ian</FirstName>
+    <DateofBirth>04/11/2001</DateofBirth>
+    <Phone>299 788 4368</Phone>
+    <Email>cstangel68@cisco.com</Email>
+  </student><student>
+    <CNE>1172</CNE>
+    <LastName>Welton</LastName>
+    <FirstName>Gray</FirstName>
+    <DateofBirth>03/09/2000</DateofBirth>
+    <Phone>655 678 1089</Phone>
+    <Email>clinfoot69@hp.com</Email>
+  </student><student>
+    <CNE>1173</CNE>
+    <LastName>Greest</LastName>
+    <FirstName>Adelaide</FirstName>
+    <DateofBirth>02/06/1999</DateofBirth>
+    <Phone>669 456 4813</Phone>
+    <Email>jeaglesham6a@prlog.org</Email>
+  </student><student>
+    <CNE>1174</CNE>
+    <LastName>Grichukhanov</LastName>
+    <FirstName>Beilul</FirstName>
+    <DateofBirth>25/11/2001</DateofBirth>
+    <Phone>845 233 8438</Phone>
+    <Email>jlucus6b@berkeley.edu</Email>
+  </student><student>
+    <CNE>1175</CNE>
+    <LastName>Sumption</LastName>
+    <FirstName>Marten</FirstName>
+    <DateofBirth>13/08/2001</DateofBirth>
+    <Phone>602 991 9470</Phone>
+    <Email>jlacaze6c@ed.gov</Email>
+  </student><student>
+    <CNE>1176</CNE>
+    <LastName>Lewsey</LastName>
+    <FirstName>Colly</FirstName>
+    <DateofBirth>03/10/2000</DateofBirth>
+    <Phone>520 485 9031</Phone>
+    <Email>mguidone6d@wufoo.com</Email>
+  </student><student>
+    <CNE>1177</CNE>
+    <LastName>Gromley</LastName>
+    <FirstName>Fabio</FirstName>
+    <DateofBirth>12/08/1998</DateofBirth>
+    <Phone>216 811 7447</Phone>
+    <Email>emacskeaghan6e@behance.net</Email>
+  </student><student>
+    <CNE>1178</CNE>
+    <LastName>Pittham</LastName>
+    <FirstName>Pauletta</FirstName>
+    <DateofBirth>22/08/1999</DateofBirth>
+    <Phone>950 747 2399</Phone>
+    <Email>rchevins6f@ed.gov</Email>
+  </student><student>
+    <CNE>1179</CNE>
+    <LastName>McIsaac</LastName>
+    <FirstName>Dorothy</FirstName>
+    <DateofBirth>15/07/2001</DateofBirth>
+    <Phone>351 706 2150</Phone>
+    <Email>rkelleher6g@e-recht24.de</Email>
+  </student><student>
+    <CNE>1180</CNE>
+    <LastName>Bath</LastName>
+    <FirstName>Becky</FirstName>
+    <DateofBirth>27/10/2001</DateofBirth>
+    <Phone>274 100 6766</Phone>
+    <Email>ntruwert6h@mashable.com</Email>
+  </student><student>
+    <CNE>1181</CNE>
+    <LastName>Leckenby</LastName>
+    <FirstName>Dukey</FirstName>
+    <DateofBirth>28/12/2000</DateofBirth>
+    <Phone>475 584 6882</Phone>
+    <Email>bsalzen6i@cbsnews.com</Email>
+  </student><student>
+    <CNE>1182</CNE>
+    <LastName>Piotrowski</LastName>
+    <FirstName>Heda</FirstName>
+    <DateofBirth>09/07/1999</DateofBirth>
+    <Phone>744 825 0396</Phone>
+    <Email>jarp6j@fastcompany.com</Email>
+  </student><student>
+    <CNE>1183</CNE>
+    <LastName>Ciobotaru</LastName>
+    <FirstName>Marga</FirstName>
+    <DateofBirth>16/04/1999</DateofBirth>
+    <Phone>353 791 8250</Phone>
+    <Email>ccowap6k@cbsnews.com</Email>
+  </student><student>
+    <CNE>1184</CNE>
+    <LastName>Parsonage</LastName>
+    <FirstName>Luciano</FirstName>
+    <DateofBirth>27/03/1998</DateofBirth>
+    <Phone>856 495 8732</Phone>
+    <Email>bfawcett6l@hc360.com</Email>
+  </student><student>
+    <CNE>1185</CNE>
+    <LastName>Lorenc</LastName>
+    <FirstName>Terrance</FirstName>
+    <DateofBirth>28/10/2001</DateofBirth>
+    <Phone>304 189 3503</Phone>
+    <Email>wspaduzza6m@state.gov</Email>
+  </student><student>
+    <CNE>1186</CNE>
+    <LastName>Hargate</LastName>
+    <FirstName>Drake</FirstName>
+    <DateofBirth>17/11/1999</DateofBirth>
+    <Phone>402 311 6992</Phone>
+    <Email>benglish6n@netvibes.com</Email>
+  </student></students>

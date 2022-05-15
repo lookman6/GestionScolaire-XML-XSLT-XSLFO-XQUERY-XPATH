@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<emploidutemps>
+  <filiere>GINF2</filiere>
+  <groupe>Toute la classe </groupe>
+  <semaine>49e Semaine</semaine>
+
+  <heures>
+    <heure debut="9h00-10h30">
+       <lundi >
+         <cours>
+            <type>CM</type>
+           <matiere>Sécurité des Systeme</matiere>
+           <professeur>LAZAAR</professeur>
+           <salle>A distance</salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>CM</type>
+          <matiere>Programmation Declarative</matiere>
+          <professeur>EL ALAMI</professeur>
+          <salle> A distance</salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+          <type>CM</type>
+          <matiere>Economie 2 et Comptabilite</matiere>
+          <professeur>NAITBOUBKER</professeur>
+          <salle>SALLE B21</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type>CM</type>
+          <matiere>VISION NUMERIQUE</matiere>
+          <professeur>EZZINE</professeur>
+          <salle>SALLE B14</salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type>CM</type>
+          <matiere>Cloud Computing et Infogerance</matiere>
+          <professeur>BADIR</professeur>
+          <salle>A distance</salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+        <heure debut="11h00-12h30">
+       <lundi >
+         <cours>
+         <type>CM</type>
+           <matiere>Securite des Systeme</matiere>
+           <professeur>LAZAAR</professeur>
+           <salle>A distance</salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>TP</type>
+          <matiere>Systeme des Systemes</matiere>
+          <professeur>LAZAAR</professeur>
+          <salle>B20</salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>CM</type>
+          <matiere>Economie 2 et Comptabilite</matiere>
+          <professeur>NAITBOUBKER</professeur>
+          <salle>SALLE B21</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type>TP</type>
+          <matiere>Vision Numerique</matiere>
+          <professeur>EZZINE</professeur>
+          <salle>SALLE B14</salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type>TP</type>
+          <matiere>Cloud Computing et Infogerance</matiere>
+          <professeur>Hassan BADIR</professeur>
+          <salle>SALLE B20</salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+        <heure debut="14h-15h30">
+       <lundi>
+         <cours>
+         <type>TP</type>
+           <matiere>Introduction J2EE</matiere>
+           <professeur>BELMOKADEM</professeur>
+           <salle>SALLE B22</salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>CM</type>
+          <matiere>Introduction J2EE</matiere>
+          <professeur>BELMOKADEM</professeur>
+          <salle>SALLE A10</salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>CM</type>
+          <matiere>Processus Stochastique</matiere>
+          <professeur>LMAKRI</professeur>
+          <salle>AMPHI 3</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type>TP</type>
+          <matiere>Programmation Declarative</matiere>
+          <professeur>EL ALAMI</professeur>
+          <salle>SALLE B4</salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type></type>
+          <matiere></matiere>
+          <professeur></professeur>
+          <salle></salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+        <heure debut="16h00-17h30">
+       <lundi>
+         <cours>
+         <type>TP</type>
+           <matiere>Introduction J2EE</matiere>
+           <professeur>BELMOKADEM</professeur>
+           <salle>Salle B22</salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type></type>
+          <matiere></matiere>
+          <professeur></professeur>
+          <salle></salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>TD</type>
+          <matiere>Processus Stochastique</matiere>
+          <professeur>LMAKRI</professeur>
+          <salle>Amphi 3</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type>TP</type>
+          <matiere>Programmation Declarative</matiere>
+          <professeur>EL ALAMI</professeur>
+          <salle>SALLE B4</salle>
+         </cours>
+       </jeudi>     
+      <vendredi >
+         <cours>
+         <type></type>
+          <matiere></matiere>
+          <professeur></professeur>
+          <salle></salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+  </heures>
+</emploidutemps>

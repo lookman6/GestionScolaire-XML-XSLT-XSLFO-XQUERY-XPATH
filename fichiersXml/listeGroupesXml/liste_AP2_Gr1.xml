@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>707</CNE>
+    <LastName>Blackboro</LastName>
+    <FirstName>Rubi</FirstName>
+    <DateofBirth>02/09/1998</DateofBirth>
+    <Phone>904 475 0786</Phone>
+    <Email>sbromehed0@w3.org</Email>
+  </student><student>
+    <CNE>708</CNE>
+    <LastName>Studde</LastName>
+    <FirstName>Beverlie</FirstName>
+    <DateofBirth>27/08/1999</DateofBirth>
+    <Phone>313 613 8362</Phone>
+    <Email>gwhiteland1@harvard.edu</Email>
+  </student><student>
+    <CNE>709</CNE>
+    <LastName>Fortnam</LastName>
+    <FirstName>Giustina</FirstName>
+    <DateofBirth>08/02/1998</DateofBirth>
+    <Phone>749 331 1671</Phone>
+    <Email>amaus2@github.io</Email>
+  </student><student>
+    <CNE>710</CNE>
+    <LastName>Traite</LastName>
+    <FirstName>Zia</FirstName>
+    <DateofBirth>05/02/2000</DateofBirth>
+    <Phone>322 339 2321</Phone>
+    <Email>jlang3@mediafire.com</Email>
+  </student><student>
+    <CNE>711</CNE>
+    <LastName>Trayton</LastName>
+    <FirstName>Dulciana</FirstName>
+    <DateofBirth>25/07/1998</DateofBirth>
+    <Phone>852 512 6031</Phone>
+    <Email>dbetchley4@npr.org</Email>
+  </student><student>
+    <CNE>712</CNE>
+    <LastName>Dobsons</LastName>
+    <FirstName>Ced</FirstName>
+    <DateofBirth>18/01/1999</DateofBirth>
+    <Phone>444 570 1268</Phone>
+    <Email>rwadesworth5@webeden.co.uk</Email>
+  </student><student>
+    <CNE>713</CNE>
+    <LastName>Lillow</LastName>
+    <FirstName>Tabby</FirstName>
+    <DateofBirth>16/10/1999</DateofBirth>
+    <Phone>351 101 4588</Phone>
+    <Email>babson6@patch.com</Email>
+  </student><student>
+    <CNE>714</CNE>
+    <LastName>Washtell</LastName>
+    <FirstName>Nedi</FirstName>
+    <DateofBirth>30/07/2000</DateofBirth>
+    <Phone>445 568 3460</Phone>
+    <Email>tcuff7@msu.edu</Email>
+  </student><student>
+    <CNE>715</CNE>
+    <LastName>McLagain</LastName>
+    <FirstName>Alisun</FirstName>
+    <DateofBirth>05/10/1998</DateofBirth>
+    <Phone>475 716 1616</Phone>
+    <Email>imarvel8@phoca.cz</Email>
+  </student><student>
+    <CNE>716</CNE>
+    <LastName>Nix</LastName>
+    <FirstName>Faith</FirstName>
+    <DateofBirth>23/11/1999</DateofBirth>
+    <Phone>142 935 7865</Phone>
+    <Email>tnunnerley9@time.com</Email>
+  </student><student>
+    <CNE>717</CNE>
+    <LastName>Bisiker</LastName>
+    <FirstName>Doll</FirstName>
+    <DateofBirth>26/11/1998</DateofBirth>
+    <Phone>461 616 4461</Phone>
+    <Email>cgrangea@wsj.com</Email>
+  </student><student>
+    <CNE>718</CNE>
+    <LastName>Esmond</LastName>
+    <FirstName>Sheena</FirstName>
+    <DateofBirth>09/06/2000</DateofBirth>
+    <Phone>314 159 7463</Phone>
+    <Email>llacroutsb@yale.edu</Email>
+  </student><student>
+    <CNE>719</CNE>
+    <LastName>Gregon</LastName>
+    <FirstName>Jocko</FirstName>
+    <DateofBirth>02/03/2000</DateofBirth>
+    <Phone>634 277 2943</Phone>
+    <Email>efuentezc@cyberchimps.com</Email>
+  </student><student>
+    <CNE>720</CNE>
+    <LastName>Cakes</LastName>
+    <FirstName>Marijn</FirstName>
+    <DateofBirth>16/01/1998</DateofBirth>
+    <Phone>930 764 5628</Phone>
+    <Email>hsouleyd@telegraph.co.uk</Email>
+  </student><student>
+    <CNE>721</CNE>
+    <LastName>Gilbart</LastName>
+    <FirstName>Else</FirstName>
+    <DateofBirth>12/06/1999</DateofBirth>
+    <Phone>549 764 1472</Phone>
+    <Email>lmintoffe@answers.com</Email>
+  </student><student>
+    <CNE>722</CNE>
+    <LastName>Scudders</LastName>
+    <FirstName>Kingsly</FirstName>
+    <DateofBirth>21/07/1999</DateofBirth>
+    <Phone>706 658 7931</Phone>
+    <Email>sreaveleyf@posterous.com</Email>
+  </student><student>
+    <CNE>723</CNE>
+    <LastName>Godbald</LastName>
+    <FirstName>Guido</FirstName>
+    <DateofBirth>15/10/1999</DateofBirth>
+    <Phone>408 520 4823</Phone>
+    <Email>crylettg@ifeng.com</Email>
+  </student><student>
+    <CNE>724</CNE>
+    <LastName>Slamaker</LastName>
+    <FirstName>Mac</FirstName>
+    <DateofBirth>28/07/1998</DateofBirth>
+    <Phone>202 579 0257</Phone>
+    <Email>btrucketth@japanpost.jp</Email>
+  </student><student>
+    <CNE>725</CNE>
+    <LastName>Muncie</LastName>
+    <FirstName>Wayland</FirstName>
+    <DateofBirth>03/10/2000</DateofBirth>
+    <Phone>449 652 4620</Phone>
+    <Email>randrejsi@mashable.com</Email>
+  </student><student>
+    <CNE>726</CNE>
+    <LastName>Vanshin</LastName>
+    <FirstName>Linn</FirstName>
+    <DateofBirth>15/06/1999</DateofBirth>
+    <Phone>295 880 0722</Phone>
+    <Email>cchalcroftj@archive.org</Email>
+  </student><student>
+    <CNE>727</CNE>
+    <LastName>Brose</LastName>
+    <FirstName>Al</FirstName>
+    <DateofBirth>20/09/1998</DateofBirth>
+    <Phone>443 217 2299</Phone>
+    <Email>jkaleyk@comcast.net</Email>
+  </student><student>
+    <CNE>728</CNE>
+    <LastName>Cattroll</LastName>
+    <FirstName>Callida</FirstName>
+    <DateofBirth>23/02/1999</DateofBirth>
+    <Phone>566 839 3950</Phone>
+    <Email>byukhnevichl@reverbnation.com</Email>
+  </student><student>
+    <CNE>729</CNE>
+    <LastName>Girardetti</LastName>
+    <FirstName>Kathie</FirstName>
+    <DateofBirth>10/05/2000</DateofBirth>
+    <Phone>735 775 4824</Phone>
+    <Email>adightonm@squarespace.com</Email>
+  </student><student>
+    <CNE>730</CNE>
+    <LastName>Fitton</LastName>
+    <FirstName>Tanitansy</FirstName>
+    <DateofBirth>26/01/1998</DateofBirth>
+    <Phone>615 400 9249</Phone>
+    <Email>wbenedettinin@typepad.com</Email>
+  </student></students>

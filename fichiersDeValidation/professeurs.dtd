@@ -1,0 +1,9 @@
+<!ELEMENT professeurs (professeur*)>
+<!ELEMENT professeur (CIN,LastName,FirstName,Dept_Attachment,Phone?,Email?,matiere+)>
+<!ELEMENT CIN (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT Dept_Attachment (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT matiere (#PCDATA)>

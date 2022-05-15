@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>25</CNE>
+    <LastName>Herve</LastName>
+    <FirstName>Larwell</FirstName>
+    <DateofBirth>13/08/1999</DateofBirth>
+    <Phone>930 752 2920</Phone>
+    <Email>hlarwello@fastcompany.com</Email>
+  </student><student>
+    <CNE>26</CNE>
+    <LastName>Elvina</LastName>
+    <FirstName>Gini</FirstName>
+    <DateofBirth>05/05/2000</DateofBirth>
+    <Phone>742 891 2947</Phone>
+    <Email>eginip@intel.com</Email>
+  </student><student>
+    <CNE>27</CNE>
+    <LastName>Emili</LastName>
+    <FirstName>Girardetti</FirstName>
+    <DateofBirth>23/09/1996</DateofBirth>
+    <Phone>491 682 9487</Phone>
+    <Email>egirardettiq@gnu.org</Email>
+  </student><student>
+    <CNE>28</CNE>
+    <LastName>Ginnifer</LastName>
+    <FirstName>Lochhead</FirstName>
+    <DateofBirth>21/02/2000</DateofBirth>
+    <Phone>970 547 6002</Phone>
+    <Email>glochheadr@last.fm</Email>
+  </student><student>
+    <CNE>29</CNE>
+    <LastName>Zarla</LastName>
+    <FirstName>Sumpner</FirstName>
+    <DateofBirth>02/02/2000</DateofBirth>
+    <Phone>695 852 4606</Phone>
+    <Email>zsumpners@google.co.uk</Email>
+  </student><student>
+    <CNE>30</CNE>
+    <LastName>Diahann</LastName>
+    <FirstName>Esposi</FirstName>
+    <DateofBirth>28/11/1995</DateofBirth>
+    <Phone>450 892 2773</Phone>
+    <Email>desposit@tripod.com</Email>
+  </student><student>
+    <CNE>31</CNE>
+    <LastName>Darill</LastName>
+    <FirstName>Hearnes</FirstName>
+    <DateofBirth>10/06/1997</DateofBirth>
+    <Phone>447 917 9664</Phone>
+    <Email>dhearnesu@slate.com</Email>
+  </student><student>
+    <CNE>32</CNE>
+    <LastName>Milton</LastName>
+    <FirstName>Bloxsom</FirstName>
+    <DateofBirth>14/09/1998</DateofBirth>
+    <Phone>172 404 7947</Phone>
+    <Email>mbloxsomv@indiatimes.com</Email>
+  </student><student>
+    <CNE>33</CNE>
+    <LastName>Nisse</LastName>
+    <FirstName>Darnbrook</FirstName>
+    <DateofBirth>19/06/1999</DateofBirth>
+    <Phone>962 244 6917</Phone>
+    <Email>ndarnbrookw@businessinsider.com</Email>
+  </student><student>
+    <CNE>34</CNE>
+    <LastName>Constantia</LastName>
+    <FirstName>Tomczykowski</FirstName>
+    <DateofBirth>22/02/1995</DateofBirth>
+    <Phone>301 161 1385</Phone>
+    <Email>ctomczykowskix@cpanel.net</Email>
+  </student><student>
+    <CNE>35</CNE>
+    <LastName>Dolf</LastName>
+    <FirstName>Rau</FirstName>
+    <DateofBirth>07/01/1997</DateofBirth>
+    <Phone>826 157 6780</Phone>
+    <Email>drauy@flavors.me</Email>
+  </student><student>
+    <CNE>36</CNE>
+    <LastName>Lynnea</LastName>
+    <FirstName>Valentelli</FirstName>
+    <DateofBirth>25/08/1999</DateofBirth>
+    <Phone>606 949 4557</Phone>
+    <Email>lvalentelliz@is.gd</Email>
+  </student><student>
+    <CNE>37</CNE>
+    <LastName>Townsend</LastName>
+    <FirstName>Maultby</FirstName>
+    <DateofBirth>05/12/1997</DateofBirth>
+    <Phone>486 777 9882</Phone>
+    <Email>tmaultby10@earthlink.net</Email>
+  </student><student>
+    <CNE>38</CNE>
+    <LastName>Addy</LastName>
+    <FirstName>Shearmur</FirstName>
+    <DateofBirth>16/05/1995</DateofBirth>
+    <Phone>194 551 6866</Phone>
+    <Email>ashearmur11@cnn.com</Email>
+  </student><student>
+    <CNE>39</CNE>
+    <LastName>Benton</LastName>
+    <FirstName>Cast</FirstName>
+    <DateofBirth>08/07/1998</DateofBirth>
+    <Phone>616 301 4768</Phone>
+    <Email>bcast12@huffingtonpost.com</Email>
+  </student><student>
+    <CNE>40</CNE>
+    <LastName>Wolfy</LastName>
+    <FirstName>Vittel</FirstName>
+    <DateofBirth>28/03/1999</DateofBirth>
+    <Phone>729 333 2359</Phone>
+    <Email>wvittel13@diigo.com</Email>
+  </student><student>
+    <CNE>41</CNE>
+    <LastName>Abraham</LastName>
+    <FirstName>Matuszynski</FirstName>
+    <DateofBirth>06/05/1999</DateofBirth>
+    <Phone>298 328 3913</Phone>
+    <Email>amatuszynski14@exblog.jp</Email>
+  </student><student>
+    <CNE>42</CNE>
+    <LastName>Tynan</LastName>
+    <FirstName>Ratcliffe</FirstName>
+    <DateofBirth>14/08/1999</DateofBirth>
+    <Phone>287 514 2325</Phone>
+    <Email>tratcliffe15@blog.com</Email>
+  </student><student>
+    <CNE>43</CNE>
+    <LastName>Basile</LastName>
+    <FirstName>Luppitt</FirstName>
+    <DateofBirth>04/03/1995</DateofBirth>
+    <Phone>360 195 3975</Phone>
+    <Email>bluppitt16@pbs.org</Email>
+  </student><student>
+    <CNE>44</CNE>
+    <LastName>Mae</LastName>
+    <FirstName>Rashleigh</FirstName>
+    <DateofBirth>24/12/1995</DateofBirth>
+    <Phone>999 538 7469</Phone>
+    <Email>mrashleigh17@php.net</Email>
+  </student><student>
+    <CNE>45</CNE>
+    <LastName>Malia</LastName>
+    <FirstName>Barca</FirstName>
+    <DateofBirth>21/03/1995</DateofBirth>
+    <Phone>708 356 2488</Phone>
+    <Email>mbarca18@gnu.org</Email>
+  </student><student>
+    <CNE>46</CNE>
+    <LastName>Brunhilda</LastName>
+    <FirstName>Salvadore</FirstName>
+    <DateofBirth>01/10/1995</DateofBirth>
+    <Phone>571 746 2485</Phone>
+    <Email>bsalvadore19@irs.gov</Email>
+  </student><student>
+    <CNE>47</CNE>
+    <LastName>Muire</LastName>
+    <FirstName>Roelofs</FirstName>
+    <DateofBirth>30/07/1997</DateofBirth>
+    <Phone>695 798 5852</Phone>
+    <Email>mroelofs1a@upenn.edu</Email>
+  </student></students>

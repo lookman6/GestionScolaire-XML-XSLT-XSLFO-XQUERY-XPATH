@@ -1,0 +1,6 @@
+<!ELEMENT modules (module*)>
+<!ELEMENT module (Code,Name,chefModule,ElementName+)>
+<!ELEMENT Code (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT chefModule (#PCDATA)>
+<!ELEMENT ElementName (#PCDATA)>

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>1091</CNE>
+    <LastName>Motten</LastName>
+    <FirstName>Bevin</FirstName>
+    <DateofBirth>05/01/2001</DateofBirth>
+    <Phone>462 512 1942</Phone>
+    <Email>rwalkling40@indiegogo.com</Email>
+  </student><student>
+    <CNE>1092</CNE>
+    <LastName>Dymond</LastName>
+    <FirstName>Temp</FirstName>
+    <DateofBirth>23/07/1999</DateofBirth>
+    <Phone>690 179 2316</Phone>
+    <Email>mryley41@vimeo.com</Email>
+  </student><student>
+    <CNE>1093</CNE>
+    <LastName>De Beauchemp</LastName>
+    <FirstName>Bethena</FirstName>
+    <DateofBirth>21/02/1999</DateofBirth>
+    <Phone>344 453 3278</Phone>
+    <Email>dbenzies42@miibeian.gov.cn</Email>
+  </student><student>
+    <CNE>1094</CNE>
+    <LastName>Stempe</LastName>
+    <FirstName>Thedric</FirstName>
+    <DateofBirth>22/01/2000</DateofBirth>
+    <Phone>368 323 6456</Phone>
+    <Email>nrenachowski43@buzzfeed.com</Email>
+  </student><student>
+    <CNE>1095</CNE>
+    <LastName>Labone</LastName>
+    <FirstName>Bunnie</FirstName>
+    <DateofBirth>23/04/1999</DateofBirth>
+    <Phone>169 406 3769</Phone>
+    <Email>hrickell44@hibu.com</Email>
+  </student><student>
+    <CNE>1096</CNE>
+    <LastName>Thirst</LastName>
+    <FirstName>Mallorie</FirstName>
+    <DateofBirth>01/10/2000</DateofBirth>
+    <Phone>564 297 3303</Phone>
+    <Email>dwyndham45@pagesperso-orange.fr</Email>
+  </student><student>
+    <CNE>1097</CNE>
+    <LastName>Geraldez</LastName>
+    <FirstName>Sebastian</FirstName>
+    <DateofBirth>12/04/1998</DateofBirth>
+    <Phone>815 202 6071</Phone>
+    <Email>fscotti46@latimes.com</Email>
+  </student><student>
+    <CNE>1098</CNE>
+    <LastName>Rivitt</LastName>
+    <FirstName>Clotilda</FirstName>
+    <DateofBirth>10/01/1998</DateofBirth>
+    <Phone>316 461 9156</Phone>
+    <Email>kpowlett47@cpanel.net</Email>
+  </student><student>
+    <CNE>1099</CNE>
+    <LastName>Malthouse</LastName>
+    <FirstName>Odelinda</FirstName>
+    <DateofBirth>26/03/2000</DateofBirth>
+    <Phone>105 524 0026</Phone>
+    <Email>mkuhle48@mediafire.com</Email>
+  </student><student>
+    <CNE>1100</CNE>
+    <LastName>Pottell</LastName>
+    <FirstName>Bernadene</FirstName>
+    <DateofBirth>06/08/1998</DateofBirth>
+    <Phone>122 802 6134</Phone>
+    <Email>blucia49@cnn.com</Email>
+  </student><student>
+    <CNE>1101</CNE>
+    <LastName>Sackes</LastName>
+    <FirstName>Garv</FirstName>
+    <DateofBirth>08/05/1998</DateofBirth>
+    <Phone>294 405 1757</Phone>
+    <Email>mdaniells4a@fema.gov</Email>
+  </student><student>
+    <CNE>1102</CNE>
+    <LastName>Genny</LastName>
+    <FirstName>Rhoda</FirstName>
+    <DateofBirth>28/03/1998</DateofBirth>
+    <Phone>973 369 3482</Phone>
+    <Email>btejero4b@spiegel.de</Email>
+  </student><student>
+    <CNE>1103</CNE>
+    <LastName>Perrott</LastName>
+    <FirstName>Gavrielle</FirstName>
+    <DateofBirth>01/07/1998</DateofBirth>
+    <Phone>491 947 6752</Phone>
+    <Email>hmcleod4c@yahoo.com</Email>
+  </student><student>
+    <CNE>1104</CNE>
+    <LastName>Parkinson</LastName>
+    <FirstName>Danyette</FirstName>
+    <DateofBirth>24/11/2001</DateofBirth>
+    <Phone>900 883 2906</Phone>
+    <Email>hmariolle4d@fc2.com</Email>
+  </student><student>
+    <CNE>1105</CNE>
+    <LastName>Denyakin</LastName>
+    <FirstName>Even</FirstName>
+    <DateofBirth>24/10/1999</DateofBirth>
+    <Phone>345 162 9490</Phone>
+    <Email>nbessett4e@illinois.edu</Email>
+  </student><student>
+    <CNE>1106</CNE>
+    <LastName>Stedson</LastName>
+    <FirstName>Catharine</FirstName>
+    <DateofBirth>31/10/1999</DateofBirth>
+    <Phone>143 204 6967</Phone>
+    <Email>jgyves4f@springer.com</Email>
+  </student><student>
+    <CNE>1107</CNE>
+    <LastName>Blaine</LastName>
+    <FirstName>Lotta</FirstName>
+    <DateofBirth>15/09/2001</DateofBirth>
+    <Phone>803 347 2907</Phone>
+    <Email>ajaime4g@creativecommons.org</Email>
+  </student><student>
+    <CNE>1108</CNE>
+    <LastName>Crebbin</LastName>
+    <FirstName>Anet</FirstName>
+    <DateofBirth>25/09/1999</DateofBirth>
+    <Phone>160 966 0628</Phone>
+    <Email>bbrimfield4h@google.nl</Email>
+  </student><student>
+    <CNE>1109</CNE>
+    <LastName>O' Timony</LastName>
+    <FirstName>Ermengarde</FirstName>
+    <DateofBirth>30/06/1999</DateofBirth>
+    <Phone>884 795 3934</Phone>
+    <Email>eesland4i@chron.com</Email>
+  </student><student>
+    <CNE>1110</CNE>
+    <LastName>Prott</LastName>
+    <FirstName>Sly</FirstName>
+    <DateofBirth>05/05/2000</DateofBirth>
+    <Phone>341 987 4492</Phone>
+    <Email>cmephan4j@yolasite.com</Email>
+  </student><student>
+    <CNE>1111</CNE>
+    <LastName>Buyers</LastName>
+    <FirstName>Colet</FirstName>
+    <DateofBirth>18/08/2001</DateofBirth>
+    <Phone>697 387 8242</Phone>
+    <Email>cwesson4k@domainmarket.com</Email>
+  </student><student>
+    <CNE>1112</CNE>
+    <LastName>Jeandillou</LastName>
+    <FirstName>Herold</FirstName>
+    <DateofBirth>04/04/1999</DateofBirth>
+    <Phone>866 881 7119</Phone>
+    <Email>bdounbare4l@yellowbook.com</Email>
+  </student><student>
+    <CNE>1113</CNE>
+    <LastName>Eustice</LastName>
+    <FirstName>Tallie</FirstName>
+    <DateofBirth>08/02/2000</DateofBirth>
+    <Phone>869 210 2628</Phone>
+    <Email>mjessard4m@unblog.fr</Email>
+  </student><student>
+    <CNE>1114</CNE>
+    <LastName>Balden</LastName>
+    <FirstName>Hilary</FirstName>
+    <DateofBirth>09/08/2000</DateofBirth>
+    <Phone>572 133 0965</Phone>
+    <Email>lwetherald4n@taobao.com</Email>
+  </student></students>

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>779</CNE>
+    <LastName>Duplock</LastName>
+    <FirstName>Archer</FirstName>
+    <DateofBirth>17/12/1999</DateofBirth>
+    <Phone>943 759 6918</Phone>
+    <Email>dfairbairn20@gov.uk</Email>
+  </student><student>
+    <CNE>780</CNE>
+    <LastName>Castleton</LastName>
+    <FirstName>Brennen</FirstName>
+    <DateofBirth>10/06/1999</DateofBirth>
+    <Phone>715 652 7178</Phone>
+    <Email>dteasey21@usa.gov</Email>
+  </student><student>
+    <CNE>781</CNE>
+    <LastName>Pache</LastName>
+    <FirstName>Leone</FirstName>
+    <DateofBirth>19/02/1999</DateofBirth>
+    <Phone>709 613 5542</Phone>
+    <Email>mgoulborne22@webeden.co.uk</Email>
+  </student><student>
+    <CNE>782</CNE>
+    <LastName>Oldnall</LastName>
+    <FirstName>Panchito</FirstName>
+    <DateofBirth>09/05/1998</DateofBirth>
+    <Phone>779 338 0137</Phone>
+    <Email>vraggitt23@nhs.uk</Email>
+  </student><student>
+    <CNE>783</CNE>
+    <LastName>McGaffey</LastName>
+    <FirstName>Claudine</FirstName>
+    <DateofBirth>11/03/1999</DateofBirth>
+    <Phone>879 769 5059</Phone>
+    <Email>blantaph24@imgur.com</Email>
+  </student><student>
+    <CNE>784</CNE>
+    <LastName>Jeness</LastName>
+    <FirstName>Leighton</FirstName>
+    <DateofBirth>13/06/1999</DateofBirth>
+    <Phone>550 432 8767</Phone>
+    <Email>dveldstra25@technorati.com</Email>
+  </student><student>
+    <CNE>785</CNE>
+    <LastName>Shoebridge</LastName>
+    <FirstName>Raimundo</FirstName>
+    <DateofBirth>15/05/2000</DateofBirth>
+    <Phone>735 542 7402</Phone>
+    <Email>hhanson26@springer.com</Email>
+  </student><student>
+    <CNE>786</CNE>
+    <LastName>Matheson</LastName>
+    <FirstName>Aland</FirstName>
+    <DateofBirth>04/09/2000</DateofBirth>
+    <Phone>677 206 0477</Phone>
+    <Email>fsabban27@disqus.com</Email>
+  </student><student>
+    <CNE>787</CNE>
+    <LastName>Attwater</LastName>
+    <FirstName>Meridith</FirstName>
+    <DateofBirth>18/09/2000</DateofBirth>
+    <Phone>826 429 7425</Phone>
+    <Email>bheustice28@whitehouse.gov</Email>
+  </student><student>
+    <CNE>788</CNE>
+    <LastName>Heliar</LastName>
+    <FirstName>Raye</FirstName>
+    <DateofBirth>19/04/2000</DateofBirth>
+    <Phone>383 211 8123</Phone>
+    <Email>abilfoot29@t.co</Email>
+  </student><student>
+    <CNE>789</CNE>
+    <LastName>Stanistrete</LastName>
+    <FirstName>Freda</FirstName>
+    <DateofBirth>07/06/2000</DateofBirth>
+    <Phone>804 550 7439</Phone>
+    <Email>mstiffell2a@irs.gov</Email>
+  </student><student>
+    <CNE>790</CNE>
+    <LastName>Cumbers</LastName>
+    <FirstName>Burg</FirstName>
+    <DateofBirth>23/01/1999</DateofBirth>
+    <Phone>380 250 1878</Phone>
+    <Email>kgrundwater2b@jugem.jp</Email>
+  </student><student>
+    <CNE>791</CNE>
+    <LastName>Ferraraccio</LastName>
+    <FirstName>Catherine</FirstName>
+    <DateofBirth>08/12/1999</DateofBirth>
+    <Phone>728 711 6902</Phone>
+    <Email>mlownie2c@xinhuanet.com</Email>
+  </student><student>
+    <CNE>792</CNE>
+    <LastName>Chamberlayne</LastName>
+    <FirstName>Franklin</FirstName>
+    <DateofBirth>24/01/1998</DateofBirth>
+    <Phone>713 666 6005</Phone>
+    <Email>slaidler2d@mayoclinic.com</Email>
+  </student><student>
+    <CNE>793</CNE>
+    <LastName>Warrington</LastName>
+    <FirstName>Darren</FirstName>
+    <DateofBirth>02/03/1999</DateofBirth>
+    <Phone>174 883 2959</Phone>
+    <Email>sdowle2e@hibu.com</Email>
+  </student><student>
+    <CNE>794</CNE>
+    <LastName>Kruger</LastName>
+    <FirstName>Haydon</FirstName>
+    <DateofBirth>11/04/2000</DateofBirth>
+    <Phone>327 902 3992</Phone>
+    <Email>bnoulton2f@godaddy.com</Email>
+  </student><student>
+    <CNE>795</CNE>
+    <LastName>Austick</LastName>
+    <FirstName>Katlin</FirstName>
+    <DateofBirth>05/02/2000</DateofBirth>
+    <Phone>302 507 4698</Phone>
+    <Email>cshelton2g@alexa.com</Email>
+  </student><student>
+    <CNE>796</CNE>
+    <LastName>David</LastName>
+    <FirstName>Velvet</FirstName>
+    <DateofBirth>28/10/1999</DateofBirth>
+    <Phone>825 713 0056</Phone>
+    <Email>cjanks2h@blogspot.com</Email>
+  </student><student>
+    <CNE>797</CNE>
+    <LastName>Sorrel</LastName>
+    <FirstName>Chane</FirstName>
+    <DateofBirth>26/03/1998</DateofBirth>
+    <Phone>305 968 6125</Phone>
+    <Email>fburree2i@nymag.com</Email>
+  </student><student>
+    <CNE>798</CNE>
+    <LastName>Milby</LastName>
+    <FirstName>Meghann</FirstName>
+    <DateofBirth>06/08/2000</DateofBirth>
+    <Phone>701 342 7108</Phone>
+    <Email>jskippen2j@lulu.com</Email>
+  </student><student>
+    <CNE>799</CNE>
+    <LastName>Finlater</LastName>
+    <FirstName>Tawsha</FirstName>
+    <DateofBirth>20/03/1999</DateofBirth>
+    <Phone>212 776 2589</Phone>
+    <Email>ldericot2k@usnews.com</Email>
+  </student><student>
+    <CNE>800</CNE>
+    <LastName>McKean</LastName>
+    <FirstName>Edwin</FirstName>
+    <DateofBirth>13/10/1999</DateofBirth>
+    <Phone>412 556 3039</Phone>
+    <Email>kmcaughtrie2l@technorati.com</Email>
+  </student><student>
+    <CNE>801</CNE>
+    <LastName>Jeanel</LastName>
+    <FirstName>Ardath</FirstName>
+    <DateofBirth>09/08/1998</DateofBirth>
+    <Phone>917 391 9027</Phone>
+    <Email>kgrombridge2m@marketwatch.com</Email>
+  </student><student>
+    <CNE>802</CNE>
+    <LastName>Wedmore</LastName>
+    <FirstName>Slade</FirstName>
+    <DateofBirth>10/02/1998</DateofBirth>
+    <Phone>596 472 1427</Phone>
+    <Email>atallent2n@i2i.jp</Email>
+  </student></students>

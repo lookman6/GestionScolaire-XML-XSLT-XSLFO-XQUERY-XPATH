@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<emploidutemps>
+  <filiere>Génie Informatique 2</filiere>
+  <groupe>Toute la classe </groupe>
+  <semaine>48e Semaine </semaine>
+
+  <heures>
+    <heure debut="9h00-10h30">
+       <lundi >
+         <cours>
+            <type>CM</type>
+           <matiere>Maitrise et Optimisation</matiere>
+           <professeur>RAHALI EL AZOUZI</professeur>
+           <salle>B19</salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>CM</type>
+          <matiere>Optimisation et Qualité des Bases de Données</matiere>
+          <professeur>Fissoune</professeur>
+          <salle>B20</salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+          <type>CM</type>
+          <matiere>POO Java</matiere>
+          <professeur>Mohamed EL HADDAD</professeur>
+          <salle>B19</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type>Cours</type>
+          <matiere>Administration et Sécurité des Bases de Données</matiere>
+          <professeur>Hassan BADIR</professeur>
+          <salle>B14</salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type>CM</type>
+          <matiere>XML</matiere>
+          <professeur>Abdelmonaime LACHKAR</professeur>
+          <salle>B20</salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+      <heure debut="11h00-12h30">
+       <lundi >
+         <cours>
+         <type>CM</type>
+           <matiere>Maitrise et Optimisation</matiere>
+           <professeur>Rahali EL AZOUZI</professeur>
+           <salle>B19</salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>TD</type>
+          <matiere>Optimisation et Qualité Bases de Données</matiere>
+          <professeur>Fissoune</professeur>
+          <salle>B20</salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>CM</type>
+          <matiere>POO Java</matiere>
+          <professeur>Mohamed EL HADDAD</professeur>
+          <salle>B19</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type>TD</type>
+          <matiere>Administration et Sécurité Bases de Données</matiere>
+          <professeur>Hassan BADIR</professeur>
+          <salle>B19</salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type>TP</type>
+          <matiere>XML</matiere>
+          <professeur>Abdelmonaime LACHKAR</professeur>
+          <salle>B19</salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+      <heure debut="14h-15h30">
+       <lundi>
+         <cours>
+         <type>CM</type>
+           <matiere>Modelisation Orientée Objet</matiere>
+           <professeur>EL ALAMI</professeur>
+           <salle>SALLE B19</salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>TP</type>
+          <matiere>Administration Systeme</matiere>
+          <professeur>Amechnoue KHALID</professeur>
+          <salle>SALLE B20</salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>CM</type>
+          <matiere>Administration Systeme</matiere>
+          <professeur>Amechnoue KHALID</professeur>
+          <salle>SALLE B6</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type></type>
+          <matiere></matiere>
+          <professeur></professeur>
+          <salle></salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type>CM</type>
+          <matiere>Anglais</matiere>
+          <professeur>BOURIGUI</professeur>
+          <salle>AMPHI 1</salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+        <heure debut="16h00-17h30">
+       <lundi>
+         <cours>
+         <type>CM</type>
+           <matiere>Modelisation Orientée Objet</matiere>
+           <professeur>EL ALAMI</professeur>
+           <salle>Salle B19</salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>TP</type>
+          <matiere>Administrtion Systeme</matiere>
+          <professeur>Amechnoue KHALID</professeur>
+          <salle>SALLE B20</salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>CM</type>
+          <matiere>Espagnol</matiere>
+          <professeur>Latifa LAAMARTI</professeur>
+          <salle>SALLE A7</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type></type>
+          <matiere></matiere>
+          <professeur></professeur>
+          <salle></salle>
+         </cours>
+       </jeudi>     
+      <vendredi >
+         <cours>
+         <type>CM</type>
+          <matiere>Anglais</matiere>
+          <professeur>BOURIGUI</professeur>
+          <salle>AMPHI 1</salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+  </heures>
+</emploidutemps>

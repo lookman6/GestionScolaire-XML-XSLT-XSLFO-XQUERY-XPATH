@@ -1,0 +1,802 @@
+<?xml version="1.0"?>
+<notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/notes.xsd">
+  <note>
+    <CNE>1</CNE>
+    <LastName>Aurea</LastName>
+    <FirstName>Kleinber</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>2</CNE>
+    <LastName>Ber</LastName>
+    <FirstName>Langtree</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>3</CNE>
+    <LastName>Kelbee</LastName>
+    <FirstName>Hannant</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>4</CNE>
+    <LastName>Harriette</LastName>
+    <FirstName>Petraitis</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>5</CNE>
+    <LastName>Caroline</LastName>
+    <FirstName>Hutchcraft</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>6</CNE>
+    <LastName>Doralynn</LastName>
+    <FirstName>Woolhouse</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>7</CNE>
+    <LastName>Wheeler</LastName>
+    <FirstName>Catcheside</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>8</CNE>
+    <LastName>Bebe</LastName>
+    <FirstName>Spurr</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>9</CNE>
+    <LastName>Maribel</LastName>
+    <FirstName>Villalta</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>10</CNE>
+    <LastName>Caesar</LastName>
+    <FirstName>Alsina</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>11</CNE>
+    <LastName>Ninette</LastName>
+    <FirstName>Fussell</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>12</CNE>
+    <LastName>Lorain</LastName>
+    <FirstName>Lockart</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>13</CNE>
+    <LastName>Giffie</LastName>
+    <FirstName>Vardie</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>14</CNE>
+    <LastName>Jon</LastName>
+    <FirstName>Lawleff</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>15</CNE>
+    <LastName>Roarke</LastName>
+    <FirstName>Domerq</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>16</CNE>
+    <LastName>Brianna</LastName>
+    <FirstName>Santhouse</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>17</CNE>
+    <LastName>Juline</LastName>
+    <FirstName>Castiello</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>18</CNE>
+    <LastName>Rufus</LastName>
+    <FirstName>Ashbee</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>19</CNE>
+    <LastName>Konstanze</LastName>
+    <FirstName>Tattershall</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>20</CNE>
+    <LastName>Frasier</LastName>
+    <FirstName>Pinnion</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>21</CNE>
+    <LastName>Lorettalorna</LastName>
+    <FirstName>Garvey</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>22</CNE>
+    <LastName>Olin</LastName>
+    <FirstName>Addison</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>23</CNE>
+    <LastName>Kendall</LastName>
+    <FirstName>De Beneditti</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>24</CNE>
+    <LastName>Kimberley</LastName>
+    <FirstName>Toolin</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>25</CNE>
+    <LastName>Herve</LastName>
+    <FirstName>Larwell</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>26</CNE>
+    <LastName>Elvina</LastName>
+    <FirstName>Gini</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>27</CNE>
+    <LastName>Emili</LastName>
+    <FirstName>Girardetti</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>28</CNE>
+    <LastName>Ginnifer</LastName>
+    <FirstName>Lochhead</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>29</CNE>
+    <LastName>Zarla</LastName>
+    <FirstName>Sumpner</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>30</CNE>
+    <LastName>Diahann</LastName>
+    <FirstName>Esposi</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>31</CNE>
+    <LastName>Darill</LastName>
+    <FirstName>Hearnes</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>32</CNE>
+    <LastName>Milton</LastName>
+    <FirstName>Bloxsom</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>33</CNE>
+    <LastName>Nisse</LastName>
+    <FirstName>Darnbrook</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>34</CNE>
+    <LastName>Constantia</LastName>
+    <FirstName>Tomczykowski</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>35</CNE>
+    <LastName>Dolf</LastName>
+    <FirstName>Rau</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>36</CNE>
+    <LastName>Lynnea</LastName>
+    <FirstName>Valentelli</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>37</CNE>
+    <LastName>Townsend</LastName>
+    <FirstName>Maultby</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>38</CNE>
+    <LastName>Addy</LastName>
+    <FirstName>Shearmur</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>39</CNE>
+    <LastName>Benton</LastName>
+    <FirstName>Cast</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>40</CNE>
+    <LastName>Wolfy</LastName>
+    <FirstName>Vittel</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>41</CNE>
+    <LastName>Abraham</LastName>
+    <FirstName>Matuszynski</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>42</CNE>
+    <LastName>Tynan</LastName>
+    <FirstName>Ratcliffe</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>43</CNE>
+    <LastName>Basile</LastName>
+    <FirstName>Luppitt</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>44</CNE>
+    <LastName>Mae</LastName>
+    <FirstName>Rashleigh</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>45</CNE>
+    <LastName>Malia</LastName>
+    <FirstName>Barca</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>46</CNE>
+    <LastName>Brunhilda</LastName>
+    <FirstName>Salvadore</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+  <note>
+    <CNE>47</CNE>
+    <LastName>Muire</LastName>
+    <FirstName>Roelofs</FirstName>
+    <matiere codeMat="G3EI111">12</matiere>
+    <matiere codeMat="G3EI112">12</matiere>
+    <matiere codeMat="G3EI113">12</matiere>
+    <matiere codeMat="G3EI114">12</matiere>
+    <matiere codeMat="G3EI115">12</matiere>
+    <matiere codeMat="G3EI116">12</matiere>
+    <matiere codeMat="G3EI121">12</matiere>
+    <matiere codeMat="G3EI122">12</matiere>
+    <matiere codeMat="G3EI123">12</matiere>
+    <matiere codeMat="G3EI124">12</matiere>
+    <matiere codeMat="G3EI125">12</matiere>
+    <matiere codeMat="G3EI126">12</matiere>
+  </note>
+</notes>

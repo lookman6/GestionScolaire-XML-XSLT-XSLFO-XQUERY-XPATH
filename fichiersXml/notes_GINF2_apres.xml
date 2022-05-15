@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/notes.xsd">
+  <note>
+    <CNE>18008561</CNE>
+    <LastName>AGNAOU&#xA0;</LastName>
+    <FirstName>MOHAMED</FirstName>
+    <matiere codeMat="GINF31">11.67</matiere>
+    <matiere codeMat="GINF32">11.67</matiere>
+    <matiere codeMat="GINF33">11.67</matiere>
+    <matiere codeMat="GINF34">11.67</matiere>
+    <matiere codeMat="GINF35">11.67</matiere>
+    <matiere codeMat="GINF36">11.67</matiere>
+    <matiere codeMat="GINF41">11.67</matiere>
+    <matiere codeMat="GINF42">11.67</matiere>
+    <matiere codeMat="GINF43">11.67</matiere>
+    <matiere codeMat="GINF44">11.67</matiere>
+    <matiere codeMat="GINF45">11.67</matiere>
+    <matiere codeMat="GINF46">11.67</matiere>
+  </note>
+  <note>
+    <CNE>20007924</CNE>
+    <LastName>AL ACHKAR&#xA0;</LastName>
+    <FirstName>BADR</FirstName>
+    <matiere codeMat="GINF31">20</matiere>
+    <matiere codeMat="GINF32">20</matiere>
+    <matiere codeMat="GINF33">20</matiere>
+    <matiere codeMat="GINF34">20</matiere>
+    <matiere codeMat="GINF35">20</matiere>
+    <matiere codeMat="GINF36">20</matiere>
+    <matiere codeMat="GINF41">20</matiere>
+    <matiere codeMat="GINF42">20</matiere>
+    <matiere codeMat="GINF43">20</matiere>
+    <matiere codeMat="GINF44">20</matiere>
+    <matiere codeMat="GINF45">20</matiere>
+    <matiere codeMat="GINF46">20</matiere>
+  </note>
+  <note>
+    <CNE>18002613</CNE>
+    <LastName>AMARA&#xA0;</LastName>
+    <FirstName>ASMAE</FirstName>
+    <matiere codeMat="GINF31">8.33</matiere>
+    <matiere codeMat="GINF32">8.33</matiere>
+    <matiere codeMat="GINF33">8.33</matiere>
+    <matiere codeMat="GINF34">8.33</matiere>
+    <matiere codeMat="GINF35">8.33</matiere>
+    <matiere codeMat="GINF36">8.33</matiere>
+    <matiere codeMat="GINF41">8.33</matiere>
+    <matiere codeMat="GINF42">8.33</matiere>
+    <matiere codeMat="GINF43">8.33</matiere>
+    <matiere codeMat="GINF44">8.33</matiere>
+    <matiere codeMat="GINF45">8.33</matiere>
+    <matiere codeMat="GINF46">8.33</matiere>
+  </note>
+  <note>
+    <CNE>18008851</CNE>
+    <LastName>AOUAD&#xA0;</LastName>
+    <FirstName>SAMI</FirstName>
+    <matiere codeMat="GINF31">19.17</matiere>
+    <matiere codeMat="GINF32">19.17</matiere>
+    <matiere codeMat="GINF33">19.17</matiere>
+    <matiere codeMat="GINF34">19.17</matiere>
+    <matiere codeMat="GINF35">19.17</matiere>
+    <matiere codeMat="GINF36">19.17</matiere>
+    <matiere codeMat="GINF41">19.17</matiere>
+    <matiere codeMat="GINF42">19.17</matiere>
+    <matiere codeMat="GINF43">19.17</matiere>
+    <matiere codeMat="GINF44">19.17</matiere>
+    <matiere codeMat="GINF45">19.17</matiere>
+    <matiere codeMat="GINF46">19.17</matiere>
+  </note>
+  <note>
+    <CNE>18008461</CNE>
+    <LastName>BAHID&#xA0;</LastName>
+    <FirstName>RIHAB</FirstName>
+    <matiere codeMat="GINF31">10</matiere>
+    <matiere codeMat="GINF32">10</matiere>
+    <matiere codeMat="GINF33">10</matiere>
+    <matiere codeMat="GINF34">10</matiere>
+    <matiere codeMat="GINF35">10</matiere>
+    <matiere codeMat="GINF36">10</matiere>
+    <matiere codeMat="GINF41">10</matiere>
+    <matiere codeMat="GINF42">10</matiere>
+    <matiere codeMat="GINF43">10</matiere>
+    <matiere codeMat="GINF44">10</matiere>
+    <matiere codeMat="GINF45">10</matiere>
+    <matiere codeMat="GINF46">10</matiere>
+  </note>
+  <note>
+    <CNE>18012385</CNE>
+    <LastName>BARRO&#xA0;</LastName>
+    <FirstName>CHEICKNA</FirstName>
+    <matiere codeMat="GINF31">11.67</matiere>
+    <matiere codeMat="GINF32">11.67</matiere>
+    <matiere codeMat="GINF33">11.67</matiere>
+    <matiere codeMat="GINF34">11.67</matiere>
+    <matiere codeMat="GINF35">11.67</matiere>
+    <matiere codeMat="GINF36">11.67</matiere>
+    <matiere codeMat="GINF41">11.67</matiere>
+    <matiere codeMat="GINF42">11.67</matiere>
+    <matiere codeMat="GINF43">11.67</matiere>
+    <matiere codeMat="GINF44">11.67</matiere>
+    <matiere codeMat="GINF45">11.67</matiere>
+    <matiere codeMat="GINF46">11.67</matiere>
+  </note>
+  <note>
+    <CNE>18008645</CNE>
+    <LastName>BENKHANOUS&#xA0;</LastName>
+    <FirstName>SALAHEDDINE</FirstName>
+    <matiere codeMat="GINF31">5</matiere>
+    <matiere codeMat="GINF32">5</matiere>
+    <matiere codeMat="GINF33">5</matiere>
+    <matiere codeMat="GINF34">5</matiere>
+    <matiere codeMat="GINF35">5</matiere>
+    <matiere codeMat="GINF36">5</matiere>
+    <matiere codeMat="GINF41">5</matiere>
+    <matiere codeMat="GINF42">5</matiere>
+    <matiere codeMat="GINF43">5</matiere>
+    <matiere codeMat="GINF44">5</matiere>
+    <matiere codeMat="GINF45">5</matiere>
+    <matiere codeMat="GINF46">5</matiere>
+  </note>
+  <note>
+    <CNE>18008723</CNE>
+    <LastName>BENTALEB&#xA0;</LastName>
+    <FirstName>CHAYMAE</FirstName>
+    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF32">15</matiere>
+    <matiere codeMat="GINF33">15</matiere>
+    <matiere codeMat="GINF34">15</matiere>
+    <matiere codeMat="GINF35">15</matiere>
+    <matiere codeMat="GINF36">15</matiere>
+    <matiere codeMat="GINF41">15</matiere>
+    <matiere codeMat="GINF42">15</matiere>
+    <matiere codeMat="GINF43">15</matiere>
+    <matiere codeMat="GINF44">15</matiere>
+    <matiere codeMat="GINF45">15</matiere>
+    <matiere codeMat="GINF46">15</matiere>
+  </note>
+  <note>
+    <CNE>18008713</CNE>
+    <LastName>BOUGUEDDACH&#xA0;</LastName>
+    <FirstName>MOHAMED OUSSAMA</FirstName>
+    <matiere codeMat="GINF31">13.33</matiere>
+    <matiere codeMat="GINF32">13.33</matiere>
+    <matiere codeMat="GINF33">13.33</matiere>
+    <matiere codeMat="GINF34">13.33</matiere>
+    <matiere codeMat="GINF35">13.33</matiere>
+    <matiere codeMat="GINF36">13.33</matiere>
+    <matiere codeMat="GINF41">13.33</matiere>
+    <matiere codeMat="GINF42">13.33</matiere>
+    <matiere codeMat="GINF43">13.33</matiere>
+    <matiere codeMat="GINF44">13.33</matiere>
+    <matiere codeMat="GINF45">13.33</matiere>
+    <matiere codeMat="GINF46">13.33</matiere>
+  </note>
+  <note>
+    <CNE>18008663</CNE>
+    <LastName>BOUHCAIN&#xA0;</LastName>
+    <FirstName>ALI</FirstName>
+    <matiere codeMat="GINF31">15.83</matiere>
+    <matiere codeMat="GINF32">15.83</matiere>
+    <matiere codeMat="GINF33">15.83</matiere>
+    <matiere codeMat="GINF34">15.83</matiere>
+    <matiere codeMat="GINF35">15.83</matiere>
+    <matiere codeMat="GINF36">15.83</matiere>
+    <matiere codeMat="GINF41">15.83</matiere>
+    <matiere codeMat="GINF42">15.83</matiere>
+    <matiere codeMat="GINF43">15.83</matiere>
+    <matiere codeMat="GINF44">15.83</matiere>
+    <matiere codeMat="GINF45">15.83</matiere>
+    <matiere codeMat="GINF46">15.83</matiere>
+  </note>
+  <note>
+    <CNE>18008572</CNE>
+    <LastName>BOUKHALLAD&#xA0;</LastName>
+    <FirstName>AISSAME</FirstName>
+    <matiere codeMat="GINF31">11.25</matiere>
+    <matiere codeMat="GINF32">11.25</matiere>
+    <matiere codeMat="GINF33">11.25</matiere>
+    <matiere codeMat="GINF34">11.25</matiere>
+    <matiere codeMat="GINF35">11.25</matiere>
+    <matiere codeMat="GINF36">11.25</matiere>
+    <matiere codeMat="GINF41">11.25</matiere>
+    <matiere codeMat="GINF42">11.25</matiere>
+    <matiere codeMat="GINF43">11.25</matiere>
+    <matiere codeMat="GINF44">11.25</matiere>
+    <matiere codeMat="GINF45">11.25</matiere>
+    <matiere codeMat="GINF46">11.25</matiere>
+  </note>
+  <note>
+    <CNE>17003887</CNE>
+    <LastName>CHIHAL&#xA0;</LastName>
+    <FirstName>AYA</FirstName>
+    <matiere codeMat="GINF31">8.33</matiere>
+    <matiere codeMat="GINF32">8.33</matiere>
+    <matiere codeMat="GINF33">8.33</matiere>
+    <matiere codeMat="GINF34">8.33</matiere>
+    <matiere codeMat="GINF35">8.33</matiere>
+    <matiere codeMat="GINF36">8.33</matiere>
+    <matiere codeMat="GINF41">8.33</matiere>
+    <matiere codeMat="GINF42">8.33</matiere>
+    <matiere codeMat="GINF43">8.33</matiere>
+    <matiere codeMat="GINF44">8.33</matiere>
+    <matiere codeMat="GINF45">8.33</matiere>
+    <matiere codeMat="GINF46">8.33</matiere>
+  </note>
+  <note>
+    <CNE>18008535</CNE>
+    <LastName>DABDOUBI&#xA0;</LastName>
+    <FirstName>AYMANE&#xA0;</FirstName>
+    <matiere codeMat="GINF31">10.83</matiere>
+    <matiere codeMat="GINF32">10.83</matiere>
+    <matiere codeMat="GINF33">10.83</matiere>
+    <matiere codeMat="GINF34">10.83</matiere>
+    <matiere codeMat="GINF35">10.83</matiere>
+    <matiere codeMat="GINF36">10.83</matiere>
+    <matiere codeMat="GINF41">10.83</matiere>
+    <matiere codeMat="GINF42">10.83</matiere>
+    <matiere codeMat="GINF43">10.83</matiere>
+    <matiere codeMat="GINF44">10.83</matiere>
+    <matiere codeMat="GINF45">10.83</matiere>
+    <matiere codeMat="GINF46">10.83</matiere>
+  </note>
+  <note>
+    <CNE>18010230</CNE>
+    <LastName>DKHISSI&#xA0;</LastName>
+    <FirstName>AYOUB</FirstName>
+    <matiere codeMat="GINF31">ABS</matiere>
+    <matiere codeMat="GINF32">ABS</matiere>
+    <matiere codeMat="GINF33">ABS</matiere>
+    <matiere codeMat="GINF34">ABS</matiere>
+    <matiere codeMat="GINF35">ABS</matiere>
+    <matiere codeMat="GINF36">ABS</matiere>
+    <matiere codeMat="GINF41">ABS</matiere>
+    <matiere codeMat="GINF42">ABS</matiere>
+    <matiere codeMat="GINF43">ABS</matiere>
+    <matiere codeMat="GINF44">ABS</matiere>
+    <matiere codeMat="GINF45">ABS</matiere>
+    <matiere codeMat="GINF46">ABS</matiere>
+  </note>
+  <note>
+    <CNE>18008842</CNE>
+    <LastName>AMARA&#xA0;</LastName>
+    <FirstName>ASMAE</FirstName>
+    <matiere codeMat="GINF31">12.92</matiere>
+    <matiere codeMat="GINF32">12.92</matiere>
+    <matiere codeMat="GINF33">12.92</matiere>
+    <matiere codeMat="GINF34">12.92</matiere>
+    <matiere codeMat="GINF35">12.92</matiere>
+    <matiere codeMat="GINF36">12.92</matiere>
+    <matiere codeMat="GINF41">12.92</matiere>
+    <matiere codeMat="GINF42">12.92</matiere>
+    <matiere codeMat="GINF43">12.92</matiere>
+    <matiere codeMat="GINF44">12.92</matiere>
+    <matiere codeMat="GINF45">12.92</matiere>
+    <matiere codeMat="GINF46">12.92</matiere>
+  </note>
+  <note>
+    <CNE>18008829</CNE>
+    <LastName>AOUAD&#xA0;</LastName>
+    <FirstName>SAMI</FirstName>
+    <matiere codeMat="GINF31">16.67</matiere>
+    <matiere codeMat="GINF32">16.67</matiere>
+    <matiere codeMat="GINF33">16.67</matiere>
+    <matiere codeMat="GINF34">16.67</matiere>
+    <matiere codeMat="GINF35">16.67</matiere>
+    <matiere codeMat="GINF36">16.67</matiere>
+    <matiere codeMat="GINF41">16.67</matiere>
+    <matiere codeMat="GINF42">16.67</matiere>
+    <matiere codeMat="GINF43">16.67</matiere>
+    <matiere codeMat="GINF44">16.67</matiere>
+    <matiere codeMat="GINF45">16.67</matiere>
+    <matiere codeMat="GINF46">16.67</matiere>
+  </note>
+  <note>
+    <CNE>17004775</CNE>
+    <LastName>BAHID&#xA0;</LastName>
+    <FirstName>RIHAB</FirstName>
+    <matiere codeMat="GINF31">13.75</matiere>
+    <matiere codeMat="GINF32">13.75</matiere>
+    <matiere codeMat="GINF33">13.75</matiere>
+    <matiere codeMat="GINF34">13.75</matiere>
+    <matiere codeMat="GINF35">13.75</matiere>
+    <matiere codeMat="GINF36">13.75</matiere>
+    <matiere codeMat="GINF41">13.75</matiere>
+    <matiere codeMat="GINF42">13.75</matiere>
+    <matiere codeMat="GINF43">13.75</matiere>
+    <matiere codeMat="GINF44">13.75</matiere>
+    <matiere codeMat="GINF45">13.75</matiere>
+    <matiere codeMat="GINF46">13.75</matiere>
+  </note>
+  <note>
+    <CNE>18008745</CNE>
+    <LastName>BARRO&#xA0;</LastName>
+    <FirstName>CHEICKNA</FirstName>
+    <matiere codeMat="GINF31">18.75</matiere>
+    <matiere codeMat="GINF32">18.75</matiere>
+    <matiere codeMat="GINF33">18.75</matiere>
+    <matiere codeMat="GINF34">18.75</matiere>
+    <matiere codeMat="GINF35">18.75</matiere>
+    <matiere codeMat="GINF36">18.75</matiere>
+    <matiere codeMat="GINF41">18.75</matiere>
+    <matiere codeMat="GINF42">18.75</matiere>
+    <matiere codeMat="GINF43">18.75</matiere>
+    <matiere codeMat="GINF44">18.75</matiere>
+    <matiere codeMat="GINF45">18.75</matiere>
+    <matiere codeMat="GINF46">18.75</matiere>
+  </note>
+  <note>
+    <CNE>16010196</CNE>
+    <LastName>BEN TARKI&#xA0;</LastName>
+    <FirstName>NOUHAILA</FirstName>
+    <matiere codeMat="GINF31">5</matiere>
+    <matiere codeMat="GINF32">5</matiere>
+    <matiere codeMat="GINF33">5</matiere>
+    <matiere codeMat="GINF34">5</matiere>
+    <matiere codeMat="GINF35">5</matiere>
+    <matiere codeMat="GINF36">5</matiere>
+    <matiere codeMat="GINF41">5</matiere>
+    <matiere codeMat="GINF42">5</matiere>
+    <matiere codeMat="GINF43">5</matiere>
+    <matiere codeMat="GINF44">5</matiere>
+    <matiere codeMat="GINF45">5</matiere>
+    <matiere codeMat="GINF46">5</matiere>
+  </note>
+  <note>
+    <CNE>17005920</CNE>
+    <LastName>BENKHANOUS&#xA0;</LastName>
+    <FirstName>SALAHEDDINE</FirstName>
+    <matiere codeMat="GINF31">15.42</matiere>
+    <matiere codeMat="GINF32">15.42</matiere>
+    <matiere codeMat="GINF33">15.42</matiere>
+    <matiere codeMat="GINF34">15.42</matiere>
+    <matiere codeMat="GINF35">15.42</matiere>
+    <matiere codeMat="GINF36">15.42</matiere>
+    <matiere codeMat="GINF41">15.42</matiere>
+    <matiere codeMat="GINF42">15.42</matiere>
+    <matiere codeMat="GINF43">15.42</matiere>
+    <matiere codeMat="GINF44">15.42</matiere>
+    <matiere codeMat="GINF45">15.42</matiere>
+    <matiere codeMat="GINF46">15.42</matiere>
+  </note>
+  <note>
+    <CNE>18008470</CNE>
+    <LastName>BENTALEB&#xA0;</LastName>
+    <FirstName>CHAYMAE</FirstName>
+    <matiere codeMat="GINF31">18.33</matiere>
+    <matiere codeMat="GINF32">18.33</matiere>
+    <matiere codeMat="GINF33">18.33</matiere>
+    <matiere codeMat="GINF34">18.33</matiere>
+    <matiere codeMat="GINF35">18.33</matiere>
+    <matiere codeMat="GINF36">18.33</matiere>
+    <matiere codeMat="GINF41">18.33</matiere>
+    <matiere codeMat="GINF42">18.33</matiere>
+    <matiere codeMat="GINF43">18.33</matiere>
+    <matiere codeMat="GINF44">18.33</matiere>
+    <matiere codeMat="GINF45">18.33</matiere>
+    <matiere codeMat="GINF46">18.33</matiere>
+  </note>
+  <note>
+    <CNE>18008836</CNE>
+    <LastName>EL MOUTTAKI&#xA0;</LastName>
+    <FirstName>ADNAN</FirstName>
+    <matiere codeMat="GINF31">15.83</matiere>
+    <matiere codeMat="GINF32">15.83</matiere>
+    <matiere codeMat="GINF33">15.83</matiere>
+    <matiere codeMat="GINF34">15.83</matiere>
+    <matiere codeMat="GINF35">15.83</matiere>
+    <matiere codeMat="GINF36">15.83</matiere>
+    <matiere codeMat="GINF41">15.83</matiere>
+    <matiere codeMat="GINF42">15.83</matiere>
+    <matiere codeMat="GINF43">15.83</matiere>
+    <matiere codeMat="GINF44">15.83</matiere>
+    <matiere codeMat="GINF45">15.83</matiere>
+    <matiere codeMat="GINF46">15.83</matiere>
+  </note>
+  <note>
+    <CNE>18008738</CNE>
+    <LastName>EN-NABOUCH&#xA0;</LastName>
+    <FirstName>MOHAMED</FirstName>
+    <matiere codeMat="GINF31">7.5</matiere>
+    <matiere codeMat="GINF32">7.5</matiere>
+    <matiere codeMat="GINF33">7.5</matiere>
+    <matiere codeMat="GINF34">7.5</matiere>
+    <matiere codeMat="GINF35">7.5</matiere>
+    <matiere codeMat="GINF36">7.5</matiere>
+    <matiere codeMat="GINF41">7.5</matiere>
+    <matiere codeMat="GINF42">7.5</matiere>
+    <matiere codeMat="GINF43">7.5</matiere>
+    <matiere codeMat="GINF44">7.5</matiere>
+    <matiere codeMat="GINF45">7.5</matiere>
+    <matiere codeMat="GINF46">7.5</matiere>
+  </note>
+  <note>
+    <CNE>18008643</CNE>
+    <LastName>EN-NIARI&#xA0;</LastName>
+    <FirstName>AMR</FirstName>
+    <matiere codeMat="GINF31">12.08</matiere>
+    <matiere codeMat="GINF32">12.08</matiere>
+    <matiere codeMat="GINF33">12.08</matiere>
+    <matiere codeMat="GINF34">12.08</matiere>
+    <matiere codeMat="GINF35">12.08</matiere>
+    <matiere codeMat="GINF36">12.08</matiere>
+    <matiere codeMat="GINF41">12.08</matiere>
+    <matiere codeMat="GINF42">12.08</matiere>
+    <matiere codeMat="GINF43">12.08</matiere>
+    <matiere codeMat="GINF44">12.08</matiere>
+    <matiere codeMat="GINF45">12.08</matiere>
+    <matiere codeMat="GINF46">12.08</matiere>
+  </note>
+  <note>
+    <CNE>18008342</CNE>
+    <LastName>ES-SAHRI&#xA0;</LastName>
+    <FirstName>RAJA</FirstName>
+    <matiere codeMat="GINF31">10.83</matiere>
+    <matiere codeMat="GINF32">10.83</matiere>
+    <matiere codeMat="GINF33">10.83</matiere>
+    <matiere codeMat="GINF34">10.83</matiere>
+    <matiere codeMat="GINF35">10.83</matiere>
+    <matiere codeMat="GINF36">10.83</matiere>
+    <matiere codeMat="GINF41">10.83</matiere>
+    <matiere codeMat="GINF42">10.83</matiere>
+    <matiere codeMat="GINF43">10.83</matiere>
+    <matiere codeMat="GINF44">10.83</matiere>
+    <matiere codeMat="GINF45">10.83</matiere>
+    <matiere codeMat="GINF46">10.83</matiere>
+  </note>
+  <note>
+    <CNE>18008584</CNE>
+    <LastName>FARES&#xA0;</LastName>
+    <FirstName>AKRAM</FirstName>
+    <matiere codeMat="GINF31">7.92</matiere>
+    <matiere codeMat="GINF32">7.92</matiere>
+    <matiere codeMat="GINF33">7.92</matiere>
+    <matiere codeMat="GINF34">7.92</matiere>
+    <matiere codeMat="GINF35">7.92</matiere>
+    <matiere codeMat="GINF36">7.92</matiere>
+    <matiere codeMat="GINF41">7.92</matiere>
+    <matiere codeMat="GINF42">7.92</matiere>
+    <matiere codeMat="GINF43">7.92</matiere>
+    <matiere codeMat="GINF44">7.92</matiere>
+    <matiere codeMat="GINF45">7.92</matiere>
+    <matiere codeMat="GINF46">7.92</matiere>
+  </note>
+  <note>
+    <CNE>18007108</CNE>
+    <LastName>GHAZI&#xA0;</LastName>
+    <FirstName>CHAIMAE</FirstName>
+    <matiere codeMat="GINF31">16.67</matiere>
+    <matiere codeMat="GINF32">16.67</matiere>
+    <matiere codeMat="GINF33">16.67</matiere>
+    <matiere codeMat="GINF34">16.67</matiere>
+    <matiere codeMat="GINF35">16.67</matiere>
+    <matiere codeMat="GINF36">16.67</matiere>
+    <matiere codeMat="GINF41">16.67</matiere>
+    <matiere codeMat="GINF42">16.67</matiere>
+    <matiere codeMat="GINF43">16.67</matiere>
+    <matiere codeMat="GINF44">16.67</matiere>
+    <matiere codeMat="GINF45">16.67</matiere>
+    <matiere codeMat="GINF46">16.67</matiere>
+  </note>
+  <note>
+    <CNE>18008695</CNE>
+    <LastName>HAKMAOUI&#xA0;</LastName>
+    <FirstName>MOHAMED</FirstName>
+    <matiere codeMat="GINF31">12.08</matiere>
+    <matiere codeMat="GINF32">12.08</matiere>
+    <matiere codeMat="GINF33">12.08</matiere>
+    <matiere codeMat="GINF34">12.08</matiere>
+    <matiere codeMat="GINF35">12.08</matiere>
+    <matiere codeMat="GINF36">12.08</matiere>
+    <matiere codeMat="GINF41">12.08</matiere>
+    <matiere codeMat="GINF42">12.08</matiere>
+    <matiere codeMat="GINF43">12.08</matiere>
+    <matiere codeMat="GINF44">12.08</matiere>
+    <matiere codeMat="GINF45">12.08</matiere>
+    <matiere codeMat="GINF46">12.08</matiere>
+  </note>
+  <note>
+    <CNE>18006877</CNE>
+    <LastName>HASSISS&#xA0;</LastName>
+    <FirstName>YOUSSEF</FirstName>
+    <matiere codeMat="GINF31">11.67</matiere>
+    <matiere codeMat="GINF32">11.67</matiere>
+    <matiere codeMat="GINF33">11.67</matiere>
+    <matiere codeMat="GINF34">11.67</matiere>
+    <matiere codeMat="GINF35">11.67</matiere>
+    <matiere codeMat="GINF36">11.67</matiere>
+    <matiere codeMat="GINF41">11.67</matiere>
+    <matiere codeMat="GINF42">11.67</matiere>
+    <matiere codeMat="GINF43">11.67</matiere>
+    <matiere codeMat="GINF44">11.67</matiere>
+    <matiere codeMat="GINF45">11.67</matiere>
+    <matiere codeMat="GINF46">11.67</matiere>
+  </note>
+  <note>
+    <CNE>18008841</CNE>
+    <LastName>HSSASSA&#xA0;</LastName>
+    <FirstName>NAILA</FirstName>
+    <matiere codeMat="GINF31">12.92</matiere>
+    <matiere codeMat="GINF32">12.92</matiere>
+    <matiere codeMat="GINF33">12.92</matiere>
+    <matiere codeMat="GINF34">12.92</matiere>
+    <matiere codeMat="GINF35">12.92</matiere>
+    <matiere codeMat="GINF36">12.92</matiere>
+    <matiere codeMat="GINF41">12.92</matiere>
+    <matiere codeMat="GINF42">12.92</matiere>
+    <matiere codeMat="GINF43">12.92</matiere>
+    <matiere codeMat="GINF44">12.92</matiere>
+    <matiere codeMat="GINF45">12.92</matiere>
+    <matiere codeMat="GINF46">12.92</matiere>
+  </note>
+  <note>
+    <CNE>18008580</CNE>
+    <LastName>KAMOUN&#xA0;</LastName>
+    <FirstName>AMINE</FirstName>
+    <matiere codeMat="GINF31">14.17</matiere>
+    <matiere codeMat="GINF32">14.17</matiere>
+    <matiere codeMat="GINF33">14.17</matiere>
+    <matiere codeMat="GINF34">14.17</matiere>
+    <matiere codeMat="GINF35">14.17</matiere>
+    <matiere codeMat="GINF36">14.17</matiere>
+    <matiere codeMat="GINF41">14.17</matiere>
+    <matiere codeMat="GINF42">14.17</matiere>
+    <matiere codeMat="GINF43">14.17</matiere>
+    <matiere codeMat="GINF44">14.17</matiere>
+    <matiere codeMat="GINF45">14.17</matiere>
+    <matiere codeMat="GINF46">14.17</matiere>
+  </note>
+  <note>
+    <CNE>18010862</CNE>
+    <LastName>KASSRIOUI&#xA0;</LastName>
+    <FirstName>ABOUBAKR</FirstName>
+    <matiere codeMat="GINF31">9.58</matiere>
+    <matiere codeMat="GINF32">9.58</matiere>
+    <matiere codeMat="GINF33">9.58</matiere>
+    <matiere codeMat="GINF34">9.58</matiere>
+    <matiere codeMat="GINF35">9.58</matiere>
+    <matiere codeMat="GINF36">9.58</matiere>
+    <matiere codeMat="GINF41">9.58</matiere>
+    <matiere codeMat="GINF42">9.58</matiere>
+    <matiere codeMat="GINF43">9.58</matiere>
+    <matiere codeMat="GINF44">9.58</matiere>
+    <matiere codeMat="GINF45">9.58</matiere>
+    <matiere codeMat="GINF46">9.58</matiere>
+  </note>
+  <note>
+    <CNE>18008346</CNE>
+    <LastName>KHARCHICH&#xA0;</LastName>
+    <FirstName>MOUAAD</FirstName>
+    <matiere codeMat="GINF31">16.67</matiere>
+    <matiere codeMat="GINF32">16.67</matiere>
+    <matiere codeMat="GINF33">16.67</matiere>
+    <matiere codeMat="GINF34">16.67</matiere>
+    <matiere codeMat="GINF35">16.67</matiere>
+    <matiere codeMat="GINF36">16.67</matiere>
+    <matiere codeMat="GINF41">16.67</matiere>
+    <matiere codeMat="GINF42">16.67</matiere>
+    <matiere codeMat="GINF43">16.67</matiere>
+    <matiere codeMat="GINF44">16.67</matiere>
+    <matiere codeMat="GINF45">16.67</matiere>
+    <matiere codeMat="GINF46">16.67</matiere>
+  </note>
+  <note>
+    <CNE>18008476</CNE>
+    <LastName>KHETTAB&#xA0;</LastName>
+    <FirstName>ZIYAD</FirstName>
+    <matiere codeMat="GINF31">14.17</matiere>
+    <matiere codeMat="GINF32">14.17</matiere>
+    <matiere codeMat="GINF33">14.17</matiere>
+    <matiere codeMat="GINF34">14.17</matiere>
+    <matiere codeMat="GINF35">14.17</matiere>
+    <matiere codeMat="GINF36">14.17</matiere>
+    <matiere codeMat="GINF41">14.17</matiere>
+    <matiere codeMat="GINF42">14.17</matiere>
+    <matiere codeMat="GINF43">14.17</matiere>
+    <matiere codeMat="GINF44">14.17</matiere>
+    <matiere codeMat="GINF45">14.17</matiere>
+    <matiere codeMat="GINF46">14.17</matiere>
+  </note>
+  <note>
+    <CNE>18008801</CNE>
+    <LastName>KSSIRI&#xA0;</LastName>
+    <FirstName>MOHAMED AKRAM</FirstName>
+    <matiere codeMat="GINF31">17.5</matiere>
+    <matiere codeMat="GINF32">17.5</matiere>
+    <matiere codeMat="GINF33">17.5</matiere>
+    <matiere codeMat="GINF34">17.5</matiere>
+    <matiere codeMat="GINF35">17.5</matiere>
+    <matiere codeMat="GINF36">17.5</matiere>
+    <matiere codeMat="GINF41">17.5</matiere>
+    <matiere codeMat="GINF42">17.5</matiere>
+    <matiere codeMat="GINF43">17.5</matiere>
+    <matiere codeMat="GINF44">17.5</matiere>
+    <matiere codeMat="GINF45">17.5</matiere>
+    <matiere codeMat="GINF46">17.5</matiere>
+  </note>
+  <note>
+    <CNE>17010885</CNE>
+    <LastName>MAIROU&#xA0;</LastName>
+    <FirstName>HAOUA AMAMATOU OUMAR&#xA0;</FirstName>
+    <matiere codeMat="GINF31">10</matiere>
+    <matiere codeMat="GINF32">10</matiere>
+    <matiere codeMat="GINF33">10</matiere>
+    <matiere codeMat="GINF34">10</matiere>
+    <matiere codeMat="GINF35">10</matiere>
+    <matiere codeMat="GINF36">10</matiere>
+    <matiere codeMat="GINF41">10</matiere>
+    <matiere codeMat="GINF42">10</matiere>
+    <matiere codeMat="GINF43">10</matiere>
+    <matiere codeMat="GINF44">10</matiere>
+    <matiere codeMat="GINF45">10</matiere>
+    <matiere codeMat="GINF46">10</matiere>
+  </note>
+  <note>
+    <CNE>18006873</CNE>
+    <LastName>MALLOUK&#xA0;</LastName>
+    <FirstName>AMINA</FirstName>
+    <matiere codeMat="GINF31">6.67</matiere>
+    <matiere codeMat="GINF32">6.67</matiere>
+    <matiere codeMat="GINF33">6.67</matiere>
+    <matiere codeMat="GINF34">6.67</matiere>
+    <matiere codeMat="GINF35">6.67</matiere>
+    <matiere codeMat="GINF36">6.67</matiere>
+    <matiere codeMat="GINF41">6.67</matiere>
+    <matiere codeMat="GINF42">6.67</matiere>
+    <matiere codeMat="GINF43">6.67</matiere>
+    <matiere codeMat="GINF44">6.67</matiere>
+    <matiere codeMat="GINF45">6.67</matiere>
+    <matiere codeMat="GINF46">6.67</matiere>
+  </note>
+  <note>
+    <CNE>18008434</CNE>
+    <LastName>MERROUN&#xA0;</LastName>
+    <FirstName>HANANE</FirstName>
+    <matiere codeMat="GINF31">10.42</matiere>
+    <matiere codeMat="GINF32">10.42</matiere>
+    <matiere codeMat="GINF33">10.42</matiere>
+    <matiere codeMat="GINF34">10.42</matiere>
+    <matiere codeMat="GINF35">10.42</matiere>
+    <matiere codeMat="GINF36">10.42</matiere>
+    <matiere codeMat="GINF41">10.42</matiere>
+    <matiere codeMat="GINF42">10.42</matiere>
+    <matiere codeMat="GINF43">10.42</matiere>
+    <matiere codeMat="GINF44">10.42</matiere>
+    <matiere codeMat="GINF45">10.42</matiere>
+    <matiere codeMat="GINF46">10.42</matiere>
+  </note>
+  <note>
+    <CNE>18013745</CNE>
+    <LastName>NGOSSANGA&#xA0;</LastName>
+    <FirstName>BLEK GEDEON</FirstName>
+    <matiere codeMat="GINF31">14.58</matiere>
+    <matiere codeMat="GINF32">14.58</matiere>
+    <matiere codeMat="GINF33">14.58</matiere>
+    <matiere codeMat="GINF34">14.58</matiere>
+    <matiere codeMat="GINF35">14.58</matiere>
+    <matiere codeMat="GINF36">14.58</matiere>
+    <matiere codeMat="GINF41">14.58</matiere>
+    <matiere codeMat="GINF42">14.58</matiere>
+    <matiere codeMat="GINF43">14.58</matiere>
+    <matiere codeMat="GINF44">14.58</matiere>
+    <matiere codeMat="GINF45">14.58</matiere>
+    <matiere codeMat="GINF46">14.58</matiere>
+  </note>
+  <note>
+    <CNE>18008793</CNE>
+    <LastName>OMARI&#xA0;</LastName>
+    <FirstName>WALID</FirstName>
+    <matiere codeMat="GINF31">9.58</matiere>
+    <matiere codeMat="GINF32">9.58</matiere>
+    <matiere codeMat="GINF33">9.58</matiere>
+    <matiere codeMat="GINF34">9.58</matiere>
+    <matiere codeMat="GINF35">9.58</matiere>
+    <matiere codeMat="GINF36">9.58</matiere>
+    <matiere codeMat="GINF41">9.58</matiere>
+    <matiere codeMat="GINF42">9.58</matiere>
+    <matiere codeMat="GINF43">9.58</matiere>
+    <matiere codeMat="GINF44">9.58</matiere>
+    <matiere codeMat="GINF45">9.58</matiere>
+    <matiere codeMat="GINF46">9.58</matiere>
+  </note>
+  <note>
+    <CNE>18008706</CNE>
+    <LastName>OUAHLI&#xA0;</LastName>
+    <FirstName>ALI</FirstName>
+    <matiere codeMat="GINF31">14.58</matiere>
+    <matiere codeMat="GINF32">14.58</matiere>
+    <matiere codeMat="GINF33">14.58</matiere>
+    <matiere codeMat="GINF34">14.58</matiere>
+    <matiere codeMat="GINF35">14.58</matiere>
+    <matiere codeMat="GINF36">14.58</matiere>
+    <matiere codeMat="GINF41">14.58</matiere>
+    <matiere codeMat="GINF42">14.58</matiere>
+    <matiere codeMat="GINF43">14.58</matiere>
+    <matiere codeMat="GINF44">14.58</matiere>
+    <matiere codeMat="GINF45">14.58</matiere>
+    <matiere codeMat="GINF46">14.58</matiere>
+  </note>
+  <note>
+    <CNE>18008828</CNE>
+    <LastName>OUAKIL&#xA0;</LastName>
+    <FirstName>MOUAD</FirstName>
+    <matiere codeMat="GINF31">9.58</matiere>
+    <matiere codeMat="GINF32">9.58</matiere>
+    <matiere codeMat="GINF33">9.58</matiere>
+    <matiere codeMat="GINF34">9.58</matiere>
+    <matiere codeMat="GINF35">9.58</matiere>
+    <matiere codeMat="GINF36">9.58</matiere>
+    <matiere codeMat="GINF41">9.58</matiere>
+    <matiere codeMat="GINF42">9.58</matiere>
+    <matiere codeMat="GINF43">9.58</matiere>
+    <matiere codeMat="GINF44">9.58</matiere>
+    <matiere codeMat="GINF45">9.58</matiere>
+    <matiere codeMat="GINF46">9.58</matiere>
+  </note>
+  <note>
+    <CNE>18011314</CNE>
+    <LastName>OUANGRE&#xA0;</LastName>
+    <FirstName>MICHEL</FirstName>
+    <matiere codeMat="GINF31">8.75</matiere>
+    <matiere codeMat="GINF32">8.75</matiere>
+    <matiere codeMat="GINF33">8.75</matiere>
+    <matiere codeMat="GINF34">8.75</matiere>
+    <matiere codeMat="GINF35">8.75</matiere>
+    <matiere codeMat="GINF36">8.75</matiere>
+    <matiere codeMat="GINF41">8.75</matiere>
+    <matiere codeMat="GINF42">8.75</matiere>
+    <matiere codeMat="GINF43">8.75</matiere>
+    <matiere codeMat="GINF44">8.75</matiere>
+    <matiere codeMat="GINF45">8.75</matiere>
+    <matiere codeMat="GINF46">8.75</matiere>
+  </note>
+  <note>
+    <CNE>18008709</CNE>
+    <LastName>OULAD SINE&#xA0;</LastName>
+    <FirstName>SALOUA</FirstName>
+    <matiere codeMat="GINF31">3.75</matiere>
+    <matiere codeMat="GINF32">3.75</matiere>
+    <matiere codeMat="GINF33">3.75</matiere>
+    <matiere codeMat="GINF34">3.75</matiere>
+    <matiere codeMat="GINF35">3.75</matiere>
+    <matiere codeMat="GINF36">3.75</matiere>
+    <matiere codeMat="GINF41">3.75</matiere>
+    <matiere codeMat="GINF42">3.75</matiere>
+    <matiere codeMat="GINF43">3.75</matiere>
+    <matiere codeMat="GINF44">3.75</matiere>
+    <matiere codeMat="GINF45">3.75</matiere>
+    <matiere codeMat="GINF46">3.75</matiere>
+  </note>
+  <note>
+    <CNE>18008457</CNE>
+    <LastName>RABAH&#xA0;</LastName>
+    <FirstName>HAFSSA</FirstName>
+    <matiere codeMat="GINF31">9.17</matiere>
+    <matiere codeMat="GINF32">9.17</matiere>
+    <matiere codeMat="GINF33">9.17</matiere>
+    <matiere codeMat="GINF34">9.17</matiere>
+    <matiere codeMat="GINF35">9.17</matiere>
+    <matiere codeMat="GINF36">9.17</matiere>
+    <matiere codeMat="GINF41">9.17</matiere>
+    <matiere codeMat="GINF42">9.17</matiere>
+    <matiere codeMat="GINF43">9.17</matiere>
+    <matiere codeMat="GINF44">9.17</matiere>
+    <matiere codeMat="GINF45">9.17</matiere>
+    <matiere codeMat="GINF46">9.17</matiere>
+  </note>
+  <note>
+    <CNE>17004442</CNE>
+    <LastName>RAMY&#xA0;</LastName>
+    <FirstName>AYMAN</FirstName>
+    <matiere codeMat="GINF31">4.58</matiere>
+    <matiere codeMat="GINF32">4.58</matiere>
+    <matiere codeMat="GINF33">4.58</matiere>
+    <matiere codeMat="GINF34">4.58</matiere>
+    <matiere codeMat="GINF35">4.58</matiere>
+    <matiere codeMat="GINF36">4.58</matiere>
+    <matiere codeMat="GINF41">4.58</matiere>
+    <matiere codeMat="GINF42">4.58</matiere>
+    <matiere codeMat="GINF43">4.58</matiere>
+    <matiere codeMat="GINF44">4.58</matiere>
+    <matiere codeMat="GINF45">4.58</matiere>
+    <matiere codeMat="GINF46">4.58</matiere>
+  </note>
+  <note>
+    <CNE>18008435</CNE>
+    <LastName>SAIDI&#xA0;</LastName>
+    <FirstName>CHAIMAA</FirstName>
+    <matiere codeMat="GINF31">12.5</matiere>
+    <matiere codeMat="GINF32">12.5</matiere>
+    <matiere codeMat="GINF33">12.5</matiere>
+    <matiere codeMat="GINF34">12.5</matiere>
+    <matiere codeMat="GINF35">12.5</matiere>
+    <matiere codeMat="GINF36">12.5</matiere>
+    <matiere codeMat="GINF41">12.5</matiere>
+    <matiere codeMat="GINF42">12.5</matiere>
+    <matiere codeMat="GINF43">12.5</matiere>
+    <matiere codeMat="GINF44">12.5</matiere>
+    <matiere codeMat="GINF45">12.5</matiere>
+    <matiere codeMat="GINF46">12.5</matiere>
+  </note>
+  <note>
+    <CNE>18011312</CNE>
+    <LastName>SANA&#xA0;</LastName>
+    <FirstName>LOOKMAN OSSAM</FirstName>
+    <matiere codeMat="GINF31">19.17</matiere>
+    <matiere codeMat="GINF32">19.17</matiere>
+    <matiere codeMat="GINF33">19.17</matiere>
+    <matiere codeMat="GINF34">19.17</matiere>
+    <matiere codeMat="GINF35">19.17</matiere>
+    <matiere codeMat="GINF36">19.17</matiere>
+    <matiere codeMat="GINF41">19.17</matiere>
+    <matiere codeMat="GINF42">19.17</matiere>
+    <matiere codeMat="GINF43">19.17</matiere>
+    <matiere codeMat="GINF44">19.17</matiere>
+    <matiere codeMat="GINF45">19.17</matiere>
+    <matiere codeMat="GINF46">19.17</matiere>
+  </note>
+  <note>
+    <CNE>18006869</CNE>
+    <LastName>TAALI&#xA0;</LastName>
+    <FirstName>HOUDA</FirstName>
+    <matiere codeMat="GINF31">10.83</matiere>
+    <matiere codeMat="GINF32">10.83</matiere>
+    <matiere codeMat="GINF33">10.83</matiere>
+    <matiere codeMat="GINF34">10.83</matiere>
+    <matiere codeMat="GINF35">10.83</matiere>
+    <matiere codeMat="GINF36">10.83</matiere>
+    <matiere codeMat="GINF41">10.83</matiere>
+    <matiere codeMat="GINF42">10.83</matiere>
+    <matiere codeMat="GINF43">10.83</matiere>
+    <matiere codeMat="GINF44">10.83</matiere>
+    <matiere codeMat="GINF45">10.83</matiere>
+    <matiere codeMat="GINF46">10.83</matiere>
+  </note>
+  <note>
+    <CNE>18008567</CNE>
+    <LastName>ZENAGUI&#xA0;</LastName>
+    <FirstName>RABIA</FirstName>
+    <matiere codeMat="GINF31">17.5</matiere>
+    <matiere codeMat="GINF32">17.5</matiere>
+    <matiere codeMat="GINF33">17.5</matiere>
+    <matiere codeMat="GINF34">17.5</matiere>
+    <matiere codeMat="GINF35">17.5</matiere>
+    <matiere codeMat="GINF36">17.5</matiere>
+    <matiere codeMat="GINF41">17.5</matiere>
+    <matiere codeMat="GINF42">17.5</matiere>
+    <matiere codeMat="GINF43">17.5</matiere>
+    <matiere codeMat="GINF44">17.5</matiere>
+    <matiere codeMat="GINF45">17.5</matiere>
+    <matiere codeMat="GINF46">17.5</matiere>
+  </note>
+</notes>

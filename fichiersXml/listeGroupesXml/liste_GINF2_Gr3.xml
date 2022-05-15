@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>18006869</CNE>
+    <LastName>TAALI&#xA0;</LastName>
+    <FirstName>HOUDA</FirstName>
+    <DateofBirth>3/12/2001</DateofBirth>
+    <Phone>684004402</Phone>
+    <Email>aliquam@NullafacilisiSed.net</Email>
+  </student><student>
+    <CNE>18008567</CNE>
+    <LastName>ZENAGUI&#xA0;</LastName>
+    <FirstName>RABIA</FirstName>
+    <DateofBirth>7/24/1997</DateofBirth>
+    <Phone>02 34 13 92 94</Phone>
+    <Email>aliquim@NullafacilisiSed.net</Email>
+  </student></students>

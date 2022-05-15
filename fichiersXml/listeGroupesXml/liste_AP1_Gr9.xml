@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>1139</CNE>
+    <LastName>Jeffcock</LastName>
+    <FirstName>Lillian</FirstName>
+    <DateofBirth>19/06/2001</DateofBirth>
+    <Phone>937 110 8485</Phone>
+    <Email>tliepmann5c@ifeng.com</Email>
+  </student><student>
+    <CNE>1140</CNE>
+    <LastName>Hayller</LastName>
+    <FirstName>Belle</FirstName>
+    <DateofBirth>24/07/2000</DateofBirth>
+    <Phone>219 198 4486</Phone>
+    <Email>dbogue5d@umich.edu</Email>
+  </student><student>
+    <CNE>1141</CNE>
+    <LastName>Tibbles</LastName>
+    <FirstName>Melony</FirstName>
+    <DateofBirth>22/11/1998</DateofBirth>
+    <Phone>382 914 8078</Phone>
+    <Email>mcalton5e@cdc.gov</Email>
+  </student><student>
+    <CNE>1142</CNE>
+    <LastName>Palfery</LastName>
+    <FirstName>Ethan</FirstName>
+    <DateofBirth>06/10/1998</DateofBirth>
+    <Phone>339 870 6976</Phone>
+    <Email>jviles5f@technorati.com</Email>
+  </student><student>
+    <CNE>1143</CNE>
+    <LastName>Corballis</LastName>
+    <FirstName>Ida</FirstName>
+    <DateofBirth>04/02/1999</DateofBirth>
+    <Phone>574 660 0238</Phone>
+    <Email>ncasely5g@sogou.com</Email>
+  </student><student>
+    <CNE>1144</CNE>
+    <LastName>Hissie</LastName>
+    <FirstName>Homere</FirstName>
+    <DateofBirth>30/01/2000</DateofBirth>
+    <Phone>147 743 9151</Phone>
+    <Email>nspurret5h@nba.com</Email>
+  </student><student>
+    <CNE>1145</CNE>
+    <LastName>Quested</LastName>
+    <FirstName>Renaldo</FirstName>
+    <DateofBirth>04/02/2000</DateofBirth>
+    <Phone>781 240 4778</Phone>
+    <Email>ocarlaw5i@sciencedaily.com</Email>
+  </student><student>
+    <CNE>1146</CNE>
+    <LastName>Casin</LastName>
+    <FirstName>Hedi</FirstName>
+    <DateofBirth>15/11/2001</DateofBirth>
+    <Phone>538 317 8365</Phone>
+    <Email>aelgie5j@prnewswire.com</Email>
+  </student><student>
+    <CNE>1147</CNE>
+    <LastName>Doe</LastName>
+    <FirstName>Mellisent</FirstName>
+    <DateofBirth>10/04/1999</DateofBirth>
+    <Phone>341 112 2021</Phone>
+    <Email>eglossup5k@cornell.edu</Email>
+  </student><student>
+    <CNE>1148</CNE>
+    <LastName>Dunthorn</LastName>
+    <FirstName>Camala</FirstName>
+    <DateofBirth>31/01/2000</DateofBirth>
+    <Phone>163 600 6130</Phone>
+    <Email>fjewster5l@answers.com</Email>
+  </student><student>
+    <CNE>1149</CNE>
+    <LastName>Cutriss</LastName>
+    <FirstName>Graig</FirstName>
+    <DateofBirth>23/05/1999</DateofBirth>
+    <Phone>417 717 6189</Phone>
+    <Email>gchicco5m@wikia.com</Email>
+  </student><student>
+    <CNE>1150</CNE>
+    <LastName>Syfax</LastName>
+    <FirstName>Kevon</FirstName>
+    <DateofBirth>03/08/1998</DateofBirth>
+    <Phone>806 327 3905</Phone>
+    <Email>kteanby5n@a8.net</Email>
+  </student><student>
+    <CNE>1151</CNE>
+    <LastName>Hartburn</LastName>
+    <FirstName>Ambur</FirstName>
+    <DateofBirth>09/05/1998</DateofBirth>
+    <Phone>690 277 9202</Phone>
+    <Email>lboyle5o@vkontakte.ru</Email>
+  </student><student>
+    <CNE>1152</CNE>
+    <LastName>Woodall</LastName>
+    <FirstName>Ruperta</FirstName>
+    <DateofBirth>02/10/2001</DateofBirth>
+    <Phone>609 129 5083</Phone>
+    <Email>trickman5p@auda.org.au</Email>
+  </student><student>
+    <CNE>1153</CNE>
+    <LastName>MacCambridge</LastName>
+    <FirstName>Boone</FirstName>
+    <DateofBirth>14/02/2000</DateofBirth>
+    <Phone>408 637 6899</Phone>
+    <Email>clatimer5q@china.com.cn</Email>
+  </student><student>
+    <CNE>1154</CNE>
+    <LastName>Leng</LastName>
+    <FirstName>Cece</FirstName>
+    <DateofBirth>19/04/2001</DateofBirth>
+    <Phone>298 209 1694</Phone>
+    <Email>pradish5r@scientificamerican.com</Email>
+  </student><student>
+    <CNE>1155</CNE>
+    <LastName>McChruiter</LastName>
+    <FirstName>Lynelle</FirstName>
+    <DateofBirth>12/06/1999</DateofBirth>
+    <Phone>533 906 7256</Phone>
+    <Email>cgerrit5s@howstuffworks.com</Email>
+  </student><student>
+    <CNE>1156</CNE>
+    <LastName>Braney</LastName>
+    <FirstName>Wilone</FirstName>
+    <DateofBirth>20/08/1998</DateofBirth>
+    <Phone>181 545 9151</Phone>
+    <Email>llevitt5t@army.mil</Email>
+  </student><student>
+    <CNE>1157</CNE>
+    <LastName>Satyford</LastName>
+    <FirstName>Rica</FirstName>
+    <DateofBirth>19/01/1999</DateofBirth>
+    <Phone>318 461 8774</Phone>
+    <Email>swakely5u@hatena.ne.jp</Email>
+  </student><student>
+    <CNE>1158</CNE>
+    <LastName>Condliffe</LastName>
+    <FirstName>Fee</FirstName>
+    <DateofBirth>13/08/2001</DateofBirth>
+    <Phone>800 619 0050</Phone>
+    <Email>bdunford5v@twitpic.com</Email>
+  </student><student>
+    <CNE>1159</CNE>
+    <LastName>Treadwell</LastName>
+    <FirstName>Zeb</FirstName>
+    <DateofBirth>21/03/1999</DateofBirth>
+    <Phone>578 693 7861</Phone>
+    <Email>cgreeno5w@marriott.com</Email>
+  </student><student>
+    <CNE>1160</CNE>
+    <LastName>Tanswill</LastName>
+    <FirstName>Mandi</FirstName>
+    <DateofBirth>28/04/1999</DateofBirth>
+    <Phone>461 341 5878</Phone>
+    <Email>rduxbury5x@sciencedaily.com</Email>
+  </student><student>
+    <CNE>1161</CNE>
+    <LastName>Fallowfield</LastName>
+    <FirstName>Kelcie</FirstName>
+    <DateofBirth>13/05/1998</DateofBirth>
+    <Phone>829 445 9149</Phone>
+    <Email>rderks5y@exblog.jp</Email>
+  </student><student>
+    <CNE>1162</CNE>
+    <LastName>Olrenshaw</LastName>
+    <FirstName>Trenna</FirstName>
+    <DateofBirth>05/11/1999</DateofBirth>
+    <Phone>301 922 6391</Phone>
+    <Email>drawkesby5z@barnesandnoble.com</Email>
+  </student></students>

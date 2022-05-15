@@ -1,0 +1,4083 @@
+<?xml version="1.0"?>
+<notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/notes.xsd">
+  <note>
+    <CNE>707</CNE>
+    <LastName>Blackboro</LastName>
+    <FirstName>Rubi</FirstName>
+    <matiere codeMat="AP31">11.68</matiere>
+    <matiere codeMat="AP32">10.73</matiere>
+    <matiere codeMat="AP33">15.06</matiere>
+    <matiere codeMat="AP34">17.56</matiere>
+    <matiere codeMat="AP35">9.09</matiere>
+    <matiere codeMat="AP36">13.84</matiere>
+    <matiere codeMat="AP41">19.32</matiere>
+    <matiere codeMat="AP42">16.61</matiere>
+    <matiere codeMat="AP43">11.44</matiere>
+    <matiere codeMat="AP44">14.98</matiere>
+    <matiere codeMat="AP45">10.89</matiere>
+    <matiere codeMat="AP46">16.47</matiere>
+  </note>
+  <note>
+    <CNE>708</CNE>
+    <LastName>Studde</LastName>
+    <FirstName>Beverlie</FirstName>
+    <matiere codeMat="AP31">9.46</matiere>
+    <matiere codeMat="AP32">18.7</matiere>
+    <matiere codeMat="AP33">15.13</matiere>
+    <matiere codeMat="AP34">10.99</matiere>
+    <matiere codeMat="AP35">12.11</matiere>
+    <matiere codeMat="AP36">8.35</matiere>
+    <matiere codeMat="AP41">19.65</matiere>
+    <matiere codeMat="AP42">11.46</matiere>
+    <matiere codeMat="AP43">18.64</matiere>
+    <matiere codeMat="AP44">18.61</matiere>
+    <matiere codeMat="AP45">9.14</matiere>
+    <matiere codeMat="AP46">9.57</matiere>
+  </note>
+  <note>
+    <CNE>709</CNE>
+    <LastName>Fortnam</LastName>
+    <FirstName>Giustina</FirstName>
+    <matiere codeMat="AP31">10.52</matiere>
+    <matiere codeMat="AP32">12.26</matiere>
+    <matiere codeMat="AP33">15.77</matiere>
+    <matiere codeMat="AP34">19.45</matiere>
+    <matiere codeMat="AP35">18.89</matiere>
+    <matiere codeMat="AP36">9.73</matiere>
+    <matiere codeMat="AP41">12.39</matiere>
+    <matiere codeMat="AP42">17.97</matiere>
+    <matiere codeMat="AP43">14.83</matiere>
+    <matiere codeMat="AP44">9.9</matiere>
+    <matiere codeMat="AP45">9.75</matiere>
+    <matiere codeMat="AP46">17.4</matiere>
+  </note>
+  <note>
+    <CNE>710</CNE>
+    <LastName>Traite</LastName>
+    <FirstName>Zia</FirstName>
+    <matiere codeMat="AP31">17.56</matiere>
+    <matiere codeMat="AP32">11.26</matiere>
+    <matiere codeMat="AP33">16.26</matiere>
+    <matiere codeMat="AP34">12.91</matiere>
+    <matiere codeMat="AP35">14.16</matiere>
+    <matiere codeMat="AP36">13.34</matiere>
+    <matiere codeMat="AP41">13.09</matiere>
+    <matiere codeMat="AP42">15.14</matiere>
+    <matiere codeMat="AP43">17.3</matiere>
+    <matiere codeMat="AP44">16.19</matiere>
+    <matiere codeMat="AP45">13.56</matiere>
+    <matiere codeMat="AP46">17.97</matiere>
+  </note>
+  <note>
+    <CNE>711</CNE>
+    <LastName>Trayton</LastName>
+    <FirstName>Dulciana</FirstName>
+    <matiere codeMat="AP31">17.66</matiere>
+    <matiere codeMat="AP32">10.67</matiere>
+    <matiere codeMat="AP33">16.66</matiere>
+    <matiere codeMat="AP34">18.24</matiere>
+    <matiere codeMat="AP35">17.93</matiere>
+    <matiere codeMat="AP36">15.91</matiere>
+    <matiere codeMat="AP41">17.88</matiere>
+    <matiere codeMat="AP42">16.87</matiere>
+    <matiere codeMat="AP43">15.84</matiere>
+    <matiere codeMat="AP44">18.24</matiere>
+    <matiere codeMat="AP45">17.42</matiere>
+    <matiere codeMat="AP46">12.62</matiere>
+  </note>
+  <note>
+    <CNE>712</CNE>
+    <LastName>Dobsons</LastName>
+    <FirstName>Ced</FirstName>
+    <matiere codeMat="AP31">14.74</matiere>
+    <matiere codeMat="AP32">9.24</matiere>
+    <matiere codeMat="AP33">11.85</matiere>
+    <matiere codeMat="AP34">12.21</matiere>
+    <matiere codeMat="AP35">16.71</matiere>
+    <matiere codeMat="AP36">11.29</matiere>
+    <matiere codeMat="AP41">8.66</matiere>
+    <matiere codeMat="AP42">16.16</matiere>
+    <matiere codeMat="AP43">16.22</matiere>
+    <matiere codeMat="AP44">17.49</matiere>
+    <matiere codeMat="AP45">17.1</matiere>
+    <matiere codeMat="AP46">19.02</matiere>
+  </note>
+  <note>
+    <CNE>713</CNE>
+    <LastName>Lillow</LastName>
+    <FirstName>Tabby</FirstName>
+    <matiere codeMat="AP31">12.86</matiere>
+    <matiere codeMat="AP32">12.72</matiere>
+    <matiere codeMat="AP33">14.11</matiere>
+    <matiere codeMat="AP34">13.87</matiere>
+    <matiere codeMat="AP35">12.78</matiere>
+    <matiere codeMat="AP36">13.17</matiere>
+    <matiere codeMat="AP41">13.82</matiere>
+    <matiere codeMat="AP42">10.83</matiere>
+    <matiere codeMat="AP43">12.56</matiere>
+    <matiere codeMat="AP44">10.47</matiere>
+    <matiere codeMat="AP45">15.29</matiere>
+    <matiere codeMat="AP46">16.99</matiere>
+  </note>
+  <note>
+    <CNE>714</CNE>
+    <LastName>Washtell</LastName>
+    <FirstName>Nedi</FirstName>
+    <matiere codeMat="AP31">16.51</matiere>
+    <matiere codeMat="AP32">18.84</matiere>
+    <matiere codeMat="AP33">13.45</matiere>
+    <matiere codeMat="AP34">16.75</matiere>
+    <matiere codeMat="AP35">12.07</matiere>
+    <matiere codeMat="AP36">14.63</matiere>
+    <matiere codeMat="AP41">12</matiere>
+    <matiere codeMat="AP42">15.92</matiere>
+    <matiere codeMat="AP43">15.32</matiere>
+    <matiere codeMat="AP44">14.56</matiere>
+    <matiere codeMat="AP45">14.61</matiere>
+    <matiere codeMat="AP46">8.64</matiere>
+  </note>
+  <note>
+    <CNE>715</CNE>
+    <LastName>McLagain</LastName>
+    <FirstName>Alisun</FirstName>
+    <matiere codeMat="AP31">17.15</matiere>
+    <matiere codeMat="AP32">10.95</matiere>
+    <matiere codeMat="AP33">17.83</matiere>
+    <matiere codeMat="AP34">14.99</matiere>
+    <matiere codeMat="AP35">12.65</matiere>
+    <matiere codeMat="AP36">14.02</matiere>
+    <matiere codeMat="AP41">15.78</matiere>
+    <matiere codeMat="AP42">16.32</matiere>
+    <matiere codeMat="AP43">18.28</matiere>
+    <matiere codeMat="AP44">18.83</matiere>
+    <matiere codeMat="AP45">16.16</matiere>
+    <matiere codeMat="AP46">14.83</matiere>
+  </note>
+  <note>
+    <CNE>716</CNE>
+    <LastName>Nix</LastName>
+    <FirstName>Faith</FirstName>
+    <matiere codeMat="AP31">11.85</matiere>
+    <matiere codeMat="AP32">11.39</matiere>
+    <matiere codeMat="AP33">9.67</matiere>
+    <matiere codeMat="AP34">10.82</matiere>
+    <matiere codeMat="AP35">9.26</matiere>
+    <matiere codeMat="AP36">17.68</matiere>
+    <matiere codeMat="AP41">18.55</matiere>
+    <matiere codeMat="AP42">8.45</matiere>
+    <matiere codeMat="AP43">13.89</matiere>
+    <matiere codeMat="AP44">9.4</matiere>
+    <matiere codeMat="AP45">18.82</matiere>
+    <matiere codeMat="AP46">17.1</matiere>
+  </note>
+  <note>
+    <CNE>717</CNE>
+    <LastName>Bisiker</LastName>
+    <FirstName>Doll</FirstName>
+    <matiere codeMat="AP31">16.52</matiere>
+    <matiere codeMat="AP32">12.71</matiere>
+    <matiere codeMat="AP33">12.41</matiere>
+    <matiere codeMat="AP34">15.2</matiere>
+    <matiere codeMat="AP35">15.04</matiere>
+    <matiere codeMat="AP36">10.59</matiere>
+    <matiere codeMat="AP41">10.28</matiere>
+    <matiere codeMat="AP42">14.01</matiere>
+    <matiere codeMat="AP43">13.84</matiere>
+    <matiere codeMat="AP44">15.39</matiere>
+    <matiere codeMat="AP45">9.21</matiere>
+    <matiere codeMat="AP46">18.99</matiere>
+  </note>
+  <note>
+    <CNE>718</CNE>
+    <LastName>Esmond</LastName>
+    <FirstName>Sheena</FirstName>
+    <matiere codeMat="AP31">18.58</matiere>
+    <matiere codeMat="AP32">11.06</matiere>
+    <matiere codeMat="AP33">18.25</matiere>
+    <matiere codeMat="AP34">9.47</matiere>
+    <matiere codeMat="AP35">10.15</matiere>
+    <matiere codeMat="AP36">13.96</matiere>
+    <matiere codeMat="AP41">14.02</matiere>
+    <matiere codeMat="AP42">13.94</matiere>
+    <matiere codeMat="AP43">14.36</matiere>
+    <matiere codeMat="AP44">9.09</matiere>
+    <matiere codeMat="AP45">14.98</matiere>
+    <matiere codeMat="AP46">9.46</matiere>
+  </note>
+  <note>
+    <CNE>719</CNE>
+    <LastName>Gregon</LastName>
+    <FirstName>Jocko</FirstName>
+    <matiere codeMat="AP31">18.66</matiere>
+    <matiere codeMat="AP32">13.97</matiere>
+    <matiere codeMat="AP33">14.38</matiere>
+    <matiere codeMat="AP34">12.78</matiere>
+    <matiere codeMat="AP35">17.94</matiere>
+    <matiere codeMat="AP36">15.45</matiere>
+    <matiere codeMat="AP41">11.77</matiere>
+    <matiere codeMat="AP42">14.81</matiere>
+    <matiere codeMat="AP43">16.42</matiere>
+    <matiere codeMat="AP44">14.65</matiere>
+    <matiere codeMat="AP45">10.07</matiere>
+    <matiere codeMat="AP46">18.58</matiere>
+  </note>
+  <note>
+    <CNE>720</CNE>
+    <LastName>Cakes</LastName>
+    <FirstName>Marijn</FirstName>
+    <matiere codeMat="AP31">17.5</matiere>
+    <matiere codeMat="AP32">11.16</matiere>
+    <matiere codeMat="AP33">19.56</matiere>
+    <matiere codeMat="AP34">16.11</matiere>
+    <matiere codeMat="AP35">14</matiere>
+    <matiere codeMat="AP36">10.05</matiere>
+    <matiere codeMat="AP41">12.01</matiere>
+    <matiere codeMat="AP42">10.45</matiere>
+    <matiere codeMat="AP43">15.71</matiere>
+    <matiere codeMat="AP44">11.37</matiere>
+    <matiere codeMat="AP45">13.21</matiere>
+    <matiere codeMat="AP46">17.83</matiere>
+  </note>
+  <note>
+    <CNE>721</CNE>
+    <LastName>Gilbart</LastName>
+    <FirstName>Else</FirstName>
+    <matiere codeMat="AP31">18.65</matiere>
+    <matiere codeMat="AP32">13.03</matiere>
+    <matiere codeMat="AP33">18.55</matiere>
+    <matiere codeMat="AP34">16.58</matiere>
+    <matiere codeMat="AP35">10.79</matiere>
+    <matiere codeMat="AP36">8.13</matiere>
+    <matiere codeMat="AP41">17.61</matiere>
+    <matiere codeMat="AP42">18.22</matiere>
+    <matiere codeMat="AP43">11.51</matiere>
+    <matiere codeMat="AP44">17.66</matiere>
+    <matiere codeMat="AP45">15.72</matiere>
+    <matiere codeMat="AP46">12.4</matiere>
+  </note>
+  <note>
+    <CNE>722</CNE>
+    <LastName>Scudders</LastName>
+    <FirstName>Kingsly</FirstName>
+    <matiere codeMat="AP31">14.38</matiere>
+    <matiere codeMat="AP32">16.61</matiere>
+    <matiere codeMat="AP33">16.98</matiere>
+    <matiere codeMat="AP34">19.84</matiere>
+    <matiere codeMat="AP35">10.44</matiere>
+    <matiere codeMat="AP36">14.43</matiere>
+    <matiere codeMat="AP41">9.93</matiere>
+    <matiere codeMat="AP42">8.75</matiere>
+    <matiere codeMat="AP43">19.04</matiere>
+    <matiere codeMat="AP44">18.35</matiere>
+    <matiere codeMat="AP45">9.87</matiere>
+    <matiere codeMat="AP46">11.2</matiere>
+  </note>
+  <note>
+    <CNE>723</CNE>
+    <LastName>Godbald</LastName>
+    <FirstName>Guido</FirstName>
+    <matiere codeMat="AP31">17.19</matiere>
+    <matiere codeMat="AP32">17.29</matiere>
+    <matiere codeMat="AP33">14.52</matiere>
+    <matiere codeMat="AP34">11.73</matiere>
+    <matiere codeMat="AP35">16.82</matiere>
+    <matiere codeMat="AP36">12.52</matiere>
+    <matiere codeMat="AP41">19.65</matiere>
+    <matiere codeMat="AP42">17.51</matiere>
+    <matiere codeMat="AP43">12.05</matiere>
+    <matiere codeMat="AP44">17.76</matiere>
+    <matiere codeMat="AP45">19.32</matiere>
+    <matiere codeMat="AP46">9.44</matiere>
+  </note>
+  <note>
+    <CNE>724</CNE>
+    <LastName>Slamaker</LastName>
+    <FirstName>Mac</FirstName>
+    <matiere codeMat="AP31">18.93</matiere>
+    <matiere codeMat="AP32">10.99</matiere>
+    <matiere codeMat="AP33">15.57</matiere>
+    <matiere codeMat="AP34">19.44</matiere>
+    <matiere codeMat="AP35">11.24</matiere>
+    <matiere codeMat="AP36">12.01</matiere>
+    <matiere codeMat="AP41">12.96</matiere>
+    <matiere codeMat="AP42">14.7</matiere>
+    <matiere codeMat="AP43">12.91</matiere>
+    <matiere codeMat="AP44">16.88</matiere>
+    <matiere codeMat="AP45">13</matiere>
+    <matiere codeMat="AP46">16.28</matiere>
+  </note>
+  <note>
+    <CNE>725</CNE>
+    <LastName>Muncie</LastName>
+    <FirstName>Wayland</FirstName>
+    <matiere codeMat="AP31">10.33</matiere>
+    <matiere codeMat="AP32">9.84</matiere>
+    <matiere codeMat="AP33">9.04</matiere>
+    <matiere codeMat="AP34">16.42</matiere>
+    <matiere codeMat="AP35">13.77</matiere>
+    <matiere codeMat="AP36">10.58</matiere>
+    <matiere codeMat="AP41">14.98</matiere>
+    <matiere codeMat="AP42">14.23</matiere>
+    <matiere codeMat="AP43">19.22</matiere>
+    <matiere codeMat="AP44">9.36</matiere>
+    <matiere codeMat="AP45">9.05</matiere>
+    <matiere codeMat="AP46">13.58</matiere>
+  </note>
+  <note>
+    <CNE>726</CNE>
+    <LastName>Vanshin</LastName>
+    <FirstName>Linn</FirstName>
+    <matiere codeMat="AP31">11.4</matiere>
+    <matiere codeMat="AP32">15.2</matiere>
+    <matiere codeMat="AP33">12.24</matiere>
+    <matiere codeMat="AP34">13.75</matiere>
+    <matiere codeMat="AP35">16.23</matiere>
+    <matiere codeMat="AP36">12.27</matiere>
+    <matiere codeMat="AP41">15.16</matiere>
+    <matiere codeMat="AP42">11.8</matiere>
+    <matiere codeMat="AP43">8.84</matiere>
+    <matiere codeMat="AP44">19.06</matiere>
+    <matiere codeMat="AP45">19.9</matiere>
+    <matiere codeMat="AP46">13.37</matiere>
+  </note>
+  <note>
+    <CNE>727</CNE>
+    <LastName>Brose</LastName>
+    <FirstName>Al</FirstName>
+    <matiere codeMat="AP31">18.83</matiere>
+    <matiere codeMat="AP32">11.21</matiere>
+    <matiere codeMat="AP33">17.36</matiere>
+    <matiere codeMat="AP34">17.02</matiere>
+    <matiere codeMat="AP35">19.85</matiere>
+    <matiere codeMat="AP36">8.69</matiere>
+    <matiere codeMat="AP41">12.61</matiere>
+    <matiere codeMat="AP42">11.35</matiere>
+    <matiere codeMat="AP43">12.93</matiere>
+    <matiere codeMat="AP44">15.52</matiere>
+    <matiere codeMat="AP45">16.42</matiere>
+    <matiere codeMat="AP46">17.42</matiere>
+  </note>
+  <note>
+    <CNE>728</CNE>
+    <LastName>Cattroll</LastName>
+    <FirstName>Callida</FirstName>
+    <matiere codeMat="AP31">13.16</matiere>
+    <matiere codeMat="AP32">14.04</matiere>
+    <matiere codeMat="AP33">11.04</matiere>
+    <matiere codeMat="AP34">11.99</matiere>
+    <matiere codeMat="AP35">11.2</matiere>
+    <matiere codeMat="AP36">19.83</matiere>
+    <matiere codeMat="AP41">16.05</matiere>
+    <matiere codeMat="AP42">13.04</matiere>
+    <matiere codeMat="AP43">13.78</matiere>
+    <matiere codeMat="AP44">17.47</matiere>
+    <matiere codeMat="AP45">8.4</matiere>
+    <matiere codeMat="AP46">13.41</matiere>
+  </note>
+  <note>
+    <CNE>729</CNE>
+    <LastName>Girardetti</LastName>
+    <FirstName>Kathie</FirstName>
+    <matiere codeMat="AP31">15.03</matiere>
+    <matiere codeMat="AP32">11.66</matiere>
+    <matiere codeMat="AP33">11.74</matiere>
+    <matiere codeMat="AP34">11.48</matiere>
+    <matiere codeMat="AP35">13.85</matiere>
+    <matiere codeMat="AP36">19.92</matiere>
+    <matiere codeMat="AP41">14.63</matiere>
+    <matiere codeMat="AP42">11.07</matiere>
+    <matiere codeMat="AP43">15.83</matiere>
+    <matiere codeMat="AP44">16.28</matiere>
+    <matiere codeMat="AP45">8.78</matiere>
+    <matiere codeMat="AP46">9.97</matiere>
+  </note>
+  <note>
+    <CNE>730</CNE>
+    <LastName>Fitton</LastName>
+    <FirstName>Tanitansy</FirstName>
+    <matiere codeMat="AP31">15.45</matiere>
+    <matiere codeMat="AP32">16.53</matiere>
+    <matiere codeMat="AP33">13.02</matiere>
+    <matiere codeMat="AP34">14.43</matiere>
+    <matiere codeMat="AP35">9.28</matiere>
+    <matiere codeMat="AP36">15.55</matiere>
+    <matiere codeMat="AP41">9.56</matiere>
+    <matiere codeMat="AP42">13.53</matiere>
+    <matiere codeMat="AP43">13.98</matiere>
+    <matiere codeMat="AP44">19.96</matiere>
+    <matiere codeMat="AP45">13.17</matiere>
+    <matiere codeMat="AP46">18.12</matiere>
+  </note>
+  <note>
+    <CNE>731</CNE>
+    <LastName>Waller</LastName>
+    <FirstName>Loralee</FirstName>
+    <matiere codeMat="AP31">16.38</matiere>
+    <matiere codeMat="AP32">13.11</matiere>
+    <matiere codeMat="AP33">14.43</matiere>
+    <matiere codeMat="AP34">18.14</matiere>
+    <matiere codeMat="AP35">10.95</matiere>
+    <matiere codeMat="AP36">8.06</matiere>
+    <matiere codeMat="AP41">15.86</matiere>
+    <matiere codeMat="AP42">17.3</matiere>
+    <matiere codeMat="AP43">18.83</matiere>
+    <matiere codeMat="AP44">9.36</matiere>
+    <matiere codeMat="AP45">15.01</matiere>
+    <matiere codeMat="AP46">12.98</matiere>
+  </note>
+  <note>
+    <CNE>732</CNE>
+    <LastName>Corgenvin</LastName>
+    <FirstName>Kristal</FirstName>
+    <matiere codeMat="AP31">13.27</matiere>
+    <matiere codeMat="AP32">13.98</matiere>
+    <matiere codeMat="AP33">10.68</matiere>
+    <matiere codeMat="AP34">14.22</matiere>
+    <matiere codeMat="AP35">11.67</matiere>
+    <matiere codeMat="AP36">14.35</matiere>
+    <matiere codeMat="AP41">8.17</matiere>
+    <matiere codeMat="AP42">13.84</matiere>
+    <matiere codeMat="AP43">11.68</matiere>
+    <matiere codeMat="AP44">12.07</matiere>
+    <matiere codeMat="AP45">19.44</matiere>
+    <matiere codeMat="AP46">8.82</matiere>
+  </note>
+  <note>
+    <CNE>733</CNE>
+    <LastName>Collar</LastName>
+    <FirstName>Hillier</FirstName>
+    <matiere codeMat="AP31">18.17</matiere>
+    <matiere codeMat="AP32">9.52</matiere>
+    <matiere codeMat="AP33">18.78</matiere>
+    <matiere codeMat="AP34">19.01</matiere>
+    <matiere codeMat="AP35">9.29</matiere>
+    <matiere codeMat="AP36">12.81</matiere>
+    <matiere codeMat="AP41">9.4</matiere>
+    <matiere codeMat="AP42">11.3</matiere>
+    <matiere codeMat="AP43">16.67</matiere>
+    <matiere codeMat="AP44">17.55</matiere>
+    <matiere codeMat="AP45">12.76</matiere>
+    <matiere codeMat="AP46">15.89</matiere>
+  </note>
+  <note>
+    <CNE>734</CNE>
+    <LastName>Giovannoni</LastName>
+    <FirstName>Jesse</FirstName>
+    <matiere codeMat="AP31">18.41</matiere>
+    <matiere codeMat="AP32">9.07</matiere>
+    <matiere codeMat="AP33">11.9</matiere>
+    <matiere codeMat="AP34">13.9</matiere>
+    <matiere codeMat="AP35">14.62</matiere>
+    <matiere codeMat="AP36">9.59</matiere>
+    <matiere codeMat="AP41">10.41</matiere>
+    <matiere codeMat="AP42">15.56</matiere>
+    <matiere codeMat="AP43">14.01</matiere>
+    <matiere codeMat="AP44">15.57</matiere>
+    <matiere codeMat="AP45">16.2</matiere>
+    <matiere codeMat="AP46">12.04</matiere>
+  </note>
+  <note>
+    <CNE>735</CNE>
+    <LastName>Fahy</LastName>
+    <FirstName>Pammy</FirstName>
+    <matiere codeMat="AP31">9.16</matiere>
+    <matiere codeMat="AP32">12.96</matiere>
+    <matiere codeMat="AP33">18.03</matiere>
+    <matiere codeMat="AP34">15.44</matiere>
+    <matiere codeMat="AP35">10.58</matiere>
+    <matiere codeMat="AP36">9.65</matiere>
+    <matiere codeMat="AP41">10.34</matiere>
+    <matiere codeMat="AP42">15.23</matiere>
+    <matiere codeMat="AP43">18.68</matiere>
+    <matiere codeMat="AP44">19.7</matiere>
+    <matiere codeMat="AP45">13.68</matiere>
+    <matiere codeMat="AP46">18.83</matiere>
+  </note>
+  <note>
+    <CNE>736</CNE>
+    <LastName>Corteney</LastName>
+    <FirstName>Lily</FirstName>
+    <matiere codeMat="AP31">18.04</matiere>
+    <matiere codeMat="AP32">11.6</matiere>
+    <matiere codeMat="AP33">9.38</matiere>
+    <matiere codeMat="AP34">10.64</matiere>
+    <matiere codeMat="AP35">11.56</matiere>
+    <matiere codeMat="AP36">8.35</matiere>
+    <matiere codeMat="AP41">12.02</matiere>
+    <matiere codeMat="AP42">15.46</matiere>
+    <matiere codeMat="AP43">12.86</matiere>
+    <matiere codeMat="AP44">9.71</matiere>
+    <matiere codeMat="AP45">17.87</matiere>
+    <matiere codeMat="AP46">12.87</matiere>
+  </note>
+  <note>
+    <CNE>737</CNE>
+    <LastName>Cadlock</LastName>
+    <FirstName>Nata</FirstName>
+    <matiere codeMat="AP31">15.52</matiere>
+    <matiere codeMat="AP32">16.87</matiere>
+    <matiere codeMat="AP33">14.32</matiere>
+    <matiere codeMat="AP34">13.58</matiere>
+    <matiere codeMat="AP35">12.41</matiere>
+    <matiere codeMat="AP36">11.92</matiere>
+    <matiere codeMat="AP41">14.19</matiere>
+    <matiere codeMat="AP42">19.55</matiere>
+    <matiere codeMat="AP43">16.62</matiere>
+    <matiere codeMat="AP44">10.43</matiere>
+    <matiere codeMat="AP45">17.02</matiere>
+    <matiere codeMat="AP46">12.29</matiere>
+  </note>
+  <note>
+    <CNE>738</CNE>
+    <LastName>Mewitt</LastName>
+    <FirstName>Cyndy</FirstName>
+    <matiere codeMat="AP31">11.06</matiere>
+    <matiere codeMat="AP32">12.01</matiere>
+    <matiere codeMat="AP33">10.39</matiere>
+    <matiere codeMat="AP34">11.8</matiere>
+    <matiere codeMat="AP35">16.46</matiere>
+    <matiere codeMat="AP36">8.2</matiere>
+    <matiere codeMat="AP41">9.35</matiere>
+    <matiere codeMat="AP42">14.28</matiere>
+    <matiere codeMat="AP43">9.23</matiere>
+    <matiere codeMat="AP44">12.94</matiere>
+    <matiere codeMat="AP45">15.9</matiere>
+    <matiere codeMat="AP46">19.84</matiere>
+  </note>
+  <note>
+    <CNE>739</CNE>
+    <LastName>Robbel</LastName>
+    <FirstName>Barnie</FirstName>
+    <matiere codeMat="AP31">15.85</matiere>
+    <matiere codeMat="AP32">15.32</matiere>
+    <matiere codeMat="AP33">18.6</matiere>
+    <matiere codeMat="AP34">15.94</matiere>
+    <matiere codeMat="AP35">15.53</matiere>
+    <matiere codeMat="AP36">8.83</matiere>
+    <matiere codeMat="AP41">19.7</matiere>
+    <matiere codeMat="AP42">11.07</matiere>
+    <matiere codeMat="AP43">13.61</matiere>
+    <matiere codeMat="AP44">12.81</matiere>
+    <matiere codeMat="AP45">8.57</matiere>
+    <matiere codeMat="AP46">19.58</matiere>
+  </note>
+  <note>
+    <CNE>740</CNE>
+    <LastName>McDuall</LastName>
+    <FirstName>Ezmeralda</FirstName>
+    <matiere codeMat="AP31">17.08</matiere>
+    <matiere codeMat="AP32">15.74</matiere>
+    <matiere codeMat="AP33">15.28</matiere>
+    <matiere codeMat="AP34">13.74</matiere>
+    <matiere codeMat="AP35">16.64</matiere>
+    <matiere codeMat="AP36">9.76</matiere>
+    <matiere codeMat="AP41">16.26</matiere>
+    <matiere codeMat="AP42">8.58</matiere>
+    <matiere codeMat="AP43">11.22</matiere>
+    <matiere codeMat="AP44">14.28</matiere>
+    <matiere codeMat="AP45">8.94</matiere>
+    <matiere codeMat="AP46">13.21</matiere>
+  </note>
+  <note>
+    <CNE>741</CNE>
+    <LastName>Quantrell</LastName>
+    <FirstName>Tessi</FirstName>
+    <matiere codeMat="AP31">16.43</matiere>
+    <matiere codeMat="AP32">12.44</matiere>
+    <matiere codeMat="AP33">17.15</matiere>
+    <matiere codeMat="AP34">19.06</matiere>
+    <matiere codeMat="AP35">14.62</matiere>
+    <matiere codeMat="AP36">15.8</matiere>
+    <matiere codeMat="AP41">14.09</matiere>
+    <matiere codeMat="AP42">10.56</matiere>
+    <matiere codeMat="AP43">13.12</matiere>
+    <matiere codeMat="AP44">17.25</matiere>
+    <matiere codeMat="AP45">8.16</matiere>
+    <matiere codeMat="AP46">17.39</matiere>
+  </note>
+  <note>
+    <CNE>742</CNE>
+    <LastName>Krzyzanowski</LastName>
+    <FirstName>Engracia</FirstName>
+    <matiere codeMat="AP31">9.16</matiere>
+    <matiere codeMat="AP32">12.87</matiere>
+    <matiere codeMat="AP33">11.72</matiere>
+    <matiere codeMat="AP34">18.88</matiere>
+    <matiere codeMat="AP35">19.36</matiere>
+    <matiere codeMat="AP36">15.24</matiere>
+    <matiere codeMat="AP41">8.15</matiere>
+    <matiere codeMat="AP42">19.24</matiere>
+    <matiere codeMat="AP43">11.68</matiere>
+    <matiere codeMat="AP44">16.76</matiere>
+    <matiere codeMat="AP45">16.88</matiere>
+    <matiere codeMat="AP46">15.46</matiere>
+  </note>
+  <note>
+    <CNE>743</CNE>
+    <LastName>Getch</LastName>
+    <FirstName>Yurik</FirstName>
+    <matiere codeMat="AP31">18.38</matiere>
+    <matiere codeMat="AP32">11.02</matiere>
+    <matiere codeMat="AP33">9.64</matiere>
+    <matiere codeMat="AP34">17.94</matiere>
+    <matiere codeMat="AP35">16.72</matiere>
+    <matiere codeMat="AP36">12.82</matiere>
+    <matiere codeMat="AP41">18.87</matiere>
+    <matiere codeMat="AP42">16.38</matiere>
+    <matiere codeMat="AP43">14.28</matiere>
+    <matiere codeMat="AP44">18.67</matiere>
+    <matiere codeMat="AP45">8.96</matiere>
+    <matiere codeMat="AP46">19.56</matiere>
+  </note>
+  <note>
+    <CNE>744</CNE>
+    <LastName>Yesichev</LastName>
+    <FirstName>Angelica</FirstName>
+    <matiere codeMat="AP31">16.2</matiere>
+    <matiere codeMat="AP32">18.58</matiere>
+    <matiere codeMat="AP33">12.23</matiere>
+    <matiere codeMat="AP34">10.85</matiere>
+    <matiere codeMat="AP35">19.02</matiere>
+    <matiere codeMat="AP36">13.74</matiere>
+    <matiere codeMat="AP41">17.23</matiere>
+    <matiere codeMat="AP42">11.95</matiere>
+    <matiere codeMat="AP43">8.13</matiere>
+    <matiere codeMat="AP44">10.08</matiere>
+    <matiere codeMat="AP45">13.22</matiere>
+    <matiere codeMat="AP46">9.64</matiere>
+  </note>
+  <note>
+    <CNE>745</CNE>
+    <LastName>Esby</LastName>
+    <FirstName>Suzanna</FirstName>
+    <matiere codeMat="AP31">14.63</matiere>
+    <matiere codeMat="AP32">9.13</matiere>
+    <matiere codeMat="AP33">17.9</matiere>
+    <matiere codeMat="AP34">16.55</matiere>
+    <matiere codeMat="AP35">17.52</matiere>
+    <matiere codeMat="AP36">10.8</matiere>
+    <matiere codeMat="AP41">11.59</matiere>
+    <matiere codeMat="AP42">16.38</matiere>
+    <matiere codeMat="AP43">11.29</matiere>
+    <matiere codeMat="AP44">12.09</matiere>
+    <matiere codeMat="AP45">12.66</matiere>
+    <matiere codeMat="AP46">9.34</matiere>
+  </note>
+  <note>
+    <CNE>746</CNE>
+    <LastName>Chaman</LastName>
+    <FirstName>Jilly</FirstName>
+    <matiere codeMat="AP31">13.52</matiere>
+    <matiere codeMat="AP32">18.51</matiere>
+    <matiere codeMat="AP33">9.55</matiere>
+    <matiere codeMat="AP34">17.82</matiere>
+    <matiere codeMat="AP35">14.34</matiere>
+    <matiere codeMat="AP36">11.64</matiere>
+    <matiere codeMat="AP41">14.1</matiere>
+    <matiere codeMat="AP42">18.34</matiere>
+    <matiere codeMat="AP43">11.27</matiere>
+    <matiere codeMat="AP44">12.18</matiere>
+    <matiere codeMat="AP45">12.99</matiere>
+    <matiere codeMat="AP46">16.48</matiere>
+  </note>
+  <note>
+    <CNE>747</CNE>
+    <LastName>Spurier</LastName>
+    <FirstName>Adella</FirstName>
+    <matiere codeMat="AP31">10.4</matiere>
+    <matiere codeMat="AP32">12.11</matiere>
+    <matiere codeMat="AP33">10.93</matiere>
+    <matiere codeMat="AP34">10.16</matiere>
+    <matiere codeMat="AP35">13.27</matiere>
+    <matiere codeMat="AP36">17.29</matiere>
+    <matiere codeMat="AP41">10.21</matiere>
+    <matiere codeMat="AP42">14.37</matiere>
+    <matiere codeMat="AP43">9.65</matiere>
+    <matiere codeMat="AP44">18.86</matiere>
+    <matiere codeMat="AP45">9.44</matiere>
+    <matiere codeMat="AP46">8.99</matiere>
+  </note>
+  <note>
+    <CNE>748</CNE>
+    <LastName>McKennan</LastName>
+    <FirstName>Brewer</FirstName>
+    <matiere codeMat="AP31">19.56</matiere>
+    <matiere codeMat="AP32">9.52</matiere>
+    <matiere codeMat="AP33">18.43</matiere>
+    <matiere codeMat="AP34">12.35</matiere>
+    <matiere codeMat="AP35">18.2</matiere>
+    <matiere codeMat="AP36">18.37</matiere>
+    <matiere codeMat="AP41">14.1</matiere>
+    <matiere codeMat="AP42">8.85</matiere>
+    <matiere codeMat="AP43">13.41</matiere>
+    <matiere codeMat="AP44">14.36</matiere>
+    <matiere codeMat="AP45">10.6</matiere>
+    <matiere codeMat="AP46">18.99</matiere>
+  </note>
+  <note>
+    <CNE>749</CNE>
+    <LastName>Lodevick</LastName>
+    <FirstName>Saw</FirstName>
+    <matiere codeMat="AP31">15.66</matiere>
+    <matiere codeMat="AP32">10.93</matiere>
+    <matiere codeMat="AP33">18.67</matiere>
+    <matiere codeMat="AP34">11.12</matiere>
+    <matiere codeMat="AP35">9.26</matiere>
+    <matiere codeMat="AP36">10.69</matiere>
+    <matiere codeMat="AP41">19.49</matiere>
+    <matiere codeMat="AP42">18.75</matiere>
+    <matiere codeMat="AP43">12.89</matiere>
+    <matiere codeMat="AP44">16.44</matiere>
+    <matiere codeMat="AP45">8.3</matiere>
+    <matiere codeMat="AP46">11.34</matiere>
+  </note>
+  <note>
+    <CNE>750</CNE>
+    <LastName>Robers</LastName>
+    <FirstName>Katha</FirstName>
+    <matiere codeMat="AP31">18.12</matiere>
+    <matiere codeMat="AP32">10.57</matiere>
+    <matiere codeMat="AP33">12</matiere>
+    <matiere codeMat="AP34">18.46</matiere>
+    <matiere codeMat="AP35">13.73</matiere>
+    <matiere codeMat="AP36">14.8</matiere>
+    <matiere codeMat="AP41">13.56</matiere>
+    <matiere codeMat="AP42">13.88</matiere>
+    <matiere codeMat="AP43">10.09</matiere>
+    <matiere codeMat="AP44">15.66</matiere>
+    <matiere codeMat="AP45">11.68</matiere>
+    <matiere codeMat="AP46">14.89</matiere>
+  </note>
+  <note>
+    <CNE>751</CNE>
+    <LastName>Monshall</LastName>
+    <FirstName>Alika</FirstName>
+    <matiere codeMat="AP31">16.81</matiere>
+    <matiere codeMat="AP32">14.42</matiere>
+    <matiere codeMat="AP33">17.93</matiere>
+    <matiere codeMat="AP34">10.52</matiere>
+    <matiere codeMat="AP35">10.13</matiere>
+    <matiere codeMat="AP36">17.86</matiere>
+    <matiere codeMat="AP41">11.5</matiere>
+    <matiere codeMat="AP42">18.04</matiere>
+    <matiere codeMat="AP43">9.57</matiere>
+    <matiere codeMat="AP44">10.77</matiere>
+    <matiere codeMat="AP45">13.09</matiere>
+    <matiere codeMat="AP46">12.62</matiere>
+  </note>
+  <note>
+    <CNE>752</CNE>
+    <LastName>Duding</LastName>
+    <FirstName>Erny</FirstName>
+    <matiere codeMat="AP31">12.62</matiere>
+    <matiere codeMat="AP32">11.34</matiere>
+    <matiere codeMat="AP33">9.65</matiere>
+    <matiere codeMat="AP34">9.11</matiere>
+    <matiere codeMat="AP35">18.82</matiere>
+    <matiere codeMat="AP36">13.88</matiere>
+    <matiere codeMat="AP41">9.57</matiere>
+    <matiere codeMat="AP42">10.59</matiere>
+    <matiere codeMat="AP43">18.65</matiere>
+    <matiere codeMat="AP44">16.16</matiere>
+    <matiere codeMat="AP45">11.06</matiere>
+    <matiere codeMat="AP46">17.23</matiere>
+  </note>
+  <note>
+    <CNE>753</CNE>
+    <LastName>Bage</LastName>
+    <FirstName>Ynes</FirstName>
+    <matiere codeMat="AP31">10.51</matiere>
+    <matiere codeMat="AP32">15.12</matiere>
+    <matiere codeMat="AP33">12.54</matiere>
+    <matiere codeMat="AP34">13.24</matiere>
+    <matiere codeMat="AP35">12.7</matiere>
+    <matiere codeMat="AP36">13</matiere>
+    <matiere codeMat="AP41">10.85</matiere>
+    <matiere codeMat="AP42">14.77</matiere>
+    <matiere codeMat="AP43">15.74</matiere>
+    <matiere codeMat="AP44">11.93</matiere>
+    <matiere codeMat="AP45">18.47</matiere>
+    <matiere codeMat="AP46">14.98</matiere>
+  </note>
+  <note>
+    <CNE>754</CNE>
+    <LastName>Crothers</LastName>
+    <FirstName>Blane</FirstName>
+    <matiere codeMat="AP31">13.78</matiere>
+    <matiere codeMat="AP32">11.09</matiere>
+    <matiere codeMat="AP33">18.81</matiere>
+    <matiere codeMat="AP34">9.37</matiere>
+    <matiere codeMat="AP35">15.52</matiere>
+    <matiere codeMat="AP36">18.22</matiere>
+    <matiere codeMat="AP41">17.84</matiere>
+    <matiere codeMat="AP42">8.03</matiere>
+    <matiere codeMat="AP43">10.66</matiere>
+    <matiere codeMat="AP44">16.33</matiere>
+    <matiere codeMat="AP45">14.94</matiere>
+    <matiere codeMat="AP46">9.04</matiere>
+  </note>
+  <note>
+    <CNE>755</CNE>
+    <LastName>McDonell</LastName>
+    <FirstName>Alyson</FirstName>
+    <matiere codeMat="AP31">13.38</matiere>
+    <matiere codeMat="AP32">17.5</matiere>
+    <matiere codeMat="AP33">12.01</matiere>
+    <matiere codeMat="AP34">11.9</matiere>
+    <matiere codeMat="AP35">16.25</matiere>
+    <matiere codeMat="AP36">11.51</matiere>
+    <matiere codeMat="AP41">8.89</matiere>
+    <matiere codeMat="AP42">15.19</matiere>
+    <matiere codeMat="AP43">10.11</matiere>
+    <matiere codeMat="AP44">10.31</matiere>
+    <matiere codeMat="AP45">12.41</matiere>
+    <matiere codeMat="AP46">8.69</matiere>
+  </note>
+  <note>
+    <CNE>756</CNE>
+    <LastName>Pither</LastName>
+    <FirstName>Shantee</FirstName>
+    <matiere codeMat="AP31">12.7</matiere>
+    <matiere codeMat="AP32">9.8</matiere>
+    <matiere codeMat="AP33">19.02</matiere>
+    <matiere codeMat="AP34">16.02</matiere>
+    <matiere codeMat="AP35">10.34</matiere>
+    <matiere codeMat="AP36">9.5</matiere>
+    <matiere codeMat="AP41">19.05</matiere>
+    <matiere codeMat="AP42">19.76</matiere>
+    <matiere codeMat="AP43">16.67</matiere>
+    <matiere codeMat="AP44">14.53</matiere>
+    <matiere codeMat="AP45">13.58</matiere>
+    <matiere codeMat="AP46">16.18</matiere>
+  </note>
+  <note>
+    <CNE>757</CNE>
+    <LastName>Kosel</LastName>
+    <FirstName>Morlee</FirstName>
+    <matiere codeMat="AP31">9.63</matiere>
+    <matiere codeMat="AP32">19.89</matiere>
+    <matiere codeMat="AP33">18.28</matiere>
+    <matiere codeMat="AP34">18.23</matiere>
+    <matiere codeMat="AP35">16.12</matiere>
+    <matiere codeMat="AP36">9.35</matiere>
+    <matiere codeMat="AP41">11.77</matiere>
+    <matiere codeMat="AP42">16.29</matiere>
+    <matiere codeMat="AP43">8.52</matiere>
+    <matiere codeMat="AP44">12.6</matiere>
+    <matiere codeMat="AP45">15.77</matiere>
+    <matiere codeMat="AP46">15.33</matiere>
+  </note>
+  <note>
+    <CNE>758</CNE>
+    <LastName>Vasilchikov</LastName>
+    <FirstName>Cyril</FirstName>
+    <matiere codeMat="AP31">16.67</matiere>
+    <matiere codeMat="AP32">17.3</matiere>
+    <matiere codeMat="AP33">13.1</matiere>
+    <matiere codeMat="AP34">18.23</matiere>
+    <matiere codeMat="AP35">17.7</matiere>
+    <matiere codeMat="AP36">10.5</matiere>
+    <matiere codeMat="AP41">18.22</matiere>
+    <matiere codeMat="AP42">8.4</matiere>
+    <matiere codeMat="AP43">15.26</matiere>
+    <matiere codeMat="AP44">10.6</matiere>
+    <matiere codeMat="AP45">9.45</matiere>
+    <matiere codeMat="AP46">14.18</matiere>
+  </note>
+  <note>
+    <CNE>759</CNE>
+    <LastName>Coneybeer</LastName>
+    <FirstName>Thorstein</FirstName>
+    <matiere codeMat="AP31">15.74</matiere>
+    <matiere codeMat="AP32">14.45</matiere>
+    <matiere codeMat="AP33">16.14</matiere>
+    <matiere codeMat="AP34">17.55</matiere>
+    <matiere codeMat="AP35">10.35</matiere>
+    <matiere codeMat="AP36">9.37</matiere>
+    <matiere codeMat="AP41">15.34</matiere>
+    <matiere codeMat="AP42">17.06</matiere>
+    <matiere codeMat="AP43">18.72</matiere>
+    <matiere codeMat="AP44">18.28</matiere>
+    <matiere codeMat="AP45">18.89</matiere>
+    <matiere codeMat="AP46">11.15</matiere>
+  </note>
+  <note>
+    <CNE>760</CNE>
+    <LastName>Edrich</LastName>
+    <FirstName>Ralina</FirstName>
+    <matiere codeMat="AP31">16.23</matiere>
+    <matiere codeMat="AP32">12.78</matiere>
+    <matiere codeMat="AP33">12.7</matiere>
+    <matiere codeMat="AP34">11.17</matiere>
+    <matiere codeMat="AP35">13.44</matiere>
+    <matiere codeMat="AP36">12.75</matiere>
+    <matiere codeMat="AP41">14.64</matiere>
+    <matiere codeMat="AP42">13.36</matiere>
+    <matiere codeMat="AP43">19.03</matiere>
+    <matiere codeMat="AP44">18.46</matiere>
+    <matiere codeMat="AP45">18.75</matiere>
+    <matiere codeMat="AP46">10.33</matiere>
+  </note>
+  <note>
+    <CNE>761</CNE>
+    <LastName>Krysztofiak</LastName>
+    <FirstName>Blinni</FirstName>
+    <matiere codeMat="AP31">9</matiere>
+    <matiere codeMat="AP32">15.23</matiere>
+    <matiere codeMat="AP33">10.59</matiere>
+    <matiere codeMat="AP34">14.54</matiere>
+    <matiere codeMat="AP35">14.35</matiere>
+    <matiere codeMat="AP36">10.65</matiere>
+    <matiere codeMat="AP41">13.54</matiere>
+    <matiere codeMat="AP42">10.74</matiere>
+    <matiere codeMat="AP43">17.91</matiere>
+    <matiere codeMat="AP44">18.33</matiere>
+    <matiere codeMat="AP45">19.42</matiere>
+    <matiere codeMat="AP46">16.54</matiere>
+  </note>
+  <note>
+    <CNE>762</CNE>
+    <LastName>Luparto</LastName>
+    <FirstName>Haslett</FirstName>
+    <matiere codeMat="AP31">16.23</matiere>
+    <matiere codeMat="AP32">14.15</matiere>
+    <matiere codeMat="AP33">9.1</matiere>
+    <matiere codeMat="AP34">9.12</matiere>
+    <matiere codeMat="AP35">17.99</matiere>
+    <matiere codeMat="AP36">11.68</matiere>
+    <matiere codeMat="AP41">14.54</matiere>
+    <matiere codeMat="AP42">11.59</matiere>
+    <matiere codeMat="AP43">19.95</matiere>
+    <matiere codeMat="AP44">19.84</matiere>
+    <matiere codeMat="AP45">10.52</matiere>
+    <matiere codeMat="AP46">12.87</matiere>
+  </note>
+  <note>
+    <CNE>763</CNE>
+    <LastName>Deakins</LastName>
+    <FirstName>Sam</FirstName>
+    <matiere codeMat="AP31">14.81</matiere>
+    <matiere codeMat="AP32">13.99</matiere>
+    <matiere codeMat="AP33">12.61</matiere>
+    <matiere codeMat="AP34">12.71</matiere>
+    <matiere codeMat="AP35">18.4</matiere>
+    <matiere codeMat="AP36">10.1</matiere>
+    <matiere codeMat="AP41">13.55</matiere>
+    <matiere codeMat="AP42">13.06</matiere>
+    <matiere codeMat="AP43">17.53</matiere>
+    <matiere codeMat="AP44">10.55</matiere>
+    <matiere codeMat="AP45">16.9</matiere>
+    <matiere codeMat="AP46">15.14</matiere>
+  </note>
+  <note>
+    <CNE>764</CNE>
+    <LastName>Parcall</LastName>
+    <FirstName>Hillier</FirstName>
+    <matiere codeMat="AP31">9.06</matiere>
+    <matiere codeMat="AP32">9.24</matiere>
+    <matiere codeMat="AP33">11.3</matiere>
+    <matiere codeMat="AP34">19.92</matiere>
+    <matiere codeMat="AP35">14.29</matiere>
+    <matiere codeMat="AP36">8.42</matiere>
+    <matiere codeMat="AP41">9.78</matiere>
+    <matiere codeMat="AP42">13.16</matiere>
+    <matiere codeMat="AP43">8.34</matiere>
+    <matiere codeMat="AP44">9.4</matiere>
+    <matiere codeMat="AP45">15.5</matiere>
+    <matiere codeMat="AP46">9.55</matiere>
+  </note>
+  <note>
+    <CNE>765</CNE>
+    <LastName>Titterington</LastName>
+    <FirstName>Allina</FirstName>
+    <matiere codeMat="AP31">19.28</matiere>
+    <matiere codeMat="AP32">17.37</matiere>
+    <matiere codeMat="AP33">12.73</matiere>
+    <matiere codeMat="AP34">9.61</matiere>
+    <matiere codeMat="AP35">11.52</matiere>
+    <matiere codeMat="AP36">14.99</matiere>
+    <matiere codeMat="AP41">18.54</matiere>
+    <matiere codeMat="AP42">15.16</matiere>
+    <matiere codeMat="AP43">15.26</matiere>
+    <matiere codeMat="AP44">17.15</matiere>
+    <matiere codeMat="AP45">9.46</matiere>
+    <matiere codeMat="AP46">11.24</matiere>
+  </note>
+  <note>
+    <CNE>766</CNE>
+    <LastName>Drewett</LastName>
+    <FirstName>Astrix</FirstName>
+    <matiere codeMat="AP31">19.06</matiere>
+    <matiere codeMat="AP32">18.6</matiere>
+    <matiere codeMat="AP33">10.92</matiere>
+    <matiere codeMat="AP34">17.83</matiere>
+    <matiere codeMat="AP35">10.93</matiere>
+    <matiere codeMat="AP36">16.86</matiere>
+    <matiere codeMat="AP41">12.11</matiere>
+    <matiere codeMat="AP42">12.13</matiere>
+    <matiere codeMat="AP43">14.18</matiere>
+    <matiere codeMat="AP44">10.35</matiere>
+    <matiere codeMat="AP45">12.73</matiere>
+    <matiere codeMat="AP46">14.09</matiere>
+  </note>
+  <note>
+    <CNE>767</CNE>
+    <LastName>Dunkley</LastName>
+    <FirstName>Randie</FirstName>
+    <matiere codeMat="AP31">15.61</matiere>
+    <matiere codeMat="AP32">18.73</matiere>
+    <matiere codeMat="AP33">13.83</matiere>
+    <matiere codeMat="AP34">14.84</matiere>
+    <matiere codeMat="AP35">16.78</matiere>
+    <matiere codeMat="AP36">17.82</matiere>
+    <matiere codeMat="AP41">18.29</matiere>
+    <matiere codeMat="AP42">16.84</matiere>
+    <matiere codeMat="AP43">12.01</matiere>
+    <matiere codeMat="AP44">19.88</matiere>
+    <matiere codeMat="AP45">10.38</matiere>
+    <matiere codeMat="AP46">19.43</matiere>
+  </note>
+  <note>
+    <CNE>768</CNE>
+    <LastName>Choke</LastName>
+    <FirstName>Wyn</FirstName>
+    <matiere codeMat="AP31">16.5</matiere>
+    <matiere codeMat="AP32">11.66</matiere>
+    <matiere codeMat="AP33">18.35</matiere>
+    <matiere codeMat="AP34">14.12</matiere>
+    <matiere codeMat="AP35">15.56</matiere>
+    <matiere codeMat="AP36">17.51</matiere>
+    <matiere codeMat="AP41">12.37</matiere>
+    <matiere codeMat="AP42">8.95</matiere>
+    <matiere codeMat="AP43">17.37</matiere>
+    <matiere codeMat="AP44">14.29</matiere>
+    <matiere codeMat="AP45">17.12</matiere>
+    <matiere codeMat="AP46">13.1</matiere>
+  </note>
+  <note>
+    <CNE>769</CNE>
+    <LastName>Normanvill</LastName>
+    <FirstName>Bari</FirstName>
+    <matiere codeMat="AP31">18.2</matiere>
+    <matiere codeMat="AP32">9.65</matiere>
+    <matiere codeMat="AP33">16.44</matiere>
+    <matiere codeMat="AP34">16.99</matiere>
+    <matiere codeMat="AP35">13.4</matiere>
+    <matiere codeMat="AP36">12.26</matiere>
+    <matiere codeMat="AP41">12.35</matiere>
+    <matiere codeMat="AP42">13.3</matiere>
+    <matiere codeMat="AP43">11.73</matiere>
+    <matiere codeMat="AP44">12.45</matiere>
+    <matiere codeMat="AP45">13.78</matiere>
+    <matiere codeMat="AP46">14.66</matiere>
+  </note>
+  <note>
+    <CNE>770</CNE>
+    <LastName>Conor</LastName>
+    <FirstName>Dominique</FirstName>
+    <matiere codeMat="AP31">12.7</matiere>
+    <matiere codeMat="AP32">9.68</matiere>
+    <matiere codeMat="AP33">9.91</matiere>
+    <matiere codeMat="AP34">19.74</matiere>
+    <matiere codeMat="AP35">13.06</matiere>
+    <matiere codeMat="AP36">19.33</matiere>
+    <matiere codeMat="AP41">8.09</matiere>
+    <matiere codeMat="AP42">16.33</matiere>
+    <matiere codeMat="AP43">14.39</matiere>
+    <matiere codeMat="AP44">14.51</matiere>
+    <matiere codeMat="AP45">13.75</matiere>
+    <matiere codeMat="AP46">19.6</matiere>
+  </note>
+  <note>
+    <CNE>771</CNE>
+    <LastName>Westmorland</LastName>
+    <FirstName>Etienne</FirstName>
+    <matiere codeMat="AP31">19.2</matiere>
+    <matiere codeMat="AP32">13.32</matiere>
+    <matiere codeMat="AP33">11.57</matiere>
+    <matiere codeMat="AP34">12.57</matiere>
+    <matiere codeMat="AP35">14.91</matiere>
+    <matiere codeMat="AP36">10.2</matiere>
+    <matiere codeMat="AP41">10.95</matiere>
+    <matiere codeMat="AP42">14.09</matiere>
+    <matiere codeMat="AP43">12.71</matiere>
+    <matiere codeMat="AP44">18.53</matiere>
+    <matiere codeMat="AP45">12.47</matiere>
+    <matiere codeMat="AP46">14.61</matiere>
+  </note>
+  <note>
+    <CNE>772</CNE>
+    <LastName>Coates</LastName>
+    <FirstName>Eada</FirstName>
+    <matiere codeMat="AP31">10.39</matiere>
+    <matiere codeMat="AP32">10.44</matiere>
+    <matiere codeMat="AP33">15.26</matiere>
+    <matiere codeMat="AP34">15.71</matiere>
+    <matiere codeMat="AP35">9.7</matiere>
+    <matiere codeMat="AP36">19.24</matiere>
+    <matiere codeMat="AP41">11.13</matiere>
+    <matiere codeMat="AP42">14.43</matiere>
+    <matiere codeMat="AP43">14.88</matiere>
+    <matiere codeMat="AP44">19.6</matiere>
+    <matiere codeMat="AP45">9.78</matiere>
+    <matiere codeMat="AP46">16.27</matiere>
+  </note>
+  <note>
+    <CNE>773</CNE>
+    <LastName>McCourt</LastName>
+    <FirstName>Alverta</FirstName>
+    <matiere codeMat="AP31">16.17</matiere>
+    <matiere codeMat="AP32">14.65</matiere>
+    <matiere codeMat="AP33">19.01</matiere>
+    <matiere codeMat="AP34">16.79</matiere>
+    <matiere codeMat="AP35">16.49</matiere>
+    <matiere codeMat="AP36">11.7</matiere>
+    <matiere codeMat="AP41">18.69</matiere>
+    <matiere codeMat="AP42">19.04</matiere>
+    <matiere codeMat="AP43">15.03</matiere>
+    <matiere codeMat="AP44">18.88</matiere>
+    <matiere codeMat="AP45">12.81</matiere>
+    <matiere codeMat="AP46">16.21</matiere>
+  </note>
+  <note>
+    <CNE>774</CNE>
+    <LastName>Pakenham</LastName>
+    <FirstName>Holt</FirstName>
+    <matiere codeMat="AP31">19.72</matiere>
+    <matiere codeMat="AP32">19.02</matiere>
+    <matiere codeMat="AP33">19.3</matiere>
+    <matiere codeMat="AP34">17.64</matiere>
+    <matiere codeMat="AP35">14.8</matiere>
+    <matiere codeMat="AP36">18.51</matiere>
+    <matiere codeMat="AP41">9.65</matiere>
+    <matiere codeMat="AP42">10.04</matiere>
+    <matiere codeMat="AP43">16.25</matiere>
+    <matiere codeMat="AP44">17.42</matiere>
+    <matiere codeMat="AP45">15.35</matiere>
+    <matiere codeMat="AP46">8.84</matiere>
+  </note>
+  <note>
+    <CNE>775</CNE>
+    <LastName>Seifenmacher</LastName>
+    <FirstName>Doroteya</FirstName>
+    <matiere codeMat="AP31">13.93</matiere>
+    <matiere codeMat="AP32">18.4</matiere>
+    <matiere codeMat="AP33">11.45</matiere>
+    <matiere codeMat="AP34">16.37</matiere>
+    <matiere codeMat="AP35">13.16</matiere>
+    <matiere codeMat="AP36">12.34</matiere>
+    <matiere codeMat="AP41">16.79</matiere>
+    <matiere codeMat="AP42">14.78</matiere>
+    <matiere codeMat="AP43">18.86</matiere>
+    <matiere codeMat="AP44">10.31</matiere>
+    <matiere codeMat="AP45">15.55</matiere>
+    <matiere codeMat="AP46">18.99</matiere>
+  </note>
+  <note>
+    <CNE>776</CNE>
+    <LastName>Neary</LastName>
+    <FirstName>Netty</FirstName>
+    <matiere codeMat="AP31">18.32</matiere>
+    <matiere codeMat="AP32">18.07</matiere>
+    <matiere codeMat="AP33">13.4</matiere>
+    <matiere codeMat="AP34">16.46</matiere>
+    <matiere codeMat="AP35">13.57</matiere>
+    <matiere codeMat="AP36">18.44</matiere>
+    <matiere codeMat="AP41">19.42</matiere>
+    <matiere codeMat="AP42">17.88</matiere>
+    <matiere codeMat="AP43">14.25</matiere>
+    <matiere codeMat="AP44">19.73</matiere>
+    <matiere codeMat="AP45">14.12</matiere>
+    <matiere codeMat="AP46">14.5</matiere>
+  </note>
+  <note>
+    <CNE>777</CNE>
+    <LastName>Husk</LastName>
+    <FirstName>Rafaela</FirstName>
+    <matiere codeMat="AP31">17.67</matiere>
+    <matiere codeMat="AP32">15.8</matiere>
+    <matiere codeMat="AP33">18.57</matiere>
+    <matiere codeMat="AP34">10.78</matiere>
+    <matiere codeMat="AP35">10.11</matiere>
+    <matiere codeMat="AP36">10.27</matiere>
+    <matiere codeMat="AP41">8.97</matiere>
+    <matiere codeMat="AP42">17.7</matiere>
+    <matiere codeMat="AP43">17.52</matiere>
+    <matiere codeMat="AP44">15.11</matiere>
+    <matiere codeMat="AP45">10.92</matiere>
+    <matiere codeMat="AP46">9.13</matiere>
+  </note>
+  <note>
+    <CNE>778</CNE>
+    <LastName>Titterington</LastName>
+    <FirstName>Skell</FirstName>
+    <matiere codeMat="AP31">15.38</matiere>
+    <matiere codeMat="AP32">9.84</matiere>
+    <matiere codeMat="AP33">10.49</matiere>
+    <matiere codeMat="AP34">11.58</matiere>
+    <matiere codeMat="AP35">13.14</matiere>
+    <matiere codeMat="AP36">14.07</matiere>
+    <matiere codeMat="AP41">11.44</matiere>
+    <matiere codeMat="AP42">9.62</matiere>
+    <matiere codeMat="AP43">14.17</matiere>
+    <matiere codeMat="AP44">13.5</matiere>
+    <matiere codeMat="AP45">8.93</matiere>
+    <matiere codeMat="AP46">11.33</matiere>
+  </note>
+  <note>
+    <CNE>779</CNE>
+    <LastName>Duplock</LastName>
+    <FirstName>Archer</FirstName>
+    <matiere codeMat="AP31">15.14</matiere>
+    <matiere codeMat="AP32">17.58</matiere>
+    <matiere codeMat="AP33">14.88</matiere>
+    <matiere codeMat="AP34">12.78</matiere>
+    <matiere codeMat="AP35">17.29</matiere>
+    <matiere codeMat="AP36">17.12</matiere>
+    <matiere codeMat="AP41">11.1</matiere>
+    <matiere codeMat="AP42">8.07</matiere>
+    <matiere codeMat="AP43">18.95</matiere>
+    <matiere codeMat="AP44">18.5</matiere>
+    <matiere codeMat="AP45">10.75</matiere>
+    <matiere codeMat="AP46">14.56</matiere>
+  </note>
+  <note>
+    <CNE>780</CNE>
+    <LastName>Castleton</LastName>
+    <FirstName>Brennen</FirstName>
+    <matiere codeMat="AP31">13.95</matiere>
+    <matiere codeMat="AP32">18.19</matiere>
+    <matiere codeMat="AP33">13.82</matiere>
+    <matiere codeMat="AP34">9.91</matiere>
+    <matiere codeMat="AP35">12.13</matiere>
+    <matiere codeMat="AP36">19.08</matiere>
+    <matiere codeMat="AP41">17.35</matiere>
+    <matiere codeMat="AP42">15.82</matiere>
+    <matiere codeMat="AP43">9.08</matiere>
+    <matiere codeMat="AP44">15.67</matiere>
+    <matiere codeMat="AP45">12.42</matiere>
+    <matiere codeMat="AP46">11.46</matiere>
+  </note>
+  <note>
+    <CNE>781</CNE>
+    <LastName>Pache</LastName>
+    <FirstName>Leone</FirstName>
+    <matiere codeMat="AP31">19.5</matiere>
+    <matiere codeMat="AP32">17.22</matiere>
+    <matiere codeMat="AP33">16.8</matiere>
+    <matiere codeMat="AP34">17.86</matiere>
+    <matiere codeMat="AP35">12.8</matiere>
+    <matiere codeMat="AP36">11.3</matiere>
+    <matiere codeMat="AP41">19.67</matiere>
+    <matiere codeMat="AP42">9.79</matiere>
+    <matiere codeMat="AP43">17.15</matiere>
+    <matiere codeMat="AP44">10.88</matiere>
+    <matiere codeMat="AP45">8.45</matiere>
+    <matiere codeMat="AP46">13.54</matiere>
+  </note>
+  <note>
+    <CNE>782</CNE>
+    <LastName>Oldnall</LastName>
+    <FirstName>Panchito</FirstName>
+    <matiere codeMat="AP31">11.89</matiere>
+    <matiere codeMat="AP32">19.81</matiere>
+    <matiere codeMat="AP33">14.62</matiere>
+    <matiere codeMat="AP34">11.38</matiere>
+    <matiere codeMat="AP35">18.42</matiere>
+    <matiere codeMat="AP36">14.38</matiere>
+    <matiere codeMat="AP41">18.9</matiere>
+    <matiere codeMat="AP42">17.27</matiere>
+    <matiere codeMat="AP43">18.8</matiere>
+    <matiere codeMat="AP44">13.52</matiere>
+    <matiere codeMat="AP45">15.31</matiere>
+    <matiere codeMat="AP46">14.74</matiere>
+  </note>
+  <note>
+    <CNE>783</CNE>
+    <LastName>McGaffey</LastName>
+    <FirstName>Claudine</FirstName>
+    <matiere codeMat="AP31">15.77</matiere>
+    <matiere codeMat="AP32">18.62</matiere>
+    <matiere codeMat="AP33">18.56</matiere>
+    <matiere codeMat="AP34">11.39</matiere>
+    <matiere codeMat="AP35">18.9</matiere>
+    <matiere codeMat="AP36">14.05</matiere>
+    <matiere codeMat="AP41">13.01</matiere>
+    <matiere codeMat="AP42">18.47</matiere>
+    <matiere codeMat="AP43">11.06</matiere>
+    <matiere codeMat="AP44">11.08</matiere>
+    <matiere codeMat="AP45">10.23</matiere>
+    <matiere codeMat="AP46">15.59</matiere>
+  </note>
+  <note>
+    <CNE>784</CNE>
+    <LastName>Jeness</LastName>
+    <FirstName>Leighton</FirstName>
+    <matiere codeMat="AP31">9.35</matiere>
+    <matiere codeMat="AP32">16.16</matiere>
+    <matiere codeMat="AP33">13.19</matiere>
+    <matiere codeMat="AP34">13.64</matiere>
+    <matiere codeMat="AP35">14.28</matiere>
+    <matiere codeMat="AP36">18.61</matiere>
+    <matiere codeMat="AP41">9.93</matiere>
+    <matiere codeMat="AP42">16.58</matiere>
+    <matiere codeMat="AP43">15.3</matiere>
+    <matiere codeMat="AP44">9.82</matiere>
+    <matiere codeMat="AP45">13.93</matiere>
+    <matiere codeMat="AP46">18.64</matiere>
+  </note>
+  <note>
+    <CNE>785</CNE>
+    <LastName>Shoebridge</LastName>
+    <FirstName>Raimundo</FirstName>
+    <matiere codeMat="AP31">14.99</matiere>
+    <matiere codeMat="AP32">10.46</matiere>
+    <matiere codeMat="AP33">11.76</matiere>
+    <matiere codeMat="AP34">11.6</matiere>
+    <matiere codeMat="AP35">13.72</matiere>
+    <matiere codeMat="AP36">13.51</matiere>
+    <matiere codeMat="AP41">15.86</matiere>
+    <matiere codeMat="AP42">12.25</matiere>
+    <matiere codeMat="AP43">16.27</matiere>
+    <matiere codeMat="AP44">11.66</matiere>
+    <matiere codeMat="AP45">19.06</matiere>
+    <matiere codeMat="AP46">10.21</matiere>
+  </note>
+  <note>
+    <CNE>786</CNE>
+    <LastName>Matheson</LastName>
+    <FirstName>Aland</FirstName>
+    <matiere codeMat="AP31">16.26</matiere>
+    <matiere codeMat="AP32">19.05</matiere>
+    <matiere codeMat="AP33">10.37</matiere>
+    <matiere codeMat="AP34">17.65</matiere>
+    <matiere codeMat="AP35">10.59</matiere>
+    <matiere codeMat="AP36">13.9</matiere>
+    <matiere codeMat="AP41">10.53</matiere>
+    <matiere codeMat="AP42">10.9</matiere>
+    <matiere codeMat="AP43">19.04</matiere>
+    <matiere codeMat="AP44">16.28</matiere>
+    <matiere codeMat="AP45">12.19</matiere>
+    <matiere codeMat="AP46">8.98</matiere>
+  </note>
+  <note>
+    <CNE>787</CNE>
+    <LastName>Attwater</LastName>
+    <FirstName>Meridith</FirstName>
+    <matiere codeMat="AP31">15.37</matiere>
+    <matiere codeMat="AP32">14.88</matiere>
+    <matiere codeMat="AP33">14.41</matiere>
+    <matiere codeMat="AP34">14.51</matiere>
+    <matiere codeMat="AP35">9.24</matiere>
+    <matiere codeMat="AP36">14.5</matiere>
+    <matiere codeMat="AP41">11.39</matiere>
+    <matiere codeMat="AP42">12.9</matiere>
+    <matiere codeMat="AP43">16.25</matiere>
+    <matiere codeMat="AP44">10.76</matiere>
+    <matiere codeMat="AP45">11.66</matiere>
+    <matiere codeMat="AP46">14.25</matiere>
+  </note>
+  <note>
+    <CNE>788</CNE>
+    <LastName>Heliar</LastName>
+    <FirstName>Raye</FirstName>
+    <matiere codeMat="AP31">19.79</matiere>
+    <matiere codeMat="AP32">12.35</matiere>
+    <matiere codeMat="AP33">19.89</matiere>
+    <matiere codeMat="AP34">12.62</matiere>
+    <matiere codeMat="AP35">19.75</matiere>
+    <matiere codeMat="AP36">10.7</matiere>
+    <matiere codeMat="AP41">12.68</matiere>
+    <matiere codeMat="AP42">8.2</matiere>
+    <matiere codeMat="AP43">16.22</matiere>
+    <matiere codeMat="AP44">13.25</matiere>
+    <matiere codeMat="AP45">19.72</matiere>
+    <matiere codeMat="AP46">17.99</matiere>
+  </note>
+  <note>
+    <CNE>789</CNE>
+    <LastName>Stanistrete</LastName>
+    <FirstName>Freda</FirstName>
+    <matiere codeMat="AP31">14.73</matiere>
+    <matiere codeMat="AP32">10.16</matiere>
+    <matiere codeMat="AP33">18.13</matiere>
+    <matiere codeMat="AP34">19.92</matiere>
+    <matiere codeMat="AP35">19.13</matiere>
+    <matiere codeMat="AP36">14.62</matiere>
+    <matiere codeMat="AP41">16</matiere>
+    <matiere codeMat="AP42">11.56</matiere>
+    <matiere codeMat="AP43">15.9</matiere>
+    <matiere codeMat="AP44">14.86</matiere>
+    <matiere codeMat="AP45">19.77</matiere>
+    <matiere codeMat="AP46">14.57</matiere>
+  </note>
+  <note>
+    <CNE>790</CNE>
+    <LastName>Cumbers</LastName>
+    <FirstName>Burg</FirstName>
+    <matiere codeMat="AP31">11.67</matiere>
+    <matiere codeMat="AP32">11.53</matiere>
+    <matiere codeMat="AP33">16.13</matiere>
+    <matiere codeMat="AP34">9.56</matiere>
+    <matiere codeMat="AP35">17.91</matiere>
+    <matiere codeMat="AP36">12.02</matiere>
+    <matiere codeMat="AP41">12.83</matiere>
+    <matiere codeMat="AP42">13.97</matiere>
+    <matiere codeMat="AP43">11.93</matiere>
+    <matiere codeMat="AP44">16.09</matiere>
+    <matiere codeMat="AP45">12.92</matiere>
+    <matiere codeMat="AP46">13.85</matiere>
+  </note>
+  <note>
+    <CNE>791</CNE>
+    <LastName>Ferraraccio</LastName>
+    <FirstName>Catherine</FirstName>
+    <matiere codeMat="AP31">16.72</matiere>
+    <matiere codeMat="AP32">9.56</matiere>
+    <matiere codeMat="AP33">14.79</matiere>
+    <matiere codeMat="AP34">14.77</matiere>
+    <matiere codeMat="AP35">13.12</matiere>
+    <matiere codeMat="AP36">12.92</matiere>
+    <matiere codeMat="AP41">8.05</matiere>
+    <matiere codeMat="AP42">13.05</matiere>
+    <matiere codeMat="AP43">17.46</matiere>
+    <matiere codeMat="AP44">15.68</matiere>
+    <matiere codeMat="AP45">18.86</matiere>
+    <matiere codeMat="AP46">13.51</matiere>
+  </note>
+  <note>
+    <CNE>792</CNE>
+    <LastName>Chamberlayne</LastName>
+    <FirstName>Franklin</FirstName>
+    <matiere codeMat="AP31">12.01</matiere>
+    <matiere codeMat="AP32">11.57</matiere>
+    <matiere codeMat="AP33">14.89</matiere>
+    <matiere codeMat="AP34">9.77</matiere>
+    <matiere codeMat="AP35">13.72</matiere>
+    <matiere codeMat="AP36">15.46</matiere>
+    <matiere codeMat="AP41">11.56</matiere>
+    <matiere codeMat="AP42">16.99</matiere>
+    <matiere codeMat="AP43">16.62</matiere>
+    <matiere codeMat="AP44">13.38</matiere>
+    <matiere codeMat="AP45">8.45</matiere>
+    <matiere codeMat="AP46">13.22</matiere>
+  </note>
+  <note>
+    <CNE>793</CNE>
+    <LastName>Warrington</LastName>
+    <FirstName>Darren</FirstName>
+    <matiere codeMat="AP31">19.55</matiere>
+    <matiere codeMat="AP32">18.05</matiere>
+    <matiere codeMat="AP33">18.77</matiere>
+    <matiere codeMat="AP34">19.73</matiere>
+    <matiere codeMat="AP35">14.85</matiere>
+    <matiere codeMat="AP36">9.37</matiere>
+    <matiere codeMat="AP41">19.64</matiere>
+    <matiere codeMat="AP42">12.69</matiere>
+    <matiere codeMat="AP43">10.04</matiere>
+    <matiere codeMat="AP44">14.5</matiere>
+    <matiere codeMat="AP45">11.92</matiere>
+    <matiere codeMat="AP46">14.05</matiere>
+  </note>
+  <note>
+    <CNE>794</CNE>
+    <LastName>Kruger</LastName>
+    <FirstName>Haydon</FirstName>
+    <matiere codeMat="AP31">11.93</matiere>
+    <matiere codeMat="AP32">11.14</matiere>
+    <matiere codeMat="AP33">9.66</matiere>
+    <matiere codeMat="AP34">10.1</matiere>
+    <matiere codeMat="AP35">11.63</matiere>
+    <matiere codeMat="AP36">19.65</matiere>
+    <matiere codeMat="AP41">19.87</matiere>
+    <matiere codeMat="AP42">17.83</matiere>
+    <matiere codeMat="AP43">18.93</matiere>
+    <matiere codeMat="AP44">12.66</matiere>
+    <matiere codeMat="AP45">15.64</matiere>
+    <matiere codeMat="AP46">14.43</matiere>
+  </note>
+  <note>
+    <CNE>795</CNE>
+    <LastName>Austick</LastName>
+    <FirstName>Katlin</FirstName>
+    <matiere codeMat="AP31">15.93</matiere>
+    <matiere codeMat="AP32">14.62</matiere>
+    <matiere codeMat="AP33">17.42</matiere>
+    <matiere codeMat="AP34">14.67</matiere>
+    <matiere codeMat="AP35">11.47</matiere>
+    <matiere codeMat="AP36">19.1</matiere>
+    <matiere codeMat="AP41">19.03</matiere>
+    <matiere codeMat="AP42">18.38</matiere>
+    <matiere codeMat="AP43">14.68</matiere>
+    <matiere codeMat="AP44">17.16</matiere>
+    <matiere codeMat="AP45">16.02</matiere>
+    <matiere codeMat="AP46">10.3</matiere>
+  </note>
+  <note>
+    <CNE>796</CNE>
+    <LastName>David</LastName>
+    <FirstName>Velvet</FirstName>
+    <matiere codeMat="AP31">12.25</matiere>
+    <matiere codeMat="AP32">11.32</matiere>
+    <matiere codeMat="AP33">11.83</matiere>
+    <matiere codeMat="AP34">19.95</matiere>
+    <matiere codeMat="AP35">19.43</matiere>
+    <matiere codeMat="AP36">17.81</matiere>
+    <matiere codeMat="AP41">12.71</matiere>
+    <matiere codeMat="AP42">18.46</matiere>
+    <matiere codeMat="AP43">13.11</matiere>
+    <matiere codeMat="AP44">12.67</matiere>
+    <matiere codeMat="AP45">18.66</matiere>
+    <matiere codeMat="AP46">9.12</matiere>
+  </note>
+  <note>
+    <CNE>797</CNE>
+    <LastName>Sorrel</LastName>
+    <FirstName>Chane</FirstName>
+    <matiere codeMat="AP31">12.46</matiere>
+    <matiere codeMat="AP32">18.2</matiere>
+    <matiere codeMat="AP33">12.96</matiere>
+    <matiere codeMat="AP34">13.44</matiere>
+    <matiere codeMat="AP35">18.63</matiere>
+    <matiere codeMat="AP36">9.37</matiere>
+    <matiere codeMat="AP41">12.67</matiere>
+    <matiere codeMat="AP42">8.87</matiere>
+    <matiere codeMat="AP43">17</matiere>
+    <matiere codeMat="AP44">9.16</matiere>
+    <matiere codeMat="AP45">16.35</matiere>
+    <matiere codeMat="AP46">16.34</matiere>
+  </note>
+  <note>
+    <CNE>798</CNE>
+    <LastName>Milby</LastName>
+    <FirstName>Meghann</FirstName>
+    <matiere codeMat="AP31">15.6</matiere>
+    <matiere codeMat="AP32">12.58</matiere>
+    <matiere codeMat="AP33">10.95</matiere>
+    <matiere codeMat="AP34">11.19</matiere>
+    <matiere codeMat="AP35">19.9</matiere>
+    <matiere codeMat="AP36">10.56</matiere>
+    <matiere codeMat="AP41">14.65</matiere>
+    <matiere codeMat="AP42">16.05</matiere>
+    <matiere codeMat="AP43">9.87</matiere>
+    <matiere codeMat="AP44">19.82</matiere>
+    <matiere codeMat="AP45">17.55</matiere>
+    <matiere codeMat="AP46">11.15</matiere>
+  </note>
+  <note>
+    <CNE>799</CNE>
+    <LastName>Finlater</LastName>
+    <FirstName>Tawsha</FirstName>
+    <matiere codeMat="AP31">12.66</matiere>
+    <matiere codeMat="AP32">10.88</matiere>
+    <matiere codeMat="AP33">11.64</matiere>
+    <matiere codeMat="AP34">19.46</matiere>
+    <matiere codeMat="AP35">11.94</matiere>
+    <matiere codeMat="AP36">18.95</matiere>
+    <matiere codeMat="AP41">19.6</matiere>
+    <matiere codeMat="AP42">10.76</matiere>
+    <matiere codeMat="AP43">10.54</matiere>
+    <matiere codeMat="AP44">13.19</matiere>
+    <matiere codeMat="AP45">15.04</matiere>
+    <matiere codeMat="AP46">15.69</matiere>
+  </note>
+  <note>
+    <CNE>800</CNE>
+    <LastName>McKean</LastName>
+    <FirstName>Edwin</FirstName>
+    <matiere codeMat="AP31">16.23</matiere>
+    <matiere codeMat="AP32">11</matiere>
+    <matiere codeMat="AP33">9.79</matiere>
+    <matiere codeMat="AP34">18.09</matiere>
+    <matiere codeMat="AP35">15.88</matiere>
+    <matiere codeMat="AP36">10.68</matiere>
+    <matiere codeMat="AP41">9.83</matiere>
+    <matiere codeMat="AP42">17.04</matiere>
+    <matiere codeMat="AP43">8.03</matiere>
+    <matiere codeMat="AP44">10.89</matiere>
+    <matiere codeMat="AP45">12.94</matiere>
+    <matiere codeMat="AP46">15.89</matiere>
+  </note>
+  <note>
+    <CNE>801</CNE>
+    <LastName>Jeanel</LastName>
+    <FirstName>Ardath</FirstName>
+    <matiere codeMat="AP31">13.24</matiere>
+    <matiere codeMat="AP32">17.77</matiere>
+    <matiere codeMat="AP33">10.05</matiere>
+    <matiere codeMat="AP34">9.17</matiere>
+    <matiere codeMat="AP35">19.66</matiere>
+    <matiere codeMat="AP36">14.25</matiere>
+    <matiere codeMat="AP41">17.92</matiere>
+    <matiere codeMat="AP42">10.86</matiere>
+    <matiere codeMat="AP43">13.13</matiere>
+    <matiere codeMat="AP44">12.76</matiere>
+    <matiere codeMat="AP45">13.83</matiere>
+    <matiere codeMat="AP46">15.36</matiere>
+  </note>
+  <note>
+    <CNE>802</CNE>
+    <LastName>Wedmore</LastName>
+    <FirstName>Slade</FirstName>
+    <matiere codeMat="AP31">16.53</matiere>
+    <matiere codeMat="AP32">17.41</matiere>
+    <matiere codeMat="AP33">14.27</matiere>
+    <matiere codeMat="AP34">13.26</matiere>
+    <matiere codeMat="AP35">15.69</matiere>
+    <matiere codeMat="AP36">13.37</matiere>
+    <matiere codeMat="AP41">10.34</matiere>
+    <matiere codeMat="AP42">19.71</matiere>
+    <matiere codeMat="AP43">9.23</matiere>
+    <matiere codeMat="AP44">10.54</matiere>
+    <matiere codeMat="AP45">15.32</matiere>
+    <matiere codeMat="AP46">14.88</matiere>
+  </note>
+  <note>
+    <CNE>803</CNE>
+    <LastName>McCluin</LastName>
+    <FirstName>Randie</FirstName>
+    <matiere codeMat="AP31">16.7</matiere>
+    <matiere codeMat="AP32">12.91</matiere>
+    <matiere codeMat="AP33">19.91</matiere>
+    <matiere codeMat="AP34">10.58</matiere>
+    <matiere codeMat="AP35">14.39</matiere>
+    <matiere codeMat="AP36">16.72</matiere>
+    <matiere codeMat="AP41">9.17</matiere>
+    <matiere codeMat="AP42">10.89</matiere>
+    <matiere codeMat="AP43">17.18</matiere>
+    <matiere codeMat="AP44">13.67</matiere>
+    <matiere codeMat="AP45">16.53</matiere>
+    <matiere codeMat="AP46">16.32</matiere>
+  </note>
+  <note>
+    <CNE>804</CNE>
+    <LastName>Enrigo</LastName>
+    <FirstName>Connie</FirstName>
+    <matiere codeMat="AP31">14.84</matiere>
+    <matiere codeMat="AP32">9.94</matiere>
+    <matiere codeMat="AP33">12.41</matiere>
+    <matiere codeMat="AP34">13.93</matiere>
+    <matiere codeMat="AP35">9.77</matiere>
+    <matiere codeMat="AP36">17.75</matiere>
+    <matiere codeMat="AP41">9.51</matiere>
+    <matiere codeMat="AP42">9.67</matiere>
+    <matiere codeMat="AP43">14.22</matiere>
+    <matiere codeMat="AP44">14.97</matiere>
+    <matiere codeMat="AP45">17.22</matiere>
+    <matiere codeMat="AP46">15.24</matiere>
+  </note>
+  <note>
+    <CNE>805</CNE>
+    <LastName>Lett</LastName>
+    <FirstName>Orin</FirstName>
+    <matiere codeMat="AP31">12.25</matiere>
+    <matiere codeMat="AP32">15.64</matiere>
+    <matiere codeMat="AP33">9.82</matiere>
+    <matiere codeMat="AP34">9.45</matiere>
+    <matiere codeMat="AP35">12.77</matiere>
+    <matiere codeMat="AP36">9.52</matiere>
+    <matiere codeMat="AP41">18.7</matiere>
+    <matiere codeMat="AP42">14.55</matiere>
+    <matiere codeMat="AP43">10.78</matiere>
+    <matiere codeMat="AP44">10.67</matiere>
+    <matiere codeMat="AP45">11.96</matiere>
+    <matiere codeMat="AP46">16.31</matiere>
+  </note>
+  <note>
+    <CNE>806</CNE>
+    <LastName>Slograve</LastName>
+    <FirstName>Kim</FirstName>
+    <matiere codeMat="AP31">9.4</matiere>
+    <matiere codeMat="AP32">10.72</matiere>
+    <matiere codeMat="AP33">12.89</matiere>
+    <matiere codeMat="AP34">14.82</matiere>
+    <matiere codeMat="AP35">19.6</matiere>
+    <matiere codeMat="AP36">9.68</matiere>
+    <matiere codeMat="AP41">16.58</matiere>
+    <matiere codeMat="AP42">10.03</matiere>
+    <matiere codeMat="AP43">10.29</matiere>
+    <matiere codeMat="AP44">17.62</matiere>
+    <matiere codeMat="AP45">17.18</matiere>
+    <matiere codeMat="AP46">17.82</matiere>
+  </note>
+  <note>
+    <CNE>807</CNE>
+    <LastName>Burchett</LastName>
+    <FirstName>Vannie</FirstName>
+    <matiere codeMat="AP31">12.38</matiere>
+    <matiere codeMat="AP32">13.15</matiere>
+    <matiere codeMat="AP33">18.71</matiere>
+    <matiere codeMat="AP34">11.74</matiere>
+    <matiere codeMat="AP35">16.5</matiere>
+    <matiere codeMat="AP36">9.3</matiere>
+    <matiere codeMat="AP41">16.99</matiere>
+    <matiere codeMat="AP42">15.21</matiere>
+    <matiere codeMat="AP43">13.71</matiere>
+    <matiere codeMat="AP44">19.5</matiere>
+    <matiere codeMat="AP45">16.63</matiere>
+    <matiere codeMat="AP46">8.18</matiere>
+  </note>
+  <note>
+    <CNE>808</CNE>
+    <LastName>Prudence</LastName>
+    <FirstName>Vally</FirstName>
+    <matiere codeMat="AP31">17.21</matiere>
+    <matiere codeMat="AP32">19.14</matiere>
+    <matiere codeMat="AP33">15.8</matiere>
+    <matiere codeMat="AP34">14.18</matiere>
+    <matiere codeMat="AP35">9.41</matiere>
+    <matiere codeMat="AP36">12.89</matiere>
+    <matiere codeMat="AP41">17.09</matiere>
+    <matiere codeMat="AP42">15.82</matiere>
+    <matiere codeMat="AP43">18.38</matiere>
+    <matiere codeMat="AP44">18.07</matiere>
+    <matiere codeMat="AP45">19.68</matiere>
+    <matiere codeMat="AP46">8.47</matiere>
+  </note>
+  <note>
+    <CNE>809</CNE>
+    <LastName>Moraleda</LastName>
+    <FirstName>Lin</FirstName>
+    <matiere codeMat="AP31">19.56</matiere>
+    <matiere codeMat="AP32">19.87</matiere>
+    <matiere codeMat="AP33">11.63</matiere>
+    <matiere codeMat="AP34">10.75</matiere>
+    <matiere codeMat="AP35">16.68</matiere>
+    <matiere codeMat="AP36">15.41</matiere>
+    <matiere codeMat="AP41">16.5</matiere>
+    <matiere codeMat="AP42">13.97</matiere>
+    <matiere codeMat="AP43">15.07</matiere>
+    <matiere codeMat="AP44">17.79</matiere>
+    <matiere codeMat="AP45">13.65</matiere>
+    <matiere codeMat="AP46">13.14</matiere>
+  </note>
+  <note>
+    <CNE>810</CNE>
+    <LastName>Wellfare</LastName>
+    <FirstName>Coraline</FirstName>
+    <matiere codeMat="AP31">19.69</matiere>
+    <matiere codeMat="AP32">9.32</matiere>
+    <matiere codeMat="AP33">16.74</matiere>
+    <matiere codeMat="AP34">12.77</matiere>
+    <matiere codeMat="AP35">17.58</matiere>
+    <matiere codeMat="AP36">17.57</matiere>
+    <matiere codeMat="AP41">10.46</matiere>
+    <matiere codeMat="AP42">18.04</matiere>
+    <matiere codeMat="AP43">16.08</matiere>
+    <matiere codeMat="AP44">19.1</matiere>
+    <matiere codeMat="AP45">11.05</matiere>
+    <matiere codeMat="AP46">8.21</matiere>
+  </note>
+  <note>
+    <CNE>811</CNE>
+    <LastName>Lanaway</LastName>
+    <FirstName>Robbie</FirstName>
+    <matiere codeMat="AP31">15.36</matiere>
+    <matiere codeMat="AP32">15.03</matiere>
+    <matiere codeMat="AP33">15.24</matiere>
+    <matiere codeMat="AP34">9.92</matiere>
+    <matiere codeMat="AP35">14.75</matiere>
+    <matiere codeMat="AP36">14.6</matiere>
+    <matiere codeMat="AP41">14.31</matiere>
+    <matiere codeMat="AP42">14.41</matiere>
+    <matiere codeMat="AP43">14.84</matiere>
+    <matiere codeMat="AP44">15.05</matiere>
+    <matiere codeMat="AP45">14.27</matiere>
+    <matiere codeMat="AP46">15.82</matiere>
+  </note>
+  <note>
+    <CNE>812</CNE>
+    <LastName>Riddoch</LastName>
+    <FirstName>Timotheus</FirstName>
+    <matiere codeMat="AP31">9.79</matiere>
+    <matiere codeMat="AP32">17.33</matiere>
+    <matiere codeMat="AP33">19.38</matiere>
+    <matiere codeMat="AP34">16.66</matiere>
+    <matiere codeMat="AP35">12.16</matiere>
+    <matiere codeMat="AP36">17.26</matiere>
+    <matiere codeMat="AP41">8.45</matiere>
+    <matiere codeMat="AP42">14.08</matiere>
+    <matiere codeMat="AP43">15.06</matiere>
+    <matiere codeMat="AP44">18.78</matiere>
+    <matiere codeMat="AP45">11.57</matiere>
+    <matiere codeMat="AP46">11.76</matiere>
+  </note>
+  <note>
+    <CNE>813</CNE>
+    <LastName>Reynard</LastName>
+    <FirstName>Ally</FirstName>
+    <matiere codeMat="AP31">15.86</matiere>
+    <matiere codeMat="AP32">9.56</matiere>
+    <matiere codeMat="AP33">16.22</matiere>
+    <matiere codeMat="AP34">18.77</matiere>
+    <matiere codeMat="AP35">12.93</matiere>
+    <matiere codeMat="AP36">14.48</matiere>
+    <matiere codeMat="AP41">10.28</matiere>
+    <matiere codeMat="AP42">9.17</matiere>
+    <matiere codeMat="AP43">18.12</matiere>
+    <matiere codeMat="AP44">14.57</matiere>
+    <matiere codeMat="AP45">18.35</matiere>
+    <matiere codeMat="AP46">19.9</matiere>
+  </note>
+  <note>
+    <CNE>814</CNE>
+    <LastName>Parzis</LastName>
+    <FirstName>Betteann</FirstName>
+    <matiere codeMat="AP31">18.73</matiere>
+    <matiere codeMat="AP32">16.89</matiere>
+    <matiere codeMat="AP33">19.13</matiere>
+    <matiere codeMat="AP34">18.81</matiere>
+    <matiere codeMat="AP35">17.19</matiere>
+    <matiere codeMat="AP36">12.13</matiere>
+    <matiere codeMat="AP41">13.13</matiere>
+    <matiere codeMat="AP42">16.56</matiere>
+    <matiere codeMat="AP43">12.23</matiere>
+    <matiere codeMat="AP44">15.55</matiere>
+    <matiere codeMat="AP45">10.82</matiere>
+    <matiere codeMat="AP46">17.28</matiere>
+  </note>
+  <note>
+    <CNE>815</CNE>
+    <LastName>Felgate</LastName>
+    <FirstName>Isidora</FirstName>
+    <matiere codeMat="AP31">17.85</matiere>
+    <matiere codeMat="AP32">16.03</matiere>
+    <matiere codeMat="AP33">15.98</matiere>
+    <matiere codeMat="AP34">17.39</matiere>
+    <matiere codeMat="AP35">12.13</matiere>
+    <matiere codeMat="AP36">10.76</matiere>
+    <matiere codeMat="AP41">16.52</matiere>
+    <matiere codeMat="AP42">8.05</matiere>
+    <matiere codeMat="AP43">8.11</matiere>
+    <matiere codeMat="AP44">18.92</matiere>
+    <matiere codeMat="AP45">14.31</matiere>
+    <matiere codeMat="AP46">8.58</matiere>
+  </note>
+  <note>
+    <CNE>816</CNE>
+    <LastName>Cardenas</LastName>
+    <FirstName>Connie</FirstName>
+    <matiere codeMat="AP31">15.65</matiere>
+    <matiere codeMat="AP32">15.65</matiere>
+    <matiere codeMat="AP33">17.7</matiere>
+    <matiere codeMat="AP34">18.52</matiere>
+    <matiere codeMat="AP35">13.15</matiere>
+    <matiere codeMat="AP36">13.22</matiere>
+    <matiere codeMat="AP41">10.77</matiere>
+    <matiere codeMat="AP42">16.72</matiere>
+    <matiere codeMat="AP43">11.52</matiere>
+    <matiere codeMat="AP44">14.64</matiere>
+    <matiere codeMat="AP45">11</matiere>
+    <matiere codeMat="AP46">15.82</matiere>
+  </note>
+  <note>
+    <CNE>817</CNE>
+    <LastName>Layhe</LastName>
+    <FirstName>Vannie</FirstName>
+    <matiere codeMat="AP31">15.51</matiere>
+    <matiere codeMat="AP32">13.14</matiere>
+    <matiere codeMat="AP33">10.43</matiere>
+    <matiere codeMat="AP34">9</matiere>
+    <matiere codeMat="AP35">9.47</matiere>
+    <matiere codeMat="AP36">19.58</matiere>
+    <matiere codeMat="AP41">17.81</matiere>
+    <matiere codeMat="AP42">14.92</matiere>
+    <matiere codeMat="AP43">18.31</matiere>
+    <matiere codeMat="AP44">19.66</matiere>
+    <matiere codeMat="AP45">12.73</matiere>
+    <matiere codeMat="AP46">15.88</matiere>
+  </note>
+  <note>
+    <CNE>818</CNE>
+    <LastName>Stevenson</LastName>
+    <FirstName>Sofia</FirstName>
+    <matiere codeMat="AP31">17.64</matiere>
+    <matiere codeMat="AP32">14.38</matiere>
+    <matiere codeMat="AP33">10.6</matiere>
+    <matiere codeMat="AP34">18.39</matiere>
+    <matiere codeMat="AP35">11.01</matiere>
+    <matiere codeMat="AP36">14.23</matiere>
+    <matiere codeMat="AP41">14.6</matiere>
+    <matiere codeMat="AP42">11.35</matiere>
+    <matiere codeMat="AP43">12.81</matiere>
+    <matiere codeMat="AP44">12.57</matiere>
+    <matiere codeMat="AP45">16.22</matiere>
+    <matiere codeMat="AP46">14.52</matiere>
+  </note>
+  <note>
+    <CNE>819</CNE>
+    <LastName>Chaise</LastName>
+    <FirstName>Joelly</FirstName>
+    <matiere codeMat="AP31">14.5</matiere>
+    <matiere codeMat="AP32">19.74</matiere>
+    <matiere codeMat="AP33">17.11</matiere>
+    <matiere codeMat="AP34">14.45</matiere>
+    <matiere codeMat="AP35">14.09</matiere>
+    <matiere codeMat="AP36">14.54</matiere>
+    <matiere codeMat="AP41">16.93</matiere>
+    <matiere codeMat="AP42">15.52</matiere>
+    <matiere codeMat="AP43">8.04</matiere>
+    <matiere codeMat="AP44">10.05</matiere>
+    <matiere codeMat="AP45">11.46</matiere>
+    <matiere codeMat="AP46">16.82</matiere>
+  </note>
+  <note>
+    <CNE>820</CNE>
+    <LastName>Myott</LastName>
+    <FirstName>Basia</FirstName>
+    <matiere codeMat="AP31">14.07</matiere>
+    <matiere codeMat="AP32">13.8</matiere>
+    <matiere codeMat="AP33">16.49</matiere>
+    <matiere codeMat="AP34">19.46</matiere>
+    <matiere codeMat="AP35">19.35</matiere>
+    <matiere codeMat="AP36">19.11</matiere>
+    <matiere codeMat="AP41">8.44</matiere>
+    <matiere codeMat="AP42">15.59</matiere>
+    <matiere codeMat="AP43">8.45</matiere>
+    <matiere codeMat="AP44">10.11</matiere>
+    <matiere codeMat="AP45">10.14</matiere>
+    <matiere codeMat="AP46">8.57</matiere>
+  </note>
+  <note>
+    <CNE>821</CNE>
+    <LastName>Baise</LastName>
+    <FirstName>Michaelina</FirstName>
+    <matiere codeMat="AP31">9.03</matiere>
+    <matiere codeMat="AP32">13.65</matiere>
+    <matiere codeMat="AP33">19.33</matiere>
+    <matiere codeMat="AP34">12.47</matiere>
+    <matiere codeMat="AP35">18.52</matiere>
+    <matiere codeMat="AP36">10.42</matiere>
+    <matiere codeMat="AP41">18.14</matiere>
+    <matiere codeMat="AP42">18.66</matiere>
+    <matiere codeMat="AP43">9.69</matiere>
+    <matiere codeMat="AP44">13.15</matiere>
+    <matiere codeMat="AP45">9.19</matiere>
+    <matiere codeMat="AP46">19.91</matiere>
+  </note>
+  <note>
+    <CNE>822</CNE>
+    <LastName>Gledhall</LastName>
+    <FirstName>Ritchie</FirstName>
+    <matiere codeMat="AP31">15.55</matiere>
+    <matiere codeMat="AP32">19.34</matiere>
+    <matiere codeMat="AP33">18.18</matiere>
+    <matiere codeMat="AP34">11.89</matiere>
+    <matiere codeMat="AP35">18.71</matiere>
+    <matiere codeMat="AP36">9.47</matiere>
+    <matiere codeMat="AP41">8.65</matiere>
+    <matiere codeMat="AP42">10.69</matiere>
+    <matiere codeMat="AP43">16.4</matiere>
+    <matiere codeMat="AP44">14.39</matiere>
+    <matiere codeMat="AP45">19.58</matiere>
+    <matiere codeMat="AP46">19.99</matiere>
+  </note>
+  <note>
+    <CNE>823</CNE>
+    <LastName>Allbon</LastName>
+    <FirstName>Bertina</FirstName>
+    <matiere codeMat="AP31">14.58</matiere>
+    <matiere codeMat="AP32">18.72</matiere>
+    <matiere codeMat="AP33">15.03</matiere>
+    <matiere codeMat="AP34">17.96</matiere>
+    <matiere codeMat="AP35">13.21</matiere>
+    <matiere codeMat="AP36">15.21</matiere>
+    <matiere codeMat="AP41">12.85</matiere>
+    <matiere codeMat="AP42">11.8</matiere>
+    <matiere codeMat="AP43">8.64</matiere>
+    <matiere codeMat="AP44">14.83</matiere>
+    <matiere codeMat="AP45">8.63</matiere>
+    <matiere codeMat="AP46">18.48</matiere>
+  </note>
+  <note>
+    <CNE>824</CNE>
+    <LastName>Silkston</LastName>
+    <FirstName>Genevra</FirstName>
+    <matiere codeMat="AP31">12.69</matiere>
+    <matiere codeMat="AP32">19.36</matiere>
+    <matiere codeMat="AP33">10.93</matiere>
+    <matiere codeMat="AP34">16.4</matiere>
+    <matiere codeMat="AP35">9.38</matiere>
+    <matiere codeMat="AP36">14.13</matiere>
+    <matiere codeMat="AP41">8.55</matiere>
+    <matiere codeMat="AP42">16.19</matiere>
+    <matiere codeMat="AP43">17.57</matiere>
+    <matiere codeMat="AP44">18.77</matiere>
+    <matiere codeMat="AP45">12.98</matiere>
+    <matiere codeMat="AP46">11.74</matiere>
+  </note>
+  <note>
+    <CNE>825</CNE>
+    <LastName>Grierson</LastName>
+    <FirstName>Bobby</FirstName>
+    <matiere codeMat="AP31">12.86</matiere>
+    <matiere codeMat="AP32">9.6</matiere>
+    <matiere codeMat="AP33">15.74</matiere>
+    <matiere codeMat="AP34">10.22</matiere>
+    <matiere codeMat="AP35">14.49</matiere>
+    <matiere codeMat="AP36">17.45</matiere>
+    <matiere codeMat="AP41">9.81</matiere>
+    <matiere codeMat="AP42">12.09</matiere>
+    <matiere codeMat="AP43">14.25</matiere>
+    <matiere codeMat="AP44">9.9</matiere>
+    <matiere codeMat="AP45">12.21</matiere>
+    <matiere codeMat="AP46">14.19</matiere>
+  </note>
+  <note>
+    <CNE>826</CNE>
+    <LastName>MacKeever</LastName>
+    <FirstName>Willie</FirstName>
+    <matiere codeMat="AP31">19.07</matiere>
+    <matiere codeMat="AP32">16.52</matiere>
+    <matiere codeMat="AP33">12.16</matiere>
+    <matiere codeMat="AP34">14.59</matiere>
+    <matiere codeMat="AP35">9.72</matiere>
+    <matiere codeMat="AP36">18.87</matiere>
+    <matiere codeMat="AP41">17.88</matiere>
+    <matiere codeMat="AP42">11.54</matiere>
+    <matiere codeMat="AP43">13.71</matiere>
+    <matiere codeMat="AP44">16.73</matiere>
+    <matiere codeMat="AP45">10.91</matiere>
+    <matiere codeMat="AP46">8.76</matiere>
+  </note>
+  <note>
+    <CNE>827</CNE>
+    <LastName>Campkin</LastName>
+    <FirstName>Marietta</FirstName>
+    <matiere codeMat="AP31">12.19</matiere>
+    <matiere codeMat="AP32">9.18</matiere>
+    <matiere codeMat="AP33">16.94</matiere>
+    <matiere codeMat="AP34">15.73</matiere>
+    <matiere codeMat="AP35">12.52</matiere>
+    <matiere codeMat="AP36">11.08</matiere>
+    <matiere codeMat="AP41">14.01</matiere>
+    <matiere codeMat="AP42">16.45</matiere>
+    <matiere codeMat="AP43">11.74</matiere>
+    <matiere codeMat="AP44">18.15</matiere>
+    <matiere codeMat="AP45">11.63</matiere>
+    <matiere codeMat="AP46">10.25</matiere>
+  </note>
+  <note>
+    <CNE>828</CNE>
+    <LastName>Bayman</LastName>
+    <FirstName>Dalis</FirstName>
+    <matiere codeMat="AP31">11.19</matiere>
+    <matiere codeMat="AP32">10.41</matiere>
+    <matiere codeMat="AP33">13.69</matiere>
+    <matiere codeMat="AP34">12.46</matiere>
+    <matiere codeMat="AP35">10.74</matiere>
+    <matiere codeMat="AP36">10.38</matiere>
+    <matiere codeMat="AP41">16.13</matiere>
+    <matiere codeMat="AP42">8.34</matiere>
+    <matiere codeMat="AP43">14.46</matiere>
+    <matiere codeMat="AP44">18.82</matiere>
+    <matiere codeMat="AP45">18.28</matiere>
+    <matiere codeMat="AP46">14.34</matiere>
+  </note>
+  <note>
+    <CNE>829</CNE>
+    <LastName>Donaway</LastName>
+    <FirstName>Fee</FirstName>
+    <matiere codeMat="AP31">14.47</matiere>
+    <matiere codeMat="AP32">12.72</matiere>
+    <matiere codeMat="AP33">11.79</matiere>
+    <matiere codeMat="AP34">17.9</matiere>
+    <matiere codeMat="AP35">14.56</matiere>
+    <matiere codeMat="AP36">9.8</matiere>
+    <matiere codeMat="AP41">15.66</matiere>
+    <matiere codeMat="AP42">18.2</matiere>
+    <matiere codeMat="AP43">18.04</matiere>
+    <matiere codeMat="AP44">13.86</matiere>
+    <matiere codeMat="AP45">11.78</matiere>
+    <matiere codeMat="AP46">12.24</matiere>
+  </note>
+  <note>
+    <CNE>830</CNE>
+    <LastName>Revens</LastName>
+    <FirstName>Annamarie</FirstName>
+    <matiere codeMat="AP31">16.73</matiere>
+    <matiere codeMat="AP32">10.83</matiere>
+    <matiere codeMat="AP33">11.71</matiere>
+    <matiere codeMat="AP34">15.37</matiere>
+    <matiere codeMat="AP35">10.43</matiere>
+    <matiere codeMat="AP36">16.91</matiere>
+    <matiere codeMat="AP41">11.56</matiere>
+    <matiere codeMat="AP42">19.76</matiere>
+    <matiere codeMat="AP43">14.76</matiere>
+    <matiere codeMat="AP44">12.97</matiere>
+    <matiere codeMat="AP45">9.9</matiere>
+    <matiere codeMat="AP46">14.28</matiere>
+  </note>
+  <note>
+    <CNE>831</CNE>
+    <LastName>Murford</LastName>
+    <FirstName>Leo</FirstName>
+    <matiere codeMat="AP31">11.61</matiere>
+    <matiere codeMat="AP32">19.45</matiere>
+    <matiere codeMat="AP33">11.58</matiere>
+    <matiere codeMat="AP34">19.83</matiere>
+    <matiere codeMat="AP35">9.08</matiere>
+    <matiere codeMat="AP36">13.28</matiere>
+    <matiere codeMat="AP41">11.85</matiere>
+    <matiere codeMat="AP42">17.12</matiere>
+    <matiere codeMat="AP43">13.83</matiere>
+    <matiere codeMat="AP44">9.59</matiere>
+    <matiere codeMat="AP45">12.5</matiere>
+    <matiere codeMat="AP46">8.62</matiere>
+  </note>
+  <note>
+    <CNE>832</CNE>
+    <LastName>Barg</LastName>
+    <FirstName>Hobey</FirstName>
+    <matiere codeMat="AP31">17.05</matiere>
+    <matiere codeMat="AP32">14.46</matiere>
+    <matiere codeMat="AP33">17.52</matiere>
+    <matiere codeMat="AP34">19.05</matiere>
+    <matiere codeMat="AP35">15.18</matiere>
+    <matiere codeMat="AP36">14.49</matiere>
+    <matiere codeMat="AP41">17.14</matiere>
+    <matiere codeMat="AP42">16.31</matiere>
+    <matiere codeMat="AP43">17.95</matiere>
+    <matiere codeMat="AP44">15.91</matiere>
+    <matiere codeMat="AP45">14.1</matiere>
+    <matiere codeMat="AP46">17.18</matiere>
+  </note>
+  <note>
+    <CNE>833</CNE>
+    <LastName>Tunnoch</LastName>
+    <FirstName>Sabra</FirstName>
+    <matiere codeMat="AP31">15.76</matiere>
+    <matiere codeMat="AP32">15.54</matiere>
+    <matiere codeMat="AP33">12.91</matiere>
+    <matiere codeMat="AP34">10.48</matiere>
+    <matiere codeMat="AP35">16.68</matiere>
+    <matiere codeMat="AP36">10.39</matiere>
+    <matiere codeMat="AP41">16.78</matiere>
+    <matiere codeMat="AP42">8.81</matiere>
+    <matiere codeMat="AP43">17.89</matiere>
+    <matiere codeMat="AP44">17.43</matiere>
+    <matiere codeMat="AP45">11.62</matiere>
+    <matiere codeMat="AP46">12.28</matiere>
+  </note>
+  <note>
+    <CNE>834</CNE>
+    <LastName>Ciepluch</LastName>
+    <FirstName>Cherri</FirstName>
+    <matiere codeMat="AP31">15.96</matiere>
+    <matiere codeMat="AP32">16.58</matiere>
+    <matiere codeMat="AP33">11.31</matiere>
+    <matiere codeMat="AP34">17.49</matiere>
+    <matiere codeMat="AP35">10.99</matiere>
+    <matiere codeMat="AP36">13.49</matiere>
+    <matiere codeMat="AP41">11.78</matiere>
+    <matiere codeMat="AP42">16.96</matiere>
+    <matiere codeMat="AP43">8.24</matiere>
+    <matiere codeMat="AP44">14.07</matiere>
+    <matiere codeMat="AP45">17.44</matiere>
+    <matiere codeMat="AP46">9.53</matiere>
+  </note>
+  <note>
+    <CNE>835</CNE>
+    <LastName>Toffaloni</LastName>
+    <FirstName>Cordelie</FirstName>
+    <matiere codeMat="AP31">12.61</matiere>
+    <matiere codeMat="AP32">9.01</matiere>
+    <matiere codeMat="AP33">11.64</matiere>
+    <matiere codeMat="AP34">10.56</matiere>
+    <matiere codeMat="AP35">10.36</matiere>
+    <matiere codeMat="AP36">9.65</matiere>
+    <matiere codeMat="AP41">11.14</matiere>
+    <matiere codeMat="AP42">15.27</matiere>
+    <matiere codeMat="AP43">18.42</matiere>
+    <matiere codeMat="AP44">17.88</matiere>
+    <matiere codeMat="AP45">10.75</matiere>
+    <matiere codeMat="AP46">18.58</matiere>
+  </note>
+  <note>
+    <CNE>836</CNE>
+    <LastName>Stead</LastName>
+    <FirstName>Carlene</FirstName>
+    <matiere codeMat="AP31">16.82</matiere>
+    <matiere codeMat="AP32">14.02</matiere>
+    <matiere codeMat="AP33">14.1</matiere>
+    <matiere codeMat="AP34">16.18</matiere>
+    <matiere codeMat="AP35">11.65</matiere>
+    <matiere codeMat="AP36">14.99</matiere>
+    <matiere codeMat="AP41">8.97</matiere>
+    <matiere codeMat="AP42">11.47</matiere>
+    <matiere codeMat="AP43">16.33</matiere>
+    <matiere codeMat="AP44">12.33</matiere>
+    <matiere codeMat="AP45">10.65</matiere>
+    <matiere codeMat="AP46">9.39</matiere>
+  </note>
+  <note>
+    <CNE>837</CNE>
+    <LastName>Light</LastName>
+    <FirstName>Thaddeus</FirstName>
+    <matiere codeMat="AP31">9.76</matiere>
+    <matiere codeMat="AP32">15.73</matiere>
+    <matiere codeMat="AP33">18.42</matiere>
+    <matiere codeMat="AP34">11.52</matiere>
+    <matiere codeMat="AP35">11.91</matiere>
+    <matiere codeMat="AP36">15</matiere>
+    <matiere codeMat="AP41">13.42</matiere>
+    <matiere codeMat="AP42">15.13</matiere>
+    <matiere codeMat="AP43">18.63</matiere>
+    <matiere codeMat="AP44">18.28</matiere>
+    <matiere codeMat="AP45">19.17</matiere>
+    <matiere codeMat="AP46">18.25</matiere>
+  </note>
+  <note>
+    <CNE>838</CNE>
+    <LastName>Ishak</LastName>
+    <FirstName>Martin</FirstName>
+    <matiere codeMat="AP31">12.44</matiere>
+    <matiere codeMat="AP32">15.58</matiere>
+    <matiere codeMat="AP33">16.06</matiere>
+    <matiere codeMat="AP34">19.86</matiere>
+    <matiere codeMat="AP35">15.43</matiere>
+    <matiere codeMat="AP36">11.18</matiere>
+    <matiere codeMat="AP41">18.74</matiere>
+    <matiere codeMat="AP42">10.41</matiere>
+    <matiere codeMat="AP43">17.35</matiere>
+    <matiere codeMat="AP44">9.81</matiere>
+    <matiere codeMat="AP45">17.15</matiere>
+    <matiere codeMat="AP46">13.55</matiere>
+  </note>
+  <note>
+    <CNE>839</CNE>
+    <LastName>Loseby</LastName>
+    <FirstName>Gunther</FirstName>
+    <matiere codeMat="AP31">19.85</matiere>
+    <matiere codeMat="AP32">13.66</matiere>
+    <matiere codeMat="AP33">11.95</matiere>
+    <matiere codeMat="AP34">14.51</matiere>
+    <matiere codeMat="AP35">12.68</matiere>
+    <matiere codeMat="AP36">14.92</matiere>
+    <matiere codeMat="AP41">8.87</matiere>
+    <matiere codeMat="AP42">19.1</matiere>
+    <matiere codeMat="AP43">18.75</matiere>
+    <matiere codeMat="AP44">16.39</matiere>
+    <matiere codeMat="AP45">12.86</matiere>
+    <matiere codeMat="AP46">8.22</matiere>
+  </note>
+  <note>
+    <CNE>840</CNE>
+    <LastName>Maryet</LastName>
+    <FirstName>Brittni</FirstName>
+    <matiere codeMat="AP31">19.35</matiere>
+    <matiere codeMat="AP32">15.94</matiere>
+    <matiere codeMat="AP33">15.23</matiere>
+    <matiere codeMat="AP34">13.5</matiere>
+    <matiere codeMat="AP35">18.49</matiere>
+    <matiere codeMat="AP36">16.96</matiere>
+    <matiere codeMat="AP41">8.07</matiere>
+    <matiere codeMat="AP42">17.65</matiere>
+    <matiere codeMat="AP43">19.81</matiere>
+    <matiere codeMat="AP44">11.02</matiere>
+    <matiere codeMat="AP45">12.57</matiere>
+    <matiere codeMat="AP46">19.51</matiere>
+  </note>
+  <note>
+    <CNE>841</CNE>
+    <LastName>Illyes</LastName>
+    <FirstName>Coleen</FirstName>
+    <matiere codeMat="AP31">15.07</matiere>
+    <matiere codeMat="AP32">18.8</matiere>
+    <matiere codeMat="AP33">13.76</matiere>
+    <matiere codeMat="AP34">15.93</matiere>
+    <matiere codeMat="AP35">11.37</matiere>
+    <matiere codeMat="AP36">11.32</matiere>
+    <matiere codeMat="AP41">18.48</matiere>
+    <matiere codeMat="AP42">15.51</matiere>
+    <matiere codeMat="AP43">16.32</matiere>
+    <matiere codeMat="AP44">14.15</matiere>
+    <matiere codeMat="AP45">12.36</matiere>
+    <matiere codeMat="AP46">14.13</matiere>
+  </note>
+  <note>
+    <CNE>842</CNE>
+    <LastName>Tym</LastName>
+    <FirstName>Toddie</FirstName>
+    <matiere codeMat="AP31">18.25</matiere>
+    <matiere codeMat="AP32">19.97</matiere>
+    <matiere codeMat="AP33">10.78</matiere>
+    <matiere codeMat="AP34">17.85</matiere>
+    <matiere codeMat="AP35">17.87</matiere>
+    <matiere codeMat="AP36">10.25</matiere>
+    <matiere codeMat="AP41">10.07</matiere>
+    <matiere codeMat="AP42">16.06</matiere>
+    <matiere codeMat="AP43">15.04</matiere>
+    <matiere codeMat="AP44">11.04</matiere>
+    <matiere codeMat="AP45">13.79</matiere>
+    <matiere codeMat="AP46">17.92</matiere>
+  </note>
+  <note>
+    <CNE>843</CNE>
+    <LastName>Sainsberry</LastName>
+    <FirstName>Antonino</FirstName>
+    <matiere codeMat="AP31">18.4</matiere>
+    <matiere codeMat="AP32">9.35</matiere>
+    <matiere codeMat="AP33">13.13</matiere>
+    <matiere codeMat="AP34">12.57</matiere>
+    <matiere codeMat="AP35">16.77</matiere>
+    <matiere codeMat="AP36">12.39</matiere>
+    <matiere codeMat="AP41">10.94</matiere>
+    <matiere codeMat="AP42">14.34</matiere>
+    <matiere codeMat="AP43">18.58</matiere>
+    <matiere codeMat="AP44">19.25</matiere>
+    <matiere codeMat="AP45">17.76</matiere>
+    <matiere codeMat="AP46">15.18</matiere>
+  </note>
+  <note>
+    <CNE>844</CNE>
+    <LastName>Lowth</LastName>
+    <FirstName>Cathlene</FirstName>
+    <matiere codeMat="AP31">10.76</matiere>
+    <matiere codeMat="AP32">18.35</matiere>
+    <matiere codeMat="AP33">9.94</matiere>
+    <matiere codeMat="AP34">19.71</matiere>
+    <matiere codeMat="AP35">10.39</matiere>
+    <matiere codeMat="AP36">17.71</matiere>
+    <matiere codeMat="AP41">13.29</matiere>
+    <matiere codeMat="AP42">11.42</matiere>
+    <matiere codeMat="AP43">18.72</matiere>
+    <matiere codeMat="AP44">12.18</matiere>
+    <matiere codeMat="AP45">18.09</matiere>
+    <matiere codeMat="AP46">10.99</matiere>
+  </note>
+  <note>
+    <CNE>845</CNE>
+    <LastName>Bradie</LastName>
+    <FirstName>Alexis</FirstName>
+    <matiere codeMat="AP31">11.7</matiere>
+    <matiere codeMat="AP32">17.12</matiere>
+    <matiere codeMat="AP33">14.35</matiere>
+    <matiere codeMat="AP34">19.32</matiere>
+    <matiere codeMat="AP35">17.77</matiere>
+    <matiere codeMat="AP36">13.52</matiere>
+    <matiere codeMat="AP41">15.77</matiere>
+    <matiere codeMat="AP42">16.43</matiere>
+    <matiere codeMat="AP43">19.11</matiere>
+    <matiere codeMat="AP44">14.07</matiere>
+    <matiere codeMat="AP45">18.05</matiere>
+    <matiere codeMat="AP46">10.69</matiere>
+  </note>
+  <note>
+    <CNE>846</CNE>
+    <LastName>Chetwin</LastName>
+    <FirstName>Pietro</FirstName>
+    <matiere codeMat="AP31">19.76</matiere>
+    <matiere codeMat="AP32">15.64</matiere>
+    <matiere codeMat="AP33">17.18</matiere>
+    <matiere codeMat="AP34">14.82</matiere>
+    <matiere codeMat="AP35">15.54</matiere>
+    <matiere codeMat="AP36">8.14</matiere>
+    <matiere codeMat="AP41">11.75</matiere>
+    <matiere codeMat="AP42">12.9</matiere>
+    <matiere codeMat="AP43">10.31</matiere>
+    <matiere codeMat="AP44">17.45</matiere>
+    <matiere codeMat="AP45">12.42</matiere>
+    <matiere codeMat="AP46">18.44</matiere>
+  </note>
+  <note>
+    <CNE>847</CNE>
+    <LastName>Reicharz</LastName>
+    <FirstName>Lucie</FirstName>
+    <matiere codeMat="AP31">11.85</matiere>
+    <matiere codeMat="AP32">18.11</matiere>
+    <matiere codeMat="AP33">10.51</matiere>
+    <matiere codeMat="AP34">14.18</matiere>
+    <matiere codeMat="AP35">10.44</matiere>
+    <matiere codeMat="AP36">16.98</matiere>
+    <matiere codeMat="AP41">10.91</matiere>
+    <matiere codeMat="AP42">17.28</matiere>
+    <matiere codeMat="AP43">18.59</matiere>
+    <matiere codeMat="AP44">12.92</matiere>
+    <matiere codeMat="AP45">11.35</matiere>
+    <matiere codeMat="AP46">9.35</matiere>
+  </note>
+  <note>
+    <CNE>848</CNE>
+    <LastName>Thornthwaite</LastName>
+    <FirstName>Mechelle</FirstName>
+    <matiere codeMat="AP31">11.04</matiere>
+    <matiere codeMat="AP32">19.6</matiere>
+    <matiere codeMat="AP33">17.45</matiere>
+    <matiere codeMat="AP34">15.39</matiere>
+    <matiere codeMat="AP35">17.15</matiere>
+    <matiere codeMat="AP36">13.45</matiere>
+    <matiere codeMat="AP41">13.15</matiere>
+    <matiere codeMat="AP42">17.25</matiere>
+    <matiere codeMat="AP43">19.05</matiere>
+    <matiere codeMat="AP44">19.37</matiere>
+    <matiere codeMat="AP45">17.01</matiere>
+    <matiere codeMat="AP46">10.41</matiere>
+  </note>
+  <note>
+    <CNE>849</CNE>
+    <LastName>Laux</LastName>
+    <FirstName>Zedekiah</FirstName>
+    <matiere codeMat="AP31">9.89</matiere>
+    <matiere codeMat="AP32">15.81</matiere>
+    <matiere codeMat="AP33">12.75</matiere>
+    <matiere codeMat="AP34">19.54</matiere>
+    <matiere codeMat="AP35">15.52</matiere>
+    <matiere codeMat="AP36">16.85</matiere>
+    <matiere codeMat="AP41">8.09</matiere>
+    <matiere codeMat="AP42">11.05</matiere>
+    <matiere codeMat="AP43">17.57</matiere>
+    <matiere codeMat="AP44">10.91</matiere>
+    <matiere codeMat="AP45">12.2</matiere>
+    <matiere codeMat="AP46">9.7</matiere>
+  </note>
+  <note>
+    <CNE>850</CNE>
+    <LastName>Leisman</LastName>
+    <FirstName>Galen</FirstName>
+    <matiere codeMat="AP31">11.43</matiere>
+    <matiere codeMat="AP32">17.77</matiere>
+    <matiere codeMat="AP33">10.56</matiere>
+    <matiere codeMat="AP34">10.3</matiere>
+    <matiere codeMat="AP35">14.58</matiere>
+    <matiere codeMat="AP36">13.8</matiere>
+    <matiere codeMat="AP41">13.6</matiere>
+    <matiere codeMat="AP42">9.98</matiere>
+    <matiere codeMat="AP43">10.87</matiere>
+    <matiere codeMat="AP44">13.53</matiere>
+    <matiere codeMat="AP45">18.06</matiere>
+    <matiere codeMat="AP46">16.83</matiere>
+  </note>
+  <note>
+    <CNE>851</CNE>
+    <LastName>Tipens</LastName>
+    <FirstName>Roma</FirstName>
+    <matiere codeMat="AP31">12.49</matiere>
+    <matiere codeMat="AP32">17.35</matiere>
+    <matiere codeMat="AP33">19.6</matiere>
+    <matiere codeMat="AP34">18.64</matiere>
+    <matiere codeMat="AP35">13.63</matiere>
+    <matiere codeMat="AP36">11.77</matiere>
+    <matiere codeMat="AP41">9.56</matiere>
+    <matiere codeMat="AP42">16.07</matiere>
+    <matiere codeMat="AP43">9.39</matiere>
+    <matiere codeMat="AP44">10.09</matiere>
+    <matiere codeMat="AP45">16.81</matiere>
+    <matiere codeMat="AP46">10.35</matiere>
+  </note>
+  <note>
+    <CNE>852</CNE>
+    <LastName>Seer</LastName>
+    <FirstName>Phedra</FirstName>
+    <matiere codeMat="AP31">18.61</matiere>
+    <matiere codeMat="AP32">15.98</matiere>
+    <matiere codeMat="AP33">10.88</matiere>
+    <matiere codeMat="AP34">15.27</matiere>
+    <matiere codeMat="AP35">12.07</matiere>
+    <matiere codeMat="AP36">12.98</matiere>
+    <matiere codeMat="AP41">14.2</matiere>
+    <matiere codeMat="AP42">11.78</matiere>
+    <matiere codeMat="AP43">9.31</matiere>
+    <matiere codeMat="AP44">10.22</matiere>
+    <matiere codeMat="AP45">15.43</matiere>
+    <matiere codeMat="AP46">14.62</matiere>
+  </note>
+  <note>
+    <CNE>853</CNE>
+    <LastName>Hampe</LastName>
+    <FirstName>Clarita</FirstName>
+    <matiere codeMat="AP31">19.67</matiere>
+    <matiere codeMat="AP32">14.14</matiere>
+    <matiere codeMat="AP33">9.52</matiere>
+    <matiere codeMat="AP34">15.81</matiere>
+    <matiere codeMat="AP35">13.84</matiere>
+    <matiere codeMat="AP36">9.15</matiere>
+    <matiere codeMat="AP41">16.9</matiere>
+    <matiere codeMat="AP42">14.37</matiere>
+    <matiere codeMat="AP43">14.2</matiere>
+    <matiere codeMat="AP44">12.86</matiere>
+    <matiere codeMat="AP45">17.1</matiere>
+    <matiere codeMat="AP46">12.26</matiere>
+  </note>
+  <note>
+    <CNE>854</CNE>
+    <LastName>McKintosh</LastName>
+    <FirstName>Merrili</FirstName>
+    <matiere codeMat="AP31">14.86</matiere>
+    <matiere codeMat="AP32">15.45</matiere>
+    <matiere codeMat="AP33">11.74</matiere>
+    <matiere codeMat="AP34">10.29</matiere>
+    <matiere codeMat="AP35">9.26</matiere>
+    <matiere codeMat="AP36">19.11</matiere>
+    <matiere codeMat="AP41">16.26</matiere>
+    <matiere codeMat="AP42">12.96</matiere>
+    <matiere codeMat="AP43">10.38</matiere>
+    <matiere codeMat="AP44">15.97</matiere>
+    <matiere codeMat="AP45">14.42</matiere>
+    <matiere codeMat="AP46">14.58</matiere>
+  </note>
+  <note>
+    <CNE>855</CNE>
+    <LastName>Devonshire</LastName>
+    <FirstName>Donal</FirstName>
+    <matiere codeMat="AP31">14.61</matiere>
+    <matiere codeMat="AP32">19.52</matiere>
+    <matiere codeMat="AP33">11.61</matiere>
+    <matiere codeMat="AP34">13.96</matiere>
+    <matiere codeMat="AP35">15.95</matiere>
+    <matiere codeMat="AP36">13.82</matiere>
+    <matiere codeMat="AP41">15.36</matiere>
+    <matiere codeMat="AP42">10.67</matiere>
+    <matiere codeMat="AP43">14.92</matiere>
+    <matiere codeMat="AP44">17.59</matiere>
+    <matiere codeMat="AP45">15.74</matiere>
+    <matiere codeMat="AP46">13.13</matiere>
+  </note>
+  <note>
+    <CNE>856</CNE>
+    <LastName>Hagland</LastName>
+    <FirstName>Deeanne</FirstName>
+    <matiere codeMat="AP31">18.47</matiere>
+    <matiere codeMat="AP32">13.83</matiere>
+    <matiere codeMat="AP33">15.3</matiere>
+    <matiere codeMat="AP34">15.51</matiere>
+    <matiere codeMat="AP35">19.65</matiere>
+    <matiere codeMat="AP36">12.56</matiere>
+    <matiere codeMat="AP41">12.95</matiere>
+    <matiere codeMat="AP42">16.64</matiere>
+    <matiere codeMat="AP43">10.31</matiere>
+    <matiere codeMat="AP44">17.61</matiere>
+    <matiere codeMat="AP45">17</matiere>
+    <matiere codeMat="AP46">18.32</matiere>
+  </note>
+  <note>
+    <CNE>857</CNE>
+    <LastName>Dumblton</LastName>
+    <FirstName>Katrina</FirstName>
+    <matiere codeMat="AP31">10.72</matiere>
+    <matiere codeMat="AP32">12.85</matiere>
+    <matiere codeMat="AP33">12.16</matiere>
+    <matiere codeMat="AP34">13.17</matiere>
+    <matiere codeMat="AP35">13.96</matiere>
+    <matiere codeMat="AP36">12.99</matiere>
+    <matiere codeMat="AP41">19.39</matiere>
+    <matiere codeMat="AP42">11.5</matiere>
+    <matiere codeMat="AP43">13.4</matiere>
+    <matiere codeMat="AP44">17.33</matiere>
+    <matiere codeMat="AP45">17.17</matiere>
+    <matiere codeMat="AP46">17.41</matiere>
+  </note>
+  <note>
+    <CNE>858</CNE>
+    <LastName>Archdeacon</LastName>
+    <FirstName>Georg</FirstName>
+    <matiere codeMat="AP31">14.44</matiere>
+    <matiere codeMat="AP32">18.93</matiere>
+    <matiere codeMat="AP33">10.51</matiere>
+    <matiere codeMat="AP34">18.1</matiere>
+    <matiere codeMat="AP35">17.15</matiere>
+    <matiere codeMat="AP36">19.94</matiere>
+    <matiere codeMat="AP41">9.45</matiere>
+    <matiere codeMat="AP42">12.21</matiere>
+    <matiere codeMat="AP43">17.34</matiere>
+    <matiere codeMat="AP44">14.99</matiere>
+    <matiere codeMat="AP45">14.66</matiere>
+    <matiere codeMat="AP46">11.65</matiere>
+  </note>
+  <note>
+    <CNE>859</CNE>
+    <LastName>Jonson</LastName>
+    <FirstName>Kalli</FirstName>
+    <matiere codeMat="AP31">17.47</matiere>
+    <matiere codeMat="AP32">16.42</matiere>
+    <matiere codeMat="AP33">16.01</matiere>
+    <matiere codeMat="AP34">10.34</matiere>
+    <matiere codeMat="AP35">12.11</matiere>
+    <matiere codeMat="AP36">19.79</matiere>
+    <matiere codeMat="AP41">16.16</matiere>
+    <matiere codeMat="AP42">17.22</matiere>
+    <matiere codeMat="AP43">10.46</matiere>
+    <matiere codeMat="AP44">10.78</matiere>
+    <matiere codeMat="AP45">12.97</matiere>
+    <matiere codeMat="AP46">14.61</matiere>
+  </note>
+  <note>
+    <CNE>860</CNE>
+    <LastName>Castellini</LastName>
+    <FirstName>Cariotta</FirstName>
+    <matiere codeMat="AP31">9.07</matiere>
+    <matiere codeMat="AP32">11.26</matiere>
+    <matiere codeMat="AP33">13.1</matiere>
+    <matiere codeMat="AP34">15.72</matiere>
+    <matiere codeMat="AP35">9.73</matiere>
+    <matiere codeMat="AP36">9.2</matiere>
+    <matiere codeMat="AP41">18.65</matiere>
+    <matiere codeMat="AP42">18.1</matiere>
+    <matiere codeMat="AP43">16.42</matiere>
+    <matiere codeMat="AP44">18.82</matiere>
+    <matiere codeMat="AP45">14.07</matiere>
+    <matiere codeMat="AP46">9.62</matiere>
+  </note>
+  <note>
+    <CNE>861</CNE>
+    <LastName>Yackiminie</LastName>
+    <FirstName>Daniela</FirstName>
+    <matiere codeMat="AP31">11.38</matiere>
+    <matiere codeMat="AP32">16.27</matiere>
+    <matiere codeMat="AP33">16.01</matiere>
+    <matiere codeMat="AP34">16.28</matiere>
+    <matiere codeMat="AP35">13.53</matiere>
+    <matiere codeMat="AP36">12.72</matiere>
+    <matiere codeMat="AP41">10.7</matiere>
+    <matiere codeMat="AP42">12.45</matiere>
+    <matiere codeMat="AP43">19.9</matiere>
+    <matiere codeMat="AP44">19.5</matiere>
+    <matiere codeMat="AP45">13.4</matiere>
+    <matiere codeMat="AP46">19.7</matiere>
+  </note>
+  <note>
+    <CNE>862</CNE>
+    <LastName>Blowfield</LastName>
+    <FirstName>Julian</FirstName>
+    <matiere codeMat="AP31">11.16</matiere>
+    <matiere codeMat="AP32">13.4</matiere>
+    <matiere codeMat="AP33">14.17</matiere>
+    <matiere codeMat="AP34">15.14</matiere>
+    <matiere codeMat="AP35">18.18</matiere>
+    <matiere codeMat="AP36">11.36</matiere>
+    <matiere codeMat="AP41">13.4</matiere>
+    <matiere codeMat="AP42">17.12</matiere>
+    <matiere codeMat="AP43">14.58</matiere>
+    <matiere codeMat="AP44">14.78</matiere>
+    <matiere codeMat="AP45">11.12</matiere>
+    <matiere codeMat="AP46">10.11</matiere>
+  </note>
+  <note>
+    <CNE>863</CNE>
+    <LastName>Paunsford</LastName>
+    <FirstName>Sisile</FirstName>
+    <matiere codeMat="AP31">11.4</matiere>
+    <matiere codeMat="AP32">18.59</matiere>
+    <matiere codeMat="AP33">16.81</matiere>
+    <matiere codeMat="AP34">16.46</matiere>
+    <matiere codeMat="AP35">11.01</matiere>
+    <matiere codeMat="AP36">18.48</matiere>
+    <matiere codeMat="AP41">14.94</matiere>
+    <matiere codeMat="AP42">9.61</matiere>
+    <matiere codeMat="AP43">11.38</matiere>
+    <matiere codeMat="AP44">19.81</matiere>
+    <matiere codeMat="AP45">16.26</matiere>
+    <matiere codeMat="AP46">15.43</matiere>
+  </note>
+  <note>
+    <CNE>864</CNE>
+    <LastName>Peskett</LastName>
+    <FirstName>Fionnula</FirstName>
+    <matiere codeMat="AP31">16.23</matiere>
+    <matiere codeMat="AP32">18.29</matiere>
+    <matiere codeMat="AP33">13.33</matiere>
+    <matiere codeMat="AP34">9.38</matiere>
+    <matiere codeMat="AP35">9.88</matiere>
+    <matiere codeMat="AP36">18.32</matiere>
+    <matiere codeMat="AP41">17.67</matiere>
+    <matiere codeMat="AP42">18.91</matiere>
+    <matiere codeMat="AP43">19.56</matiere>
+    <matiere codeMat="AP44">12.28</matiere>
+    <matiere codeMat="AP45">19.01</matiere>
+    <matiere codeMat="AP46">9.21</matiere>
+  </note>
+  <note>
+    <CNE>865</CNE>
+    <LastName>Klosa</LastName>
+    <FirstName>Ingmar</FirstName>
+    <matiere codeMat="AP31">12.52</matiere>
+    <matiere codeMat="AP32">19.31</matiere>
+    <matiere codeMat="AP33">18.87</matiere>
+    <matiere codeMat="AP34">16.39</matiere>
+    <matiere codeMat="AP35">13.49</matiere>
+    <matiere codeMat="AP36">13.89</matiere>
+    <matiere codeMat="AP41">8.28</matiere>
+    <matiere codeMat="AP42">14.92</matiere>
+    <matiere codeMat="AP43">19.3</matiere>
+    <matiere codeMat="AP44">10.34</matiere>
+    <matiere codeMat="AP45">18.66</matiere>
+    <matiere codeMat="AP46">11.76</matiere>
+  </note>
+  <note>
+    <CNE>866</CNE>
+    <LastName>Barkaway</LastName>
+    <FirstName>Kelli</FirstName>
+    <matiere codeMat="AP31">16.72</matiere>
+    <matiere codeMat="AP32">12.05</matiere>
+    <matiere codeMat="AP33">13.76</matiere>
+    <matiere codeMat="AP34">12.17</matiere>
+    <matiere codeMat="AP35">17.13</matiere>
+    <matiere codeMat="AP36">18.9</matiere>
+    <matiere codeMat="AP41">9.64</matiere>
+    <matiere codeMat="AP42">18.58</matiere>
+    <matiere codeMat="AP43">17.17</matiere>
+    <matiere codeMat="AP44">12.56</matiere>
+    <matiere codeMat="AP45">9.03</matiere>
+    <matiere codeMat="AP46">18.16</matiere>
+  </note>
+  <note>
+    <CNE>867</CNE>
+    <LastName>Callendar</LastName>
+    <FirstName>Thaine</FirstName>
+    <matiere codeMat="AP31">11.35</matiere>
+    <matiere codeMat="AP32">12.48</matiere>
+    <matiere codeMat="AP33">15.99</matiere>
+    <matiere codeMat="AP34">18.57</matiere>
+    <matiere codeMat="AP35">10.48</matiere>
+    <matiere codeMat="AP36">9.41</matiere>
+    <matiere codeMat="AP41">14.11</matiere>
+    <matiere codeMat="AP42">11.02</matiere>
+    <matiere codeMat="AP43">10.11</matiere>
+    <matiere codeMat="AP44">11.88</matiere>
+    <matiere codeMat="AP45">9.69</matiere>
+    <matiere codeMat="AP46">13.34</matiere>
+  </note>
+  <note>
+    <CNE>868</CNE>
+    <LastName>Gendrich</LastName>
+    <FirstName>Albina</FirstName>
+    <matiere codeMat="AP31">9.05</matiere>
+    <matiere codeMat="AP32">12.8</matiere>
+    <matiere codeMat="AP33">16.7</matiere>
+    <matiere codeMat="AP34">18.88</matiere>
+    <matiere codeMat="AP35">17.34</matiere>
+    <matiere codeMat="AP36">15.09</matiere>
+    <matiere codeMat="AP41">13.1</matiere>
+    <matiere codeMat="AP42">15.63</matiere>
+    <matiere codeMat="AP43">8.46</matiere>
+    <matiere codeMat="AP44">12.47</matiere>
+    <matiere codeMat="AP45">8.61</matiere>
+    <matiere codeMat="AP46">17.57</matiere>
+  </note>
+  <note>
+    <CNE>869</CNE>
+    <LastName>Guillon</LastName>
+    <FirstName>Lorinda</FirstName>
+    <matiere codeMat="AP31">12.23</matiere>
+    <matiere codeMat="AP32">13.33</matiere>
+    <matiere codeMat="AP33">18.24</matiere>
+    <matiere codeMat="AP34">19.02</matiere>
+    <matiere codeMat="AP35">14.09</matiere>
+    <matiere codeMat="AP36">19.79</matiere>
+    <matiere codeMat="AP41">18.26</matiere>
+    <matiere codeMat="AP42">15.9</matiere>
+    <matiere codeMat="AP43">11.92</matiere>
+    <matiere codeMat="AP44">19.22</matiere>
+    <matiere codeMat="AP45">19.62</matiere>
+    <matiere codeMat="AP46">11.06</matiere>
+  </note>
+  <note>
+    <CNE>870</CNE>
+    <LastName>Mary</LastName>
+    <FirstName>Sarina</FirstName>
+    <matiere codeMat="AP31">14.71</matiere>
+    <matiere codeMat="AP32">9.74</matiere>
+    <matiere codeMat="AP33">15.39</matiere>
+    <matiere codeMat="AP34">14.34</matiere>
+    <matiere codeMat="AP35">9.54</matiere>
+    <matiere codeMat="AP36">11.02</matiere>
+    <matiere codeMat="AP41">14.14</matiere>
+    <matiere codeMat="AP42">16.79</matiere>
+    <matiere codeMat="AP43">8.6</matiere>
+    <matiere codeMat="AP44">18.68</matiere>
+    <matiere codeMat="AP45">10.08</matiere>
+    <matiere codeMat="AP46">12.6</matiere>
+  </note>
+  <note>
+    <CNE>871</CNE>
+    <LastName>Rodger</LastName>
+    <FirstName>Zonnya</FirstName>
+    <matiere codeMat="AP31">17.35</matiere>
+    <matiere codeMat="AP32">17.29</matiere>
+    <matiere codeMat="AP33">11.17</matiere>
+    <matiere codeMat="AP34">19.13</matiere>
+    <matiere codeMat="AP35">11.13</matiere>
+    <matiere codeMat="AP36">18.74</matiere>
+    <matiere codeMat="AP41">11.45</matiere>
+    <matiere codeMat="AP42">18.86</matiere>
+    <matiere codeMat="AP43">14.79</matiere>
+    <matiere codeMat="AP44">10.25</matiere>
+    <matiere codeMat="AP45">12.96</matiere>
+    <matiere codeMat="AP46">18.55</matiere>
+  </note>
+  <note>
+    <CNE>872</CNE>
+    <LastName>McQuarrie</LastName>
+    <FirstName>Rosetta</FirstName>
+    <matiere codeMat="AP31">19.74</matiere>
+    <matiere codeMat="AP32">12.87</matiere>
+    <matiere codeMat="AP33">11.94</matiere>
+    <matiere codeMat="AP34">15.61</matiere>
+    <matiere codeMat="AP35">14.93</matiere>
+    <matiere codeMat="AP36">12.18</matiere>
+    <matiere codeMat="AP41">14.47</matiere>
+    <matiere codeMat="AP42">15.14</matiere>
+    <matiere codeMat="AP43">12.78</matiere>
+    <matiere codeMat="AP44">14.12</matiere>
+    <matiere codeMat="AP45">9.84</matiere>
+    <matiere codeMat="AP46">10.09</matiere>
+  </note>
+  <note>
+    <CNE>873</CNE>
+    <LastName>Issacov</LastName>
+    <FirstName>Sylvia</FirstName>
+    <matiere codeMat="AP31">12.12</matiere>
+    <matiere codeMat="AP32">10.92</matiere>
+    <matiere codeMat="AP33">19.45</matiere>
+    <matiere codeMat="AP34">15.06</matiere>
+    <matiere codeMat="AP35">9.82</matiere>
+    <matiere codeMat="AP36">11.81</matiere>
+    <matiere codeMat="AP41">14.31</matiere>
+    <matiere codeMat="AP42">17.25</matiere>
+    <matiere codeMat="AP43">10.06</matiere>
+    <matiere codeMat="AP44">18.02</matiere>
+    <matiere codeMat="AP45">19.46</matiere>
+    <matiere codeMat="AP46">19.49</matiere>
+  </note>
+  <note>
+    <CNE>874</CNE>
+    <LastName>Powner</LastName>
+    <FirstName>Gilbert</FirstName>
+    <matiere codeMat="AP31">14.85</matiere>
+    <matiere codeMat="AP32">10.22</matiere>
+    <matiere codeMat="AP33">14.03</matiere>
+    <matiere codeMat="AP34">15.63</matiere>
+    <matiere codeMat="AP35">12.17</matiere>
+    <matiere codeMat="AP36">9.65</matiere>
+    <matiere codeMat="AP41">19.41</matiere>
+    <matiere codeMat="AP42">11.65</matiere>
+    <matiere codeMat="AP43">15.57</matiere>
+    <matiere codeMat="AP44">17.37</matiere>
+    <matiere codeMat="AP45">17.99</matiere>
+    <matiere codeMat="AP46">17.15</matiere>
+  </note>
+  <note>
+    <CNE>875</CNE>
+    <LastName>Worssam</LastName>
+    <FirstName>Wallas</FirstName>
+    <matiere codeMat="AP31">16.14</matiere>
+    <matiere codeMat="AP32">10.19</matiere>
+    <matiere codeMat="AP33">19.36</matiere>
+    <matiere codeMat="AP34">14.51</matiere>
+    <matiere codeMat="AP35">15.2</matiere>
+    <matiere codeMat="AP36">15.99</matiere>
+    <matiere codeMat="AP41">8.26</matiere>
+    <matiere codeMat="AP42">9.23</matiere>
+    <matiere codeMat="AP43">16.95</matiere>
+    <matiere codeMat="AP44">9.43</matiere>
+    <matiere codeMat="AP45">17.42</matiere>
+    <matiere codeMat="AP46">19.27</matiere>
+  </note>
+  <note>
+    <CNE>876</CNE>
+    <LastName>Bradmore</LastName>
+    <FirstName>Sergio</FirstName>
+    <matiere codeMat="AP31">9.05</matiere>
+    <matiere codeMat="AP32">10.7</matiere>
+    <matiere codeMat="AP33">16.41</matiere>
+    <matiere codeMat="AP34">18.43</matiere>
+    <matiere codeMat="AP35">9.3</matiere>
+    <matiere codeMat="AP36">13.31</matiere>
+    <matiere codeMat="AP41">10.97</matiere>
+    <matiere codeMat="AP42">12.33</matiere>
+    <matiere codeMat="AP43">15.4</matiere>
+    <matiere codeMat="AP44">15.02</matiere>
+    <matiere codeMat="AP45">15.81</matiere>
+    <matiere codeMat="AP46">12.36</matiere>
+  </note>
+  <note>
+    <CNE>877</CNE>
+    <LastName>Billingsly</LastName>
+    <FirstName>Claire</FirstName>
+    <matiere codeMat="AP31">18.29</matiere>
+    <matiere codeMat="AP32">10.29</matiere>
+    <matiere codeMat="AP33">16.77</matiere>
+    <matiere codeMat="AP34">18.38</matiere>
+    <matiere codeMat="AP35">9.56</matiere>
+    <matiere codeMat="AP36">13.54</matiere>
+    <matiere codeMat="AP41">19.49</matiere>
+    <matiere codeMat="AP42">10.96</matiere>
+    <matiere codeMat="AP43">13.01</matiere>
+    <matiere codeMat="AP44">12.83</matiere>
+    <matiere codeMat="AP45">19.56</matiere>
+    <matiere codeMat="AP46">13.88</matiere>
+  </note>
+  <note>
+    <CNE>878</CNE>
+    <LastName>Blodget</LastName>
+    <FirstName>Fair</FirstName>
+    <matiere codeMat="AP31">17.93</matiere>
+    <matiere codeMat="AP32">12.72</matiere>
+    <matiere codeMat="AP33">15.95</matiere>
+    <matiere codeMat="AP34">13.15</matiere>
+    <matiere codeMat="AP35">10.24</matiere>
+    <matiere codeMat="AP36">12.41</matiere>
+    <matiere codeMat="AP41">17.8</matiere>
+    <matiere codeMat="AP42">17.79</matiere>
+    <matiere codeMat="AP43">17.25</matiere>
+    <matiere codeMat="AP44">12.62</matiere>
+    <matiere codeMat="AP45">12.08</matiere>
+    <matiere codeMat="AP46">18.92</matiere>
+  </note>
+  <note>
+    <CNE>879</CNE>
+    <LastName>Heinl</LastName>
+    <FirstName>Gigi</FirstName>
+    <matiere codeMat="AP31">10.96</matiere>
+    <matiere codeMat="AP32">10.88</matiere>
+    <matiere codeMat="AP33">16.25</matiere>
+    <matiere codeMat="AP34">17.82</matiere>
+    <matiere codeMat="AP35">10.11</matiere>
+    <matiere codeMat="AP36">9.49</matiere>
+    <matiere codeMat="AP41">14.53</matiere>
+    <matiere codeMat="AP42">13.88</matiere>
+    <matiere codeMat="AP43">17.99</matiere>
+    <matiere codeMat="AP44">11.45</matiere>
+    <matiere codeMat="AP45">19.18</matiere>
+    <matiere codeMat="AP46">14.9</matiere>
+  </note>
+  <note>
+    <CNE>880</CNE>
+    <LastName>Novichenko</LastName>
+    <FirstName>Garret</FirstName>
+    <matiere codeMat="AP31">14.42</matiere>
+    <matiere codeMat="AP32">10.38</matiere>
+    <matiere codeMat="AP33">13.05</matiere>
+    <matiere codeMat="AP34">12.9</matiere>
+    <matiere codeMat="AP35">15.65</matiere>
+    <matiere codeMat="AP36">14.49</matiere>
+    <matiere codeMat="AP41">11.04</matiere>
+    <matiere codeMat="AP42">19.86</matiere>
+    <matiere codeMat="AP43">9.88</matiere>
+    <matiere codeMat="AP44">9.71</matiere>
+    <matiere codeMat="AP45">9.83</matiere>
+    <matiere codeMat="AP46">16.19</matiere>
+  </note>
+  <note>
+    <CNE>881</CNE>
+    <LastName>Queyos</LastName>
+    <FirstName>Mychal</FirstName>
+    <matiere codeMat="AP31">12.91</matiere>
+    <matiere codeMat="AP32">18.12</matiere>
+    <matiere codeMat="AP33">13.73</matiere>
+    <matiere codeMat="AP34">12.86</matiere>
+    <matiere codeMat="AP35">14.07</matiere>
+    <matiere codeMat="AP36">9.33</matiere>
+    <matiere codeMat="AP41">19.92</matiere>
+    <matiere codeMat="AP42">13.43</matiere>
+    <matiere codeMat="AP43">8.01</matiere>
+    <matiere codeMat="AP44">10.2</matiere>
+    <matiere codeMat="AP45">16.86</matiere>
+    <matiere codeMat="AP46">18.07</matiere>
+  </note>
+  <note>
+    <CNE>882</CNE>
+    <LastName>Canavan</LastName>
+    <FirstName>Dunstan</FirstName>
+    <matiere codeMat="AP31">9.33</matiere>
+    <matiere codeMat="AP32">19.74</matiere>
+    <matiere codeMat="AP33">18.85</matiere>
+    <matiere codeMat="AP34">16.68</matiere>
+    <matiere codeMat="AP35">13.7</matiere>
+    <matiere codeMat="AP36">9.92</matiere>
+    <matiere codeMat="AP41">19.62</matiere>
+    <matiere codeMat="AP42">18.25</matiere>
+    <matiere codeMat="AP43">15.57</matiere>
+    <matiere codeMat="AP44">17.04</matiere>
+    <matiere codeMat="AP45">19.09</matiere>
+    <matiere codeMat="AP46">19.06</matiere>
+  </note>
+  <note>
+    <CNE>883</CNE>
+    <LastName>Skentelbury</LastName>
+    <FirstName>Stavros</FirstName>
+    <matiere codeMat="AP31">9.85</matiere>
+    <matiere codeMat="AP32">14.16</matiere>
+    <matiere codeMat="AP33">19.08</matiere>
+    <matiere codeMat="AP34">10.59</matiere>
+    <matiere codeMat="AP35">15.07</matiere>
+    <matiere codeMat="AP36">13.19</matiere>
+    <matiere codeMat="AP41">10.4</matiere>
+    <matiere codeMat="AP42">8.07</matiere>
+    <matiere codeMat="AP43">9.51</matiere>
+    <matiere codeMat="AP44">16.91</matiere>
+    <matiere codeMat="AP45">16.19</matiere>
+    <matiere codeMat="AP46">14.07</matiere>
+  </note>
+  <note>
+    <CNE>884</CNE>
+    <LastName>Traher</LastName>
+    <FirstName>Raye</FirstName>
+    <matiere codeMat="AP31">15.56</matiere>
+    <matiere codeMat="AP32">16.36</matiere>
+    <matiere codeMat="AP33">13.4</matiere>
+    <matiere codeMat="AP34">17.26</matiere>
+    <matiere codeMat="AP35">9.3</matiere>
+    <matiere codeMat="AP36">16.3</matiere>
+    <matiere codeMat="AP41">16.74</matiere>
+    <matiere codeMat="AP42">8.53</matiere>
+    <matiere codeMat="AP43">13.02</matiere>
+    <matiere codeMat="AP44">15.93</matiere>
+    <matiere codeMat="AP45">10.33</matiere>
+    <matiere codeMat="AP46">12.99</matiere>
+  </note>
+  <note>
+    <CNE>885</CNE>
+    <LastName>Geely</LastName>
+    <FirstName>Jeremy</FirstName>
+    <matiere codeMat="AP31">10.4</matiere>
+    <matiere codeMat="AP32">14.81</matiere>
+    <matiere codeMat="AP33">15.42</matiere>
+    <matiere codeMat="AP34">18.14</matiere>
+    <matiere codeMat="AP35">10.93</matiere>
+    <matiere codeMat="AP36">9.26</matiere>
+    <matiere codeMat="AP41">17.05</matiere>
+    <matiere codeMat="AP42">12.65</matiere>
+    <matiere codeMat="AP43">9.08</matiere>
+    <matiere codeMat="AP44">10.12</matiere>
+    <matiere codeMat="AP45">11.44</matiere>
+    <matiere codeMat="AP46">12.88</matiere>
+  </note>
+  <note>
+    <CNE>886</CNE>
+    <LastName>Tomasek</LastName>
+    <FirstName>Merwin</FirstName>
+    <matiere codeMat="AP31">9.75</matiere>
+    <matiere codeMat="AP32">14.98</matiere>
+    <matiere codeMat="AP33">9.58</matiere>
+    <matiere codeMat="AP34">16.96</matiere>
+    <matiere codeMat="AP35">12.25</matiere>
+    <matiere codeMat="AP36">14.8</matiere>
+    <matiere codeMat="AP41">19.59</matiere>
+    <matiere codeMat="AP42">9.05</matiere>
+    <matiere codeMat="AP43">12.36</matiere>
+    <matiere codeMat="AP44">18.56</matiere>
+    <matiere codeMat="AP45">11.31</matiere>
+    <matiere codeMat="AP46">10.82</matiere>
+  </note>
+  <note>
+    <CNE>887</CNE>
+    <LastName>Pavett</LastName>
+    <FirstName>Marsha</FirstName>
+    <matiere codeMat="AP31">9.89</matiere>
+    <matiere codeMat="AP32">15.77</matiere>
+    <matiere codeMat="AP33">11.79</matiere>
+    <matiere codeMat="AP34">14.4</matiere>
+    <matiere codeMat="AP35">12.78</matiere>
+    <matiere codeMat="AP36">15.5</matiere>
+    <matiere codeMat="AP41">19.5</matiere>
+    <matiere codeMat="AP42">11.53</matiere>
+    <matiere codeMat="AP43">12.5</matiere>
+    <matiere codeMat="AP44">19.35</matiere>
+    <matiere codeMat="AP45">13.88</matiere>
+    <matiere codeMat="AP46">11.97</matiere>
+  </note>
+  <note>
+    <CNE>888</CNE>
+    <LastName>Klessmann</LastName>
+    <FirstName>Denny</FirstName>
+    <matiere codeMat="AP31">19.53</matiere>
+    <matiere codeMat="AP32">11.51</matiere>
+    <matiere codeMat="AP33">12.23</matiere>
+    <matiere codeMat="AP34">16.43</matiere>
+    <matiere codeMat="AP35">16.6</matiere>
+    <matiere codeMat="AP36">11.46</matiere>
+    <matiere codeMat="AP41">13.22</matiere>
+    <matiere codeMat="AP42">8.55</matiere>
+    <matiere codeMat="AP43">15.04</matiere>
+    <matiere codeMat="AP44">12.21</matiere>
+    <matiere codeMat="AP45">15.91</matiere>
+    <matiere codeMat="AP46">8.75</matiere>
+  </note>
+  <note>
+    <CNE>889</CNE>
+    <LastName>Toward</LastName>
+    <FirstName>Kenyon</FirstName>
+    <matiere codeMat="AP31">19.58</matiere>
+    <matiere codeMat="AP32">14.24</matiere>
+    <matiere codeMat="AP33">9.01</matiere>
+    <matiere codeMat="AP34">17.63</matiere>
+    <matiere codeMat="AP35">12.94</matiere>
+    <matiere codeMat="AP36">16.24</matiere>
+    <matiere codeMat="AP41">16.26</matiere>
+    <matiere codeMat="AP42">8.18</matiere>
+    <matiere codeMat="AP43">17.2</matiere>
+    <matiere codeMat="AP44">19.11</matiere>
+    <matiere codeMat="AP45">8.55</matiere>
+    <matiere codeMat="AP46">8.35</matiere>
+  </note>
+  <note>
+    <CNE>890</CNE>
+    <LastName>Condict</LastName>
+    <FirstName>Rahal</FirstName>
+    <matiere codeMat="AP31">18.77</matiere>
+    <matiere codeMat="AP32">19.65</matiere>
+    <matiere codeMat="AP33">17.17</matiere>
+    <matiere codeMat="AP34">16.55</matiere>
+    <matiere codeMat="AP35">19.17</matiere>
+    <matiere codeMat="AP36">11.18</matiere>
+    <matiere codeMat="AP41">17.76</matiere>
+    <matiere codeMat="AP42">18.36</matiere>
+    <matiere codeMat="AP43">10.91</matiere>
+    <matiere codeMat="AP44">18.38</matiere>
+    <matiere codeMat="AP45">9.12</matiere>
+    <matiere codeMat="AP46">13.42</matiere>
+  </note>
+  <note>
+    <CNE>891</CNE>
+    <LastName>Tournie</LastName>
+    <FirstName>Ruthie</FirstName>
+    <matiere codeMat="AP31">11.95</matiere>
+    <matiere codeMat="AP32">18.43</matiere>
+    <matiere codeMat="AP33">14.62</matiere>
+    <matiere codeMat="AP34">14.59</matiere>
+    <matiere codeMat="AP35">18.61</matiere>
+    <matiere codeMat="AP36">13.74</matiere>
+    <matiere codeMat="AP41">9.52</matiere>
+    <matiere codeMat="AP42">17.59</matiere>
+    <matiere codeMat="AP43">16.89</matiere>
+    <matiere codeMat="AP44">19.32</matiere>
+    <matiere codeMat="AP45">13.22</matiere>
+    <matiere codeMat="AP46">8.25</matiere>
+  </note>
+  <note>
+    <CNE>892</CNE>
+    <LastName>Perllman</LastName>
+    <FirstName>Cacilie</FirstName>
+    <matiere codeMat="AP31">11.76</matiere>
+    <matiere codeMat="AP32">17.19</matiere>
+    <matiere codeMat="AP33">17.63</matiere>
+    <matiere codeMat="AP34">13.98</matiere>
+    <matiere codeMat="AP35">9.28</matiere>
+    <matiere codeMat="AP36">19.03</matiere>
+    <matiere codeMat="AP41">11.91</matiere>
+    <matiere codeMat="AP42">11.39</matiere>
+    <matiere codeMat="AP43">17.63</matiere>
+    <matiere codeMat="AP44">19.38</matiere>
+    <matiere codeMat="AP45">8.77</matiere>
+    <matiere codeMat="AP46">17.68</matiere>
+  </note>
+  <note>
+    <CNE>893</CNE>
+    <LastName>Beckley</LastName>
+    <FirstName>Aubrie</FirstName>
+    <matiere codeMat="AP31">9.31</matiere>
+    <matiere codeMat="AP32">15.4</matiere>
+    <matiere codeMat="AP33">11.13</matiere>
+    <matiere codeMat="AP34">9.09</matiere>
+    <matiere codeMat="AP35">14.09</matiere>
+    <matiere codeMat="AP36">13.71</matiere>
+    <matiere codeMat="AP41">10.83</matiere>
+    <matiere codeMat="AP42">17.61</matiere>
+    <matiere codeMat="AP43">17.16</matiere>
+    <matiere codeMat="AP44">12.12</matiere>
+    <matiere codeMat="AP45">11.82</matiere>
+    <matiere codeMat="AP46">15.88</matiere>
+  </note>
+  <note>
+    <CNE>894</CNE>
+    <LastName>Wyche</LastName>
+    <FirstName>Ned</FirstName>
+    <matiere codeMat="AP31">10.82</matiere>
+    <matiere codeMat="AP32">19.9</matiere>
+    <matiere codeMat="AP33">13.21</matiere>
+    <matiere codeMat="AP34">19.46</matiere>
+    <matiere codeMat="AP35">13.18</matiere>
+    <matiere codeMat="AP36">8.56</matiere>
+    <matiere codeMat="AP41">15.74</matiere>
+    <matiere codeMat="AP42">14.38</matiere>
+    <matiere codeMat="AP43">8.05</matiere>
+    <matiere codeMat="AP44">11</matiere>
+    <matiere codeMat="AP45">9.37</matiere>
+    <matiere codeMat="AP46">14.75</matiere>
+  </note>
+  <note>
+    <CNE>895</CNE>
+    <LastName>Brumpton</LastName>
+    <FirstName>Elmer</FirstName>
+    <matiere codeMat="AP31">19.45</matiere>
+    <matiere codeMat="AP32">18.72</matiere>
+    <matiere codeMat="AP33">18.09</matiere>
+    <matiere codeMat="AP34">18.39</matiere>
+    <matiere codeMat="AP35">17.24</matiere>
+    <matiere codeMat="AP36">18.1</matiere>
+    <matiere codeMat="AP41">15.22</matiere>
+    <matiere codeMat="AP42">13.58</matiere>
+    <matiere codeMat="AP43">18.45</matiere>
+    <matiere codeMat="AP44">17.27</matiere>
+    <matiere codeMat="AP45">8.74</matiere>
+    <matiere codeMat="AP46">8.94</matiere>
+  </note>
+  <note>
+    <CNE>896</CNE>
+    <LastName>Taplow</LastName>
+    <FirstName>Worthington</FirstName>
+    <matiere codeMat="AP31">12.54</matiere>
+    <matiere codeMat="AP32">15.45</matiere>
+    <matiere codeMat="AP33">14.79</matiere>
+    <matiere codeMat="AP34">13.72</matiere>
+    <matiere codeMat="AP35">13.86</matiere>
+    <matiere codeMat="AP36">17.87</matiere>
+    <matiere codeMat="AP41">13.18</matiere>
+    <matiere codeMat="AP42">11</matiere>
+    <matiere codeMat="AP43">19.73</matiere>
+    <matiere codeMat="AP44">10.2</matiere>
+    <matiere codeMat="AP45">14.4</matiere>
+    <matiere codeMat="AP46">10.1</matiere>
+  </note>
+  <note>
+    <CNE>897</CNE>
+    <LastName>McLese</LastName>
+    <FirstName>Buffy</FirstName>
+    <matiere codeMat="AP31">14.39</matiere>
+    <matiere codeMat="AP32">17.7</matiere>
+    <matiere codeMat="AP33">18.49</matiere>
+    <matiere codeMat="AP34">9.74</matiere>
+    <matiere codeMat="AP35">15.79</matiere>
+    <matiere codeMat="AP36">12.85</matiere>
+    <matiere codeMat="AP41">19.74</matiere>
+    <matiere codeMat="AP42">19.3</matiere>
+    <matiere codeMat="AP43">12.54</matiere>
+    <matiere codeMat="AP44">19.92</matiere>
+    <matiere codeMat="AP45">12.07</matiere>
+    <matiere codeMat="AP46">10.57</matiere>
+  </note>
+  <note>
+    <CNE>898</CNE>
+    <LastName>Overell</LastName>
+    <FirstName>Raphael</FirstName>
+    <matiere codeMat="AP31">12.34</matiere>
+    <matiere codeMat="AP32">10.08</matiere>
+    <matiere codeMat="AP33">9.67</matiere>
+    <matiere codeMat="AP34">15.64</matiere>
+    <matiere codeMat="AP35">11.71</matiere>
+    <matiere codeMat="AP36">17.84</matiere>
+    <matiere codeMat="AP41">19.91</matiere>
+    <matiere codeMat="AP42">19.75</matiere>
+    <matiere codeMat="AP43">18.58</matiere>
+    <matiere codeMat="AP44">12.67</matiere>
+    <matiere codeMat="AP45">17.23</matiere>
+    <matiere codeMat="AP46">18.44</matiere>
+  </note>
+  <note>
+    <CNE>899</CNE>
+    <LastName>Seton</LastName>
+    <FirstName>Suellen</FirstName>
+    <matiere codeMat="AP31">19.7</matiere>
+    <matiere codeMat="AP32">18.03</matiere>
+    <matiere codeMat="AP33">9.12</matiere>
+    <matiere codeMat="AP34">19.35</matiere>
+    <matiere codeMat="AP35">13.59</matiere>
+    <matiere codeMat="AP36">13.08</matiere>
+    <matiere codeMat="AP41">16.84</matiere>
+    <matiere codeMat="AP42">19.52</matiere>
+    <matiere codeMat="AP43">10.93</matiere>
+    <matiere codeMat="AP44">16.56</matiere>
+    <matiere codeMat="AP45">16.07</matiere>
+    <matiere codeMat="AP46">16.02</matiere>
+  </note>
+  <note>
+    <CNE>900</CNE>
+    <LastName>Bernardez</LastName>
+    <FirstName>Malvin</FirstName>
+    <matiere codeMat="AP31">19.56</matiere>
+    <matiere codeMat="AP32">18.02</matiere>
+    <matiere codeMat="AP33">17.04</matiere>
+    <matiere codeMat="AP34">18.25</matiere>
+    <matiere codeMat="AP35">12.61</matiere>
+    <matiere codeMat="AP36">16.53</matiere>
+    <matiere codeMat="AP41">8.61</matiere>
+    <matiere codeMat="AP42">14.85</matiere>
+    <matiere codeMat="AP43">15.18</matiere>
+    <matiere codeMat="AP44">18.92</matiere>
+    <matiere codeMat="AP45">18.42</matiere>
+    <matiere codeMat="AP46">15.44</matiere>
+  </note>
+  <note>
+    <CNE>901</CNE>
+    <LastName>Stollberger</LastName>
+    <FirstName>Aleece</FirstName>
+    <matiere codeMat="AP31">12.75</matiere>
+    <matiere codeMat="AP32">9.33</matiere>
+    <matiere codeMat="AP33">17.08</matiere>
+    <matiere codeMat="AP34">17.2</matiere>
+    <matiere codeMat="AP35">16.39</matiere>
+    <matiere codeMat="AP36">17.43</matiere>
+    <matiere codeMat="AP41">9.34</matiere>
+    <matiere codeMat="AP42">8.22</matiere>
+    <matiere codeMat="AP43">18.3</matiere>
+    <matiere codeMat="AP44">10.4</matiere>
+    <matiere codeMat="AP45">15.47</matiere>
+    <matiere codeMat="AP46">9.34</matiere>
+  </note>
+  <note>
+    <CNE>902</CNE>
+    <LastName>Buche</LastName>
+    <FirstName>Ramona</FirstName>
+    <matiere codeMat="AP31">19.5</matiere>
+    <matiere codeMat="AP32">14.07</matiere>
+    <matiere codeMat="AP33">19.37</matiere>
+    <matiere codeMat="AP34">12.19</matiere>
+    <matiere codeMat="AP35">16.58</matiere>
+    <matiere codeMat="AP36">17.7</matiere>
+    <matiere codeMat="AP41">8.83</matiere>
+    <matiere codeMat="AP42">17.82</matiere>
+    <matiere codeMat="AP43">10.81</matiere>
+    <matiere codeMat="AP44">9.09</matiere>
+    <matiere codeMat="AP45">13.85</matiere>
+    <matiere codeMat="AP46">10.52</matiere>
+  </note>
+  <note>
+    <CNE>903</CNE>
+    <LastName>Cerie</LastName>
+    <FirstName>Loreen</FirstName>
+    <matiere codeMat="AP31">19.1</matiere>
+    <matiere codeMat="AP32">14.48</matiere>
+    <matiere codeMat="AP33">19.69</matiere>
+    <matiere codeMat="AP34">16.03</matiere>
+    <matiere codeMat="AP35">15.1</matiere>
+    <matiere codeMat="AP36">8.66</matiere>
+    <matiere codeMat="AP41">12.14</matiere>
+    <matiere codeMat="AP42">9.67</matiere>
+    <matiere codeMat="AP43">17.43</matiere>
+    <matiere codeMat="AP44">9.28</matiere>
+    <matiere codeMat="AP45">15.6</matiere>
+    <matiere codeMat="AP46">10.14</matiere>
+  </note>
+  <note>
+    <CNE>904</CNE>
+    <LastName>de Tocqueville</LastName>
+    <FirstName>Leonerd</FirstName>
+    <matiere codeMat="AP31">12.17</matiere>
+    <matiere codeMat="AP32">17.62</matiere>
+    <matiere codeMat="AP33">18.78</matiere>
+    <matiere codeMat="AP34">15.7</matiere>
+    <matiere codeMat="AP35">9.8</matiere>
+    <matiere codeMat="AP36">15.07</matiere>
+    <matiere codeMat="AP41">14.81</matiere>
+    <matiere codeMat="AP42">18.05</matiere>
+    <matiere codeMat="AP43">13.57</matiere>
+    <matiere codeMat="AP44">11.42</matiere>
+    <matiere codeMat="AP45">17.64</matiere>
+    <matiere codeMat="AP46">14.47</matiere>
+  </note>
+  <note>
+    <CNE>905</CNE>
+    <LastName>Setter</LastName>
+    <FirstName>Helenka</FirstName>
+    <matiere codeMat="AP31">17.59</matiere>
+    <matiere codeMat="AP32">17.82</matiere>
+    <matiere codeMat="AP33">16.92</matiere>
+    <matiere codeMat="AP34">15.42</matiere>
+    <matiere codeMat="AP35">17.2</matiere>
+    <matiere codeMat="AP36">16.14</matiere>
+    <matiere codeMat="AP41">9.62</matiere>
+    <matiere codeMat="AP42">8.86</matiere>
+    <matiere codeMat="AP43">15.3</matiere>
+    <matiere codeMat="AP44">11.11</matiere>
+    <matiere codeMat="AP45">10.49</matiere>
+    <matiere codeMat="AP46">14.78</matiere>
+  </note>
+  <note>
+    <CNE>906</CNE>
+    <LastName>Allinson</LastName>
+    <FirstName>Garnette</FirstName>
+    <matiere codeMat="AP31">11.44</matiere>
+    <matiere codeMat="AP32">17.97</matiere>
+    <matiere codeMat="AP33">11.75</matiere>
+    <matiere codeMat="AP34">14.94</matiere>
+    <matiere codeMat="AP35">18.02</matiere>
+    <matiere codeMat="AP36">18.18</matiere>
+    <matiere codeMat="AP41">16.07</matiere>
+    <matiere codeMat="AP42">19.05</matiere>
+    <matiere codeMat="AP43">16.97</matiere>
+    <matiere codeMat="AP44">13.11</matiere>
+    <matiere codeMat="AP45">17.41</matiere>
+    <matiere codeMat="AP46">18.22</matiere>
+  </note>
+  <note>
+    <CNE>907</CNE>
+    <LastName>Knudsen</LastName>
+    <FirstName>Lucy</FirstName>
+    <matiere codeMat="AP31">11.31</matiere>
+    <matiere codeMat="AP32">16.85</matiere>
+    <matiere codeMat="AP33">19.79</matiere>
+    <matiere codeMat="AP34">12.09</matiere>
+    <matiere codeMat="AP35">19.9</matiere>
+    <matiere codeMat="AP36">9.95</matiere>
+    <matiere codeMat="AP41">15.29</matiere>
+    <matiere codeMat="AP42">12.93</matiere>
+    <matiere codeMat="AP43">16.45</matiere>
+    <matiere codeMat="AP44">14.7</matiere>
+    <matiere codeMat="AP45">18.84</matiere>
+    <matiere codeMat="AP46">17.97</matiere>
+  </note>
+  <note>
+    <CNE>908</CNE>
+    <LastName>Bebb</LastName>
+    <FirstName>Goldina</FirstName>
+    <matiere codeMat="AP31">9.13</matiere>
+    <matiere codeMat="AP32">17.82</matiere>
+    <matiere codeMat="AP33">19.35</matiere>
+    <matiere codeMat="AP34">16.63</matiere>
+    <matiere codeMat="AP35">9.05</matiere>
+    <matiere codeMat="AP36">15.07</matiere>
+    <matiere codeMat="AP41">9.69</matiere>
+    <matiere codeMat="AP42">14.92</matiere>
+    <matiere codeMat="AP43">17.85</matiere>
+    <matiere codeMat="AP44">14.09</matiere>
+    <matiere codeMat="AP45">10.72</matiere>
+    <matiere codeMat="AP46">18.18</matiere>
+  </note>
+  <note>
+    <CNE>909</CNE>
+    <LastName>L'Episcopio</LastName>
+    <FirstName>Reinald</FirstName>
+    <matiere codeMat="AP31">12.29</matiere>
+    <matiere codeMat="AP32">17.07</matiere>
+    <matiere codeMat="AP33">12.72</matiere>
+    <matiere codeMat="AP34">17.81</matiere>
+    <matiere codeMat="AP35">15.48</matiere>
+    <matiere codeMat="AP36">8.69</matiere>
+    <matiere codeMat="AP41">12.63</matiere>
+    <matiere codeMat="AP42">10.23</matiere>
+    <matiere codeMat="AP43">16.4</matiere>
+    <matiere codeMat="AP44">9.31</matiere>
+    <matiere codeMat="AP45">16.34</matiere>
+    <matiere codeMat="AP46">11.36</matiere>
+  </note>
+  <note>
+    <CNE>910</CNE>
+    <LastName>Gregory</LastName>
+    <FirstName>Cristal</FirstName>
+    <matiere codeMat="AP31">9.62</matiere>
+    <matiere codeMat="AP32">13.5</matiere>
+    <matiere codeMat="AP33">15.96</matiere>
+    <matiere codeMat="AP34">18.36</matiere>
+    <matiere codeMat="AP35">14.56</matiere>
+    <matiere codeMat="AP36">16.96</matiere>
+    <matiere codeMat="AP41">13.78</matiere>
+    <matiere codeMat="AP42">9.71</matiere>
+    <matiere codeMat="AP43">12.63</matiere>
+    <matiere codeMat="AP44">9.67</matiere>
+    <matiere codeMat="AP45">13.48</matiere>
+    <matiere codeMat="AP46">15.17</matiere>
+  </note>
+  <note>
+    <CNE>911</CNE>
+    <LastName>Le Barr</LastName>
+    <FirstName>Dedra</FirstName>
+    <matiere codeMat="AP31">18.95</matiere>
+    <matiere codeMat="AP32">16.73</matiere>
+    <matiere codeMat="AP33">9.47</matiere>
+    <matiere codeMat="AP34">14.82</matiere>
+    <matiere codeMat="AP35">15.7</matiere>
+    <matiere codeMat="AP36">19.58</matiere>
+    <matiere codeMat="AP41">13.32</matiere>
+    <matiere codeMat="AP42">8.31</matiere>
+    <matiere codeMat="AP43">13.87</matiere>
+    <matiere codeMat="AP44">15.85</matiere>
+    <matiere codeMat="AP45">12.24</matiere>
+    <matiere codeMat="AP46">19.13</matiere>
+  </note>
+  <note>
+    <CNE>912</CNE>
+    <LastName>McGinnis</LastName>
+    <FirstName>Maxie</FirstName>
+    <matiere codeMat="AP31">19.42</matiere>
+    <matiere codeMat="AP32">10.86</matiere>
+    <matiere codeMat="AP33">17.81</matiere>
+    <matiere codeMat="AP34">18.16</matiere>
+    <matiere codeMat="AP35">11.31</matiere>
+    <matiere codeMat="AP36">15.35</matiere>
+    <matiere codeMat="AP41">8.41</matiere>
+    <matiere codeMat="AP42">19.22</matiere>
+    <matiere codeMat="AP43">16.84</matiere>
+    <matiere codeMat="AP44">17.45</matiere>
+    <matiere codeMat="AP45">12.54</matiere>
+    <matiere codeMat="AP46">15.3</matiere>
+  </note>
+  <note>
+    <CNE>913</CNE>
+    <LastName>Capin</LastName>
+    <FirstName>Essy</FirstName>
+    <matiere codeMat="AP31">15.66</matiere>
+    <matiere codeMat="AP32">19.07</matiere>
+    <matiere codeMat="AP33">11.72</matiere>
+    <matiere codeMat="AP34">10.45</matiere>
+    <matiere codeMat="AP35">19.48</matiere>
+    <matiere codeMat="AP36">8.74</matiere>
+    <matiere codeMat="AP41">12.46</matiere>
+    <matiere codeMat="AP42">19.08</matiere>
+    <matiere codeMat="AP43">9.75</matiere>
+    <matiere codeMat="AP44">11.23</matiere>
+    <matiere codeMat="AP45">15.64</matiere>
+    <matiere codeMat="AP46">16.16</matiere>
+  </note>
+  <note>
+    <CNE>914</CNE>
+    <LastName>Dulling</LastName>
+    <FirstName>Dido</FirstName>
+    <matiere codeMat="AP31">14.68</matiere>
+    <matiere codeMat="AP32">19.69</matiere>
+    <matiere codeMat="AP33">10.78</matiere>
+    <matiere codeMat="AP34">19.59</matiere>
+    <matiere codeMat="AP35">19.79</matiere>
+    <matiere codeMat="AP36">11.36</matiere>
+    <matiere codeMat="AP41">16.43</matiere>
+    <matiere codeMat="AP42">9.41</matiere>
+    <matiere codeMat="AP43">16.37</matiere>
+    <matiere codeMat="AP44">16.5</matiere>
+    <matiere codeMat="AP45">14.89</matiere>
+    <matiere codeMat="AP46">15.5</matiere>
+  </note>
+  <note>
+    <CNE>915</CNE>
+    <LastName>Ventura</LastName>
+    <FirstName>Morry</FirstName>
+    <matiere codeMat="AP31">17.3</matiere>
+    <matiere codeMat="AP32">13.52</matiere>
+    <matiere codeMat="AP33">17.15</matiere>
+    <matiere codeMat="AP34">15.37</matiere>
+    <matiere codeMat="AP35">16.28</matiere>
+    <matiere codeMat="AP36">12.07</matiere>
+    <matiere codeMat="AP41">19.21</matiere>
+    <matiere codeMat="AP42">11.16</matiere>
+    <matiere codeMat="AP43">13.48</matiere>
+    <matiere codeMat="AP44">19.01</matiere>
+    <matiere codeMat="AP45">12.12</matiere>
+    <matiere codeMat="AP46">11.66</matiere>
+  </note>
+  <note>
+    <CNE>916</CNE>
+    <LastName>Chuck</LastName>
+    <FirstName>Kit</FirstName>
+    <matiere codeMat="AP31">18.36</matiere>
+    <matiere codeMat="AP32">15.74</matiere>
+    <matiere codeMat="AP33">18.2</matiere>
+    <matiere codeMat="AP34">15.62</matiere>
+    <matiere codeMat="AP35">16.05</matiere>
+    <matiere codeMat="AP36">8.81</matiere>
+    <matiere codeMat="AP41">19.59</matiere>
+    <matiere codeMat="AP42">9.96</matiere>
+    <matiere codeMat="AP43">12.8</matiere>
+    <matiere codeMat="AP44">15.22</matiere>
+    <matiere codeMat="AP45">15.86</matiere>
+    <matiere codeMat="AP46">10.39</matiere>
+  </note>
+  <note>
+    <CNE>917</CNE>
+    <LastName>Joyner</LastName>
+    <FirstName>Emelen</FirstName>
+    <matiere codeMat="AP31">14.48</matiere>
+    <matiere codeMat="AP32">16.69</matiere>
+    <matiere codeMat="AP33">17.87</matiere>
+    <matiere codeMat="AP34">10.06</matiere>
+    <matiere codeMat="AP35">9.86</matiere>
+    <matiere codeMat="AP36">11.56</matiere>
+    <matiere codeMat="AP41">14.24</matiere>
+    <matiere codeMat="AP42">9.4</matiere>
+    <matiere codeMat="AP43">19.35</matiere>
+    <matiere codeMat="AP44">17.21</matiere>
+    <matiere codeMat="AP45">10.52</matiere>
+    <matiere codeMat="AP46">16.98</matiere>
+  </note>
+  <note>
+    <CNE>918</CNE>
+    <LastName>Goodband</LastName>
+    <FirstName>Ludovico</FirstName>
+    <matiere codeMat="AP31">18.69</matiere>
+    <matiere codeMat="AP32">14.59</matiere>
+    <matiere codeMat="AP33">9.01</matiere>
+    <matiere codeMat="AP34">19.44</matiere>
+    <matiere codeMat="AP35">19.63</matiere>
+    <matiere codeMat="AP36">11.15</matiere>
+    <matiere codeMat="AP41">16.4</matiere>
+    <matiere codeMat="AP42">11.1</matiere>
+    <matiere codeMat="AP43">10.82</matiere>
+    <matiere codeMat="AP44">16.38</matiere>
+    <matiere codeMat="AP45">13.7</matiere>
+    <matiere codeMat="AP46">18.81</matiere>
+  </note>
+  <note>
+    <CNE>919</CNE>
+    <LastName>Carillo</LastName>
+    <FirstName>Darrelle</FirstName>
+    <matiere codeMat="AP31">10.99</matiere>
+    <matiere codeMat="AP32">17.7</matiere>
+    <matiere codeMat="AP33">19.08</matiere>
+    <matiere codeMat="AP34">9.12</matiere>
+    <matiere codeMat="AP35">17.18</matiere>
+    <matiere codeMat="AP36">10.57</matiere>
+    <matiere codeMat="AP41">19.1</matiere>
+    <matiere codeMat="AP42">16.51</matiere>
+    <matiere codeMat="AP43">8.76</matiere>
+    <matiere codeMat="AP44">14.78</matiere>
+    <matiere codeMat="AP45">18.79</matiere>
+    <matiere codeMat="AP46">10.44</matiere>
+  </note>
+  <note>
+    <CNE>920</CNE>
+    <LastName>Camfield</LastName>
+    <FirstName>Hakeem</FirstName>
+    <matiere codeMat="AP31">11.6</matiere>
+    <matiere codeMat="AP32">16.47</matiere>
+    <matiere codeMat="AP33">9.2</matiere>
+    <matiere codeMat="AP34">16.39</matiere>
+    <matiere codeMat="AP35">18.58</matiere>
+    <matiere codeMat="AP36">12.17</matiere>
+    <matiere codeMat="AP41">12.2</matiere>
+    <matiere codeMat="AP42">12.5</matiere>
+    <matiere codeMat="AP43">9.67</matiere>
+    <matiere codeMat="AP44">11.28</matiere>
+    <matiere codeMat="AP45">14.21</matiere>
+    <matiere codeMat="AP46">15.17</matiere>
+  </note>
+  <note>
+    <CNE>921</CNE>
+    <LastName>Deniscke</LastName>
+    <FirstName>Ronnica</FirstName>
+    <matiere codeMat="AP31">19.15</matiere>
+    <matiere codeMat="AP32">18.37</matiere>
+    <matiere codeMat="AP33">16.62</matiere>
+    <matiere codeMat="AP34">15.39</matiere>
+    <matiere codeMat="AP35">13.53</matiere>
+    <matiere codeMat="AP36">19.71</matiere>
+    <matiere codeMat="AP41">18.96</matiere>
+    <matiere codeMat="AP42">11.15</matiere>
+    <matiere codeMat="AP43">8.1</matiere>
+    <matiere codeMat="AP44">17.18</matiere>
+    <matiere codeMat="AP45">12.49</matiere>
+    <matiere codeMat="AP46">16.43</matiere>
+  </note>
+  <note>
+    <CNE>922</CNE>
+    <LastName>Stanway</LastName>
+    <FirstName>Liz</FirstName>
+    <matiere codeMat="AP31">9.72</matiere>
+    <matiere codeMat="AP32">16.99</matiere>
+    <matiere codeMat="AP33">10.73</matiere>
+    <matiere codeMat="AP34">19.5</matiere>
+    <matiere codeMat="AP35">10.17</matiere>
+    <matiere codeMat="AP36">8.79</matiere>
+    <matiere codeMat="AP41">13.88</matiere>
+    <matiere codeMat="AP42">16.23</matiere>
+    <matiere codeMat="AP43">19.36</matiere>
+    <matiere codeMat="AP44">9.34</matiere>
+    <matiere codeMat="AP45">17.26</matiere>
+    <matiere codeMat="AP46">16.02</matiere>
+  </note>
+  <note>
+    <CNE>923</CNE>
+    <LastName>Rosellini</LastName>
+    <FirstName>Tootsie</FirstName>
+    <matiere codeMat="AP31">15.1</matiere>
+    <matiere codeMat="AP32">10.92</matiere>
+    <matiere codeMat="AP33">11</matiere>
+    <matiere codeMat="AP34">15.16</matiere>
+    <matiere codeMat="AP35">9.58</matiere>
+    <matiere codeMat="AP36">9.25</matiere>
+    <matiere codeMat="AP41">9.18</matiere>
+    <matiere codeMat="AP42">14.12</matiere>
+    <matiere codeMat="AP43">11.64</matiere>
+    <matiere codeMat="AP44">15.95</matiere>
+    <matiere codeMat="AP45">19.14</matiere>
+    <matiere codeMat="AP46">8.92</matiere>
+  </note>
+  <note>
+    <CNE>924</CNE>
+    <LastName>Sneesbie</LastName>
+    <FirstName>Charmain</FirstName>
+    <matiere codeMat="AP31">12.84</matiere>
+    <matiere codeMat="AP32">9.24</matiere>
+    <matiere codeMat="AP33">19.12</matiere>
+    <matiere codeMat="AP34">9.9</matiere>
+    <matiere codeMat="AP35">14.17</matiere>
+    <matiere codeMat="AP36">15.87</matiere>
+    <matiere codeMat="AP41">18.08</matiere>
+    <matiere codeMat="AP42">19.47</matiere>
+    <matiere codeMat="AP43">10.51</matiere>
+    <matiere codeMat="AP44">17.85</matiere>
+    <matiere codeMat="AP45">18.98</matiere>
+    <matiere codeMat="AP46">17.94</matiere>
+  </note>
+  <note>
+    <CNE>925</CNE>
+    <LastName>Gerwood</LastName>
+    <FirstName>Rhona</FirstName>
+    <matiere codeMat="AP31">12.12</matiere>
+    <matiere codeMat="AP32">15.62</matiere>
+    <matiere codeMat="AP33">19.74</matiere>
+    <matiere codeMat="AP34">13.83</matiere>
+    <matiere codeMat="AP35">10.21</matiere>
+    <matiere codeMat="AP36">11.68</matiere>
+    <matiere codeMat="AP41">15.3</matiere>
+    <matiere codeMat="AP42">17.44</matiere>
+    <matiere codeMat="AP43">14.73</matiere>
+    <matiere codeMat="AP44">16.3</matiere>
+    <matiere codeMat="AP45">15.03</matiere>
+    <matiere codeMat="AP46">12.74</matiere>
+  </note>
+  <note>
+    <CNE>926</CNE>
+    <LastName>Ebbins</LastName>
+    <FirstName>Hymie</FirstName>
+    <matiere codeMat="AP31">16.15</matiere>
+    <matiere codeMat="AP32">9.27</matiere>
+    <matiere codeMat="AP33">19.82</matiere>
+    <matiere codeMat="AP34">17.33</matiere>
+    <matiere codeMat="AP35">16.02</matiere>
+    <matiere codeMat="AP36">19.62</matiere>
+    <matiere codeMat="AP41">18.73</matiere>
+    <matiere codeMat="AP42">17.93</matiere>
+    <matiere codeMat="AP43">11.13</matiere>
+    <matiere codeMat="AP44">15.16</matiere>
+    <matiere codeMat="AP45">9.2</matiere>
+    <matiere codeMat="AP46">12.18</matiere>
+  </note>
+  <note>
+    <CNE>927</CNE>
+    <LastName>Dunsire</LastName>
+    <FirstName>Vivien</FirstName>
+    <matiere codeMat="AP31">19.07</matiere>
+    <matiere codeMat="AP32">11.59</matiere>
+    <matiere codeMat="AP33">15.88</matiere>
+    <matiere codeMat="AP34">18.34</matiere>
+    <matiere codeMat="AP35">10.92</matiere>
+    <matiere codeMat="AP36">9.11</matiere>
+    <matiere codeMat="AP41">10.79</matiere>
+    <matiere codeMat="AP42">17</matiere>
+    <matiere codeMat="AP43">13.22</matiere>
+    <matiere codeMat="AP44">18.75</matiere>
+    <matiere codeMat="AP45">13.95</matiere>
+    <matiere codeMat="AP46">16.69</matiere>
+  </note>
+  <note>
+    <CNE>928</CNE>
+    <LastName>Bleackly</LastName>
+    <FirstName>Chicky</FirstName>
+    <matiere codeMat="AP31">16.63</matiere>
+    <matiere codeMat="AP32">10.74</matiere>
+    <matiere codeMat="AP33">12.22</matiere>
+    <matiere codeMat="AP34">10.63</matiere>
+    <matiere codeMat="AP35">9.06</matiere>
+    <matiere codeMat="AP36">14.01</matiere>
+    <matiere codeMat="AP41">19.21</matiere>
+    <matiere codeMat="AP42">19.56</matiere>
+    <matiere codeMat="AP43">13.33</matiere>
+    <matiere codeMat="AP44">10.44</matiere>
+    <matiere codeMat="AP45">16.03</matiere>
+    <matiere codeMat="AP46">15</matiere>
+  </note>
+  <note>
+    <CNE>929</CNE>
+    <LastName>Gerram</LastName>
+    <FirstName>Roberta</FirstName>
+    <matiere codeMat="AP31">17.4</matiere>
+    <matiere codeMat="AP32">14.23</matiere>
+    <matiere codeMat="AP33">11.07</matiere>
+    <matiere codeMat="AP34">10.55</matiere>
+    <matiere codeMat="AP35">16.79</matiere>
+    <matiere codeMat="AP36">15.73</matiere>
+    <matiere codeMat="AP41">18.03</matiere>
+    <matiere codeMat="AP42">19.5</matiere>
+    <matiere codeMat="AP43">9.17</matiere>
+    <matiere codeMat="AP44">9.09</matiere>
+    <matiere codeMat="AP45">11.43</matiere>
+    <matiere codeMat="AP46">16.6</matiere>
+  </note>
+  <note>
+    <CNE>930</CNE>
+    <LastName>Speak</LastName>
+    <FirstName>Saundra</FirstName>
+    <matiere codeMat="AP31">17.97</matiere>
+    <matiere codeMat="AP32">10.83</matiere>
+    <matiere codeMat="AP33">12.36</matiere>
+    <matiere codeMat="AP34">13.09</matiere>
+    <matiere codeMat="AP35">16.85</matiere>
+    <matiere codeMat="AP36">16.58</matiere>
+    <matiere codeMat="AP41">15.34</matiere>
+    <matiere codeMat="AP42">8.39</matiere>
+    <matiere codeMat="AP43">11.46</matiere>
+    <matiere codeMat="AP44">13.46</matiere>
+    <matiere codeMat="AP45">19.85</matiere>
+    <matiere codeMat="AP46">17.64</matiere>
+  </note>
+  <note>
+    <CNE>931</CNE>
+    <LastName>Zuan</LastName>
+    <FirstName>Alikee</FirstName>
+    <matiere codeMat="AP31">13.65</matiere>
+    <matiere codeMat="AP32">18.69</matiere>
+    <matiere codeMat="AP33">11.59</matiere>
+    <matiere codeMat="AP34">13.25</matiere>
+    <matiere codeMat="AP35">17.35</matiere>
+    <matiere codeMat="AP36">19.37</matiere>
+    <matiere codeMat="AP41">19.15</matiere>
+    <matiere codeMat="AP42">16.81</matiere>
+    <matiere codeMat="AP43">18.1</matiere>
+    <matiere codeMat="AP44">19.24</matiere>
+    <matiere codeMat="AP45">9.25</matiere>
+    <matiere codeMat="AP46">18.69</matiere>
+  </note>
+  <note>
+    <CNE>932</CNE>
+    <LastName>Blenkhorn</LastName>
+    <FirstName>Aluino</FirstName>
+    <matiere codeMat="AP31">17.84</matiere>
+    <matiere codeMat="AP32">11.74</matiere>
+    <matiere codeMat="AP33">17.77</matiere>
+    <matiere codeMat="AP34">9.08</matiere>
+    <matiere codeMat="AP35">9.74</matiere>
+    <matiere codeMat="AP36">14.21</matiere>
+    <matiere codeMat="AP41">9.66</matiere>
+    <matiere codeMat="AP42">15.84</matiere>
+    <matiere codeMat="AP43">10.08</matiere>
+    <matiere codeMat="AP44">10.58</matiere>
+    <matiere codeMat="AP45">11.73</matiere>
+    <matiere codeMat="AP46">9.26</matiere>
+  </note>
+  <note>
+    <CNE>933</CNE>
+    <LastName>Eplett</LastName>
+    <FirstName>Stanfield</FirstName>
+    <matiere codeMat="AP31">17.69</matiere>
+    <matiere codeMat="AP32">18.03</matiere>
+    <matiere codeMat="AP33">17.57</matiere>
+    <matiere codeMat="AP34">13.54</matiere>
+    <matiere codeMat="AP35">17.43</matiere>
+    <matiere codeMat="AP36">11.9</matiere>
+    <matiere codeMat="AP41">15.99</matiere>
+    <matiere codeMat="AP42">12.96</matiere>
+    <matiere codeMat="AP43">14.39</matiere>
+    <matiere codeMat="AP44">16.39</matiere>
+    <matiere codeMat="AP45">12.45</matiere>
+    <matiere codeMat="AP46">11.2</matiere>
+  </note>
+  <note>
+    <CNE>934</CNE>
+    <LastName>Phippard</LastName>
+    <FirstName>Calida</FirstName>
+    <matiere codeMat="AP31">9.79</matiere>
+    <matiere codeMat="AP32">12.64</matiere>
+    <matiere codeMat="AP33">18.24</matiere>
+    <matiere codeMat="AP34">16.67</matiere>
+    <matiere codeMat="AP35">17.62</matiere>
+    <matiere codeMat="AP36">13.08</matiere>
+    <matiere codeMat="AP41">8.47</matiere>
+    <matiere codeMat="AP42">11.46</matiere>
+    <matiere codeMat="AP43">16.55</matiere>
+    <matiere codeMat="AP44">12.35</matiere>
+    <matiere codeMat="AP45">9.27</matiere>
+    <matiere codeMat="AP46">17.65</matiere>
+  </note>
+  <note>
+    <CNE>935</CNE>
+    <LastName>Kubik</LastName>
+    <FirstName>Kerrin</FirstName>
+    <matiere codeMat="AP31">18.24</matiere>
+    <matiere codeMat="AP32">16.44</matiere>
+    <matiere codeMat="AP33">12.83</matiere>
+    <matiere codeMat="AP34">17.47</matiere>
+    <matiere codeMat="AP35">11.27</matiere>
+    <matiere codeMat="AP36">17.57</matiere>
+    <matiere codeMat="AP41">19.58</matiere>
+    <matiere codeMat="AP42">12.07</matiere>
+    <matiere codeMat="AP43">14.04</matiere>
+    <matiere codeMat="AP44">19.36</matiere>
+    <matiere codeMat="AP45">19.23</matiere>
+    <matiere codeMat="AP46">10.74</matiere>
+  </note>
+  <note>
+    <CNE>936</CNE>
+    <LastName>Gandrich</LastName>
+    <FirstName>Cris</FirstName>
+    <matiere codeMat="AP31">18.66</matiere>
+    <matiere codeMat="AP32">14.15</matiere>
+    <matiere codeMat="AP33">9.88</matiere>
+    <matiere codeMat="AP34">18.57</matiere>
+    <matiere codeMat="AP35">14.06</matiere>
+    <matiere codeMat="AP36">13.15</matiere>
+    <matiere codeMat="AP41">10.44</matiere>
+    <matiere codeMat="AP42">10.12</matiere>
+    <matiere codeMat="AP43">8.78</matiere>
+    <matiere codeMat="AP44">19.86</matiere>
+    <matiere codeMat="AP45">15.51</matiere>
+    <matiere codeMat="AP46">19.75</matiere>
+  </note>
+  <note>
+    <CNE>937</CNE>
+    <LastName>Pullin</LastName>
+    <FirstName>Gil</FirstName>
+    <matiere codeMat="AP31">19.58</matiere>
+    <matiere codeMat="AP32">13.06</matiere>
+    <matiere codeMat="AP33">9.86</matiere>
+    <matiere codeMat="AP34">13.41</matiere>
+    <matiere codeMat="AP35">11.55</matiere>
+    <matiere codeMat="AP36">14.05</matiere>
+    <matiere codeMat="AP41">19</matiere>
+    <matiere codeMat="AP42">11.57</matiere>
+    <matiere codeMat="AP43">10.19</matiere>
+    <matiere codeMat="AP44">14.8</matiere>
+    <matiere codeMat="AP45">13.19</matiere>
+    <matiere codeMat="AP46">12.82</matiere>
+  </note>
+  <note>
+    <CNE>938</CNE>
+    <LastName>Balasin</LastName>
+    <FirstName>Berk</FirstName>
+    <matiere codeMat="AP31">13.4</matiere>
+    <matiere codeMat="AP32">13.28</matiere>
+    <matiere codeMat="AP33">13.37</matiere>
+    <matiere codeMat="AP34">13.62</matiere>
+    <matiere codeMat="AP35">19.84</matiere>
+    <matiere codeMat="AP36">17.55</matiere>
+    <matiere codeMat="AP41">18.57</matiere>
+    <matiere codeMat="AP42">19.44</matiere>
+    <matiere codeMat="AP43">19.78</matiere>
+    <matiere codeMat="AP44">17.71</matiere>
+    <matiere codeMat="AP45">11.41</matiere>
+    <matiere codeMat="AP46">16.42</matiere>
+  </note>
+  <note>
+    <CNE>939</CNE>
+    <LastName>Wabersinke</LastName>
+    <FirstName>Em</FirstName>
+    <matiere codeMat="AP31">13.69</matiere>
+    <matiere codeMat="AP32">17.12</matiere>
+    <matiere codeMat="AP33">16.86</matiere>
+    <matiere codeMat="AP34">18.05</matiere>
+    <matiere codeMat="AP35">18.49</matiere>
+    <matiere codeMat="AP36">16.33</matiere>
+    <matiere codeMat="AP41">9.27</matiere>
+    <matiere codeMat="AP42">13.05</matiere>
+    <matiere codeMat="AP43">10.97</matiere>
+    <matiere codeMat="AP44">12.59</matiere>
+    <matiere codeMat="AP45">8.01</matiere>
+    <matiere codeMat="AP46">9.1</matiere>
+  </note>
+  <note>
+    <CNE>940</CNE>
+    <LastName>Esom</LastName>
+    <FirstName>Brande</FirstName>
+    <matiere codeMat="AP31">11.27</matiere>
+    <matiere codeMat="AP32">14.41</matiere>
+    <matiere codeMat="AP33">10.57</matiere>
+    <matiere codeMat="AP34">18.36</matiere>
+    <matiere codeMat="AP35">16.93</matiere>
+    <matiere codeMat="AP36">18.11</matiere>
+    <matiere codeMat="AP41">17.03</matiere>
+    <matiere codeMat="AP42">19.07</matiere>
+    <matiere codeMat="AP43">14.96</matiere>
+    <matiere codeMat="AP44">13.15</matiere>
+    <matiere codeMat="AP45">16.94</matiere>
+    <matiere codeMat="AP46">16.9</matiere>
+  </note>
+  <note>
+    <CNE>941</CNE>
+    <LastName>Rymell</LastName>
+    <FirstName>Kevyn</FirstName>
+    <matiere codeMat="AP31">13.17</matiere>
+    <matiere codeMat="AP32">15.31</matiere>
+    <matiere codeMat="AP33">12.81</matiere>
+    <matiere codeMat="AP34">15.93</matiere>
+    <matiere codeMat="AP35">18.91</matiere>
+    <matiere codeMat="AP36">12.66</matiere>
+    <matiere codeMat="AP41">10.17</matiere>
+    <matiere codeMat="AP42">19.18</matiere>
+    <matiere codeMat="AP43">8.27</matiere>
+    <matiere codeMat="AP44">17.56</matiere>
+    <matiere codeMat="AP45">12.05</matiere>
+    <matiere codeMat="AP46">12.65</matiere>
+  </note>
+  <note>
+    <CNE>942</CNE>
+    <LastName>Cottle</LastName>
+    <FirstName>Hobart</FirstName>
+    <matiere codeMat="AP31">15.77</matiere>
+    <matiere codeMat="AP32">9.22</matiere>
+    <matiere codeMat="AP33">11.19</matiere>
+    <matiere codeMat="AP34">16.56</matiere>
+    <matiere codeMat="AP35">16.25</matiere>
+    <matiere codeMat="AP36">12.83</matiere>
+    <matiere codeMat="AP41">19.76</matiere>
+    <matiere codeMat="AP42">10.42</matiere>
+    <matiere codeMat="AP43">17.99</matiere>
+    <matiere codeMat="AP44">19.87</matiere>
+    <matiere codeMat="AP45">13.31</matiere>
+    <matiere codeMat="AP46">14.12</matiere>
+  </note>
+  <note>
+    <CNE>943</CNE>
+    <LastName>Ibbs</LastName>
+    <FirstName>Mickie</FirstName>
+    <matiere codeMat="AP31">10.34</matiere>
+    <matiere codeMat="AP32">9.71</matiere>
+    <matiere codeMat="AP33">11.79</matiere>
+    <matiere codeMat="AP34">10.82</matiere>
+    <matiere codeMat="AP35">19.46</matiere>
+    <matiere codeMat="AP36">18.8</matiere>
+    <matiere codeMat="AP41">14.33</matiere>
+    <matiere codeMat="AP42">12.39</matiere>
+    <matiere codeMat="AP43">14.09</matiere>
+    <matiere codeMat="AP44">12.02</matiere>
+    <matiere codeMat="AP45">19.95</matiere>
+    <matiere codeMat="AP46">9.61</matiere>
+  </note>
+  <note>
+    <CNE>944</CNE>
+    <LastName>Spinozzi</LastName>
+    <FirstName>Ted</FirstName>
+    <matiere codeMat="AP31">9.61</matiere>
+    <matiere codeMat="AP32">9.13</matiere>
+    <matiere codeMat="AP33">11.89</matiere>
+    <matiere codeMat="AP34">11.24</matiere>
+    <matiere codeMat="AP35">18.97</matiere>
+    <matiere codeMat="AP36">19.36</matiere>
+    <matiere codeMat="AP41">11.21</matiere>
+    <matiere codeMat="AP42">9.01</matiere>
+    <matiere codeMat="AP43">16.28</matiere>
+    <matiere codeMat="AP44">13.63</matiere>
+    <matiere codeMat="AP45">17.78</matiere>
+    <matiere codeMat="AP46">13.74</matiere>
+  </note>
+  <note>
+    <CNE>945</CNE>
+    <LastName>Hazeman</LastName>
+    <FirstName>Ruthann</FirstName>
+    <matiere codeMat="AP31">18.58</matiere>
+    <matiere codeMat="AP32">10.53</matiere>
+    <matiere codeMat="AP33">13.68</matiere>
+    <matiere codeMat="AP34">17.91</matiere>
+    <matiere codeMat="AP35">15.58</matiere>
+    <matiere codeMat="AP36">12.58</matiere>
+    <matiere codeMat="AP41">12.94</matiere>
+    <matiere codeMat="AP42">12.26</matiere>
+    <matiere codeMat="AP43">19.73</matiere>
+    <matiere codeMat="AP44">15.33</matiere>
+    <matiere codeMat="AP45">8.56</matiere>
+    <matiere codeMat="AP46">19.26</matiere>
+  </note>
+  <note>
+    <CNE>946</CNE>
+    <LastName>Sadat</LastName>
+    <FirstName>Fleur</FirstName>
+    <matiere codeMat="AP31">18.41</matiere>
+    <matiere codeMat="AP32">12.67</matiere>
+    <matiere codeMat="AP33">18.04</matiere>
+    <matiere codeMat="AP34">17.37</matiere>
+    <matiere codeMat="AP35">15.39</matiere>
+    <matiere codeMat="AP36">11.54</matiere>
+    <matiere codeMat="AP41">15</matiere>
+    <matiere codeMat="AP42">19.37</matiere>
+    <matiere codeMat="AP43">15.77</matiere>
+    <matiere codeMat="AP44">11.01</matiere>
+    <matiere codeMat="AP45">11.22</matiere>
+    <matiere codeMat="AP46">10.04</matiere>
+  </note>
+</notes>

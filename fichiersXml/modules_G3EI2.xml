@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/modules.xsd">
+  <module>
+    <Code>G3EI131</Code>
+    <Name>pede. Suspendisse dui.</Name>
+    <ChefModule>EL Haddad</ChefModule>
+    <ElementName>Nullam feugiat placerat</ElementName>
+    <ElementName>varius et, euismod</ElementName>
+  </module>
+  <module>
+    <Code>G3EI132</Code>
+    <Name>a nunc. In</Name>
+    <ChefModule>Badir</ChefModule>
+    <ElementName>sodales nisi magna</ElementName>
+    <ElementName>elementum sem, vitae</ElementName>
+  </module>
+  <module>
+    <Code>G3EI133</Code>
+    <Name>amet metus. Aliquam</Name>
+    <ChefModule>Ezzine</ChefModule>
+    <ElementName>Cras vulputate velit</ElementName>
+    <ElementName>scelerisque neque sed</ElementName>
+  </module>
+  <module>
+    <Code>G3EI134</Code>
+    <Name>quam vel sapien</Name>
+    <ChefModule>El Alami Hassoun</ChefModule>
+    <ElementName>Nunc mauris elit,</ElementName>
+    <ElementName>libero et tristique</ElementName>
+  </module>
+  <module>
+    <Code>G3EI135</Code>
+    <Name>feugiat nec, diam.</Name>
+    <ChefModule>Lazaar</ChefModule>
+    <ElementName>pellentesque. Sed dictum.</ElementName>
+    <ElementName>ridiculus mus. Proin</ElementName>
+  </module>
+  <module>
+    <Code>G3EI136</Code>
+    <Name>nonummy. Fusce fermentum</Name>
+    <ChefModule>El Haddad</ChefModule>
+    <ElementName>neque pellentesque massa</ElementName>
+    <ElementName>Mauris eu turpis.</ElementName>
+  </module>
+  <module>
+    <Code>G3EI141</Code>
+    <Name>a, arcu. Sed</Name>
+    <ChefModule>EL Haddad</ChefModule>
+    <ElementName>sit amet risus.</ElementName>
+    <ElementName>Nulla facilisi. Sed</ElementName>
+  </module>
+  <module>
+    <Code>G3EI142</Code>
+    <Name>Suspendisse eleifend. Cras</Name>
+    <ChefModule>El Alami Hassoun</ChefModule>
+    <ElementName>velit dui, semper</ElementName>
+    <ElementName>ligula elit, pretium</ElementName>
+  </module>
+  <module>
+    <Code>G3EI143</Code>
+    <Name>ante. Nunc mauris</Name>
+    <ChefModule>Badir</ChefModule>
+    <ElementName>tortor at risus.</ElementName>
+    <ElementName>felis. Donec tempor,</ElementName>
+  </module>
+  <module>
+    <Code>G3EI144</Code>
+    <Name>lobortis quam a</Name>
+    <ChefModule>Ezzine</ChefModule>
+    <ElementName>euismod est arcu</ElementName>
+    <ElementName>ligula eu enim.</ElementName>
+  </module>
+  <module>
+    <Code>G3EI145</Code>
+    <Name>rhoncus. Nullam velit</Name>
+    <ChefModule>Ben Achrab</ChefModule>
+    <ElementName>ut dolor dapibus</ElementName>
+    <ElementName>commodo tincidunt nibh.</ElementName>
+  </module>
+  <module>
+    <Code>G3EI146</Code>
+    <Name>Donec tincidunt. Donec</Name>
+    <ChefModule>EL Haddad</ChefModule>
+    <ElementName>ornare tortor at</ElementName>
+    <ElementName>ac, feugiat non,</ElementName>
+  </module>
+</modules>

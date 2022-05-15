@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>1115</CNE>
+    <LastName>Dabrowski</LastName>
+    <FirstName>Gerrie</FirstName>
+    <DateofBirth>22/09/2000</DateofBirth>
+    <Phone>710 892 2899</Phone>
+    <Email>icroydon4o@google.it</Email>
+  </student><student>
+    <CNE>1116</CNE>
+    <LastName>Choat</LastName>
+    <FirstName>Gertrud</FirstName>
+    <DateofBirth>13/10/1999</DateofBirth>
+    <Phone>647 910 1061</Phone>
+    <Email>jannwyl4p@tinyurl.com</Email>
+  </student><student>
+    <CNE>1117</CNE>
+    <LastName>Esherwood</LastName>
+    <FirstName>Cariotta</FirstName>
+    <DateofBirth>14/07/1998</DateofBirth>
+    <Phone>226 796 6349</Phone>
+    <Email>gtaw4q@dailymail.co.uk</Email>
+  </student><student>
+    <CNE>1118</CNE>
+    <LastName>Fisbey</LastName>
+    <FirstName>Mathian</FirstName>
+    <DateofBirth>14/04/2000</DateofBirth>
+    <Phone>581 703 4564</Phone>
+    <Email>emcanellye4r@tinypic.com</Email>
+  </student><student>
+    <CNE>1119</CNE>
+    <LastName>Priest</LastName>
+    <FirstName>Lizzie</FirstName>
+    <DateofBirth>01/10/2001</DateofBirth>
+    <Phone>662 421 3934</Phone>
+    <Email>areinhart4s@twitpic.com</Email>
+  </student><student>
+    <CNE>1120</CNE>
+    <LastName>McGarvey</LastName>
+    <FirstName>Silvanus</FirstName>
+    <DateofBirth>01/01/2000</DateofBirth>
+    <Phone>395 513 5263</Phone>
+    <Email>emcgauhy4t@naver.com</Email>
+  </student><student>
+    <CNE>1121</CNE>
+    <LastName>Ebbles</LastName>
+    <FirstName>Iolanthe</FirstName>
+    <DateofBirth>29/05/2001</DateofBirth>
+    <Phone>186 742 8819</Phone>
+    <Email>smccullen4u@plala.or.jp</Email>
+  </student><student>
+    <CNE>1122</CNE>
+    <LastName>Dunleavy</LastName>
+    <FirstName>Darice</FirstName>
+    <DateofBirth>23/09/2000</DateofBirth>
+    <Phone>318 207 2669</Phone>
+    <Email>avanyarkin4v@aboutads.info</Email>
+  </student><student>
+    <CNE>1123</CNE>
+    <LastName>Hallt</LastName>
+    <FirstName>Vinni</FirstName>
+    <DateofBirth>14/06/2001</DateofBirth>
+    <Phone>123 384 6099</Phone>
+    <Email>telvin4w@bluehost.com</Email>
+  </student><student>
+    <CNE>1124</CNE>
+    <LastName>Arthars</LastName>
+    <FirstName>Johannes</FirstName>
+    <DateofBirth>16/04/2001</DateofBirth>
+    <Phone>314 683 6492</Phone>
+    <Email>cguillon4x@cpanel.net</Email>
+  </student><student>
+    <CNE>1125</CNE>
+    <LastName>Sleaford</LastName>
+    <FirstName>Tandi</FirstName>
+    <DateofBirth>12/03/2000</DateofBirth>
+    <Phone>863 532 0248</Phone>
+    <Email>okinnear4y@timesonline.co.uk</Email>
+  </student><student>
+    <CNE>1126</CNE>
+    <LastName>Willison</LastName>
+    <FirstName>Renato</FirstName>
+    <DateofBirth>22/09/2001</DateofBirth>
+    <Phone>717 652 5929</Phone>
+    <Email>dcolecrough4z@storify.com</Email>
+  </student><student>
+    <CNE>1127</CNE>
+    <LastName>Theuff</LastName>
+    <FirstName>Karyn</FirstName>
+    <DateofBirth>26/02/2001</DateofBirth>
+    <Phone>115 272 9610</Phone>
+    <Email>mmawd50@cbsnews.com</Email>
+  </student><student>
+    <CNE>1128</CNE>
+    <LastName>Charlo</LastName>
+    <FirstName>Shirline</FirstName>
+    <DateofBirth>09/11/2000</DateofBirth>
+    <Phone>199 843 9876</Phone>
+    <Email>ameletti51@chron.com</Email>
+  </student><student>
+    <CNE>1129</CNE>
+    <LastName>Rossiter</LastName>
+    <FirstName>Teddi</FirstName>
+    <DateofBirth>29/04/2001</DateofBirth>
+    <Phone>769 864 7604</Phone>
+    <Email>cleveritt52@ftc.gov</Email>
+  </student><student>
+    <CNE>1130</CNE>
+    <LastName>Gligori</LastName>
+    <FirstName>Jobi</FirstName>
+    <DateofBirth>02/06/1998</DateofBirth>
+    <Phone>561 515 0313</Phone>
+    <Email>wmortel53@utexas.edu</Email>
+  </student><student>
+    <CNE>1131</CNE>
+    <LastName>Kitteringham</LastName>
+    <FirstName>Eziechiele</FirstName>
+    <DateofBirth>10/01/1998</DateofBirth>
+    <Phone>616 525 9957</Phone>
+    <Email>shundley54@accuweather.com</Email>
+  </student><student>
+    <CNE>1132</CNE>
+    <LastName>Chaplin</LastName>
+    <FirstName>Tam</FirstName>
+    <DateofBirth>07/03/2000</DateofBirth>
+    <Phone>657 376 7578</Phone>
+    <Email>eovitts55@mediafire.com</Email>
+  </student><student>
+    <CNE>1133</CNE>
+    <LastName>Melbourn</LastName>
+    <FirstName>Paolo</FirstName>
+    <DateofBirth>25/02/1999</DateofBirth>
+    <Phone>787 635 9578</Phone>
+    <Email>crayment56@stumbleupon.com</Email>
+  </student><student>
+    <CNE>1134</CNE>
+    <LastName>Clowser</LastName>
+    <FirstName>Lorri</FirstName>
+    <DateofBirth>22/03/2000</DateofBirth>
+    <Phone>823 622 8252</Phone>
+    <Email>fdaborn57@icq.com</Email>
+  </student><student>
+    <CNE>1135</CNE>
+    <LastName>Cianelli</LastName>
+    <FirstName>Teri</FirstName>
+    <DateofBirth>20/08/2001</DateofBirth>
+    <Phone>767 573 3108</Phone>
+    <Email>rruzic58@theatlantic.com</Email>
+  </student><student>
+    <CNE>1136</CNE>
+    <LastName>Houten</LastName>
+    <FirstName>Aurelia</FirstName>
+    <DateofBirth>22/08/2000</DateofBirth>
+    <Phone>409 396 3789</Phone>
+    <Email>dlound59@4shared.com</Email>
+  </student><student>
+    <CNE>1137</CNE>
+    <LastName>Checchetelli</LastName>
+    <FirstName>Augy</FirstName>
+    <DateofBirth>10/04/2000</DateofBirth>
+    <Phone>559 183 4046</Phone>
+    <Email>nmacpadene5a@youtube.com</Email>
+  </student><student>
+    <CNE>1138</CNE>
+    <LastName>Gagg</LastName>
+    <FirstName>Gertrude</FirstName>
+    <DateofBirth>22/09/1998</DateofBirth>
+    <Phone>968 525 3451</Phone>
+    <Email>mkunat5b@globo.com</Email>
+  </student></students>

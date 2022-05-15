@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>1067</CNE>
+    <LastName>Greenough</LastName>
+    <FirstName>Brigitta</FirstName>
+    <DateofBirth>07/02/1998</DateofBirth>
+    <Phone>423 387 9575</Phone>
+    <Email>pboschmann3c@stumbleupon.com</Email>
+  </student><student>
+    <CNE>1068</CNE>
+    <LastName>Dormand</LastName>
+    <FirstName>Des</FirstName>
+    <DateofBirth>16/07/2000</DateofBirth>
+    <Phone>725 662 7907</Phone>
+    <Email>clidierth3d@chron.com</Email>
+  </student><student>
+    <CNE>1069</CNE>
+    <LastName>Jockle</LastName>
+    <FirstName>Earvin</FirstName>
+    <DateofBirth>23/06/1998</DateofBirth>
+    <Phone>183 413 5449</Phone>
+    <Email>jglasard3e@cnn.com</Email>
+  </student><student>
+    <CNE>1070</CNE>
+    <LastName>Slixby</LastName>
+    <FirstName>Kathlin</FirstName>
+    <DateofBirth>07/12/2000</DateofBirth>
+    <Phone>195 723 8886</Phone>
+    <Email>lpringell3f@addtoany.com</Email>
+  </student><student>
+    <CNE>1071</CNE>
+    <LastName>Rossiter</LastName>
+    <FirstName>Mady</FirstName>
+    <DateofBirth>19/02/1998</DateofBirth>
+    <Phone>258 451 0075</Phone>
+    <Email>pteaser3g@jalbum.net</Email>
+  </student><student>
+    <CNE>1072</CNE>
+    <LastName>Sessuns</LastName>
+    <FirstName>Jodee</FirstName>
+    <DateofBirth>18/10/2001</DateofBirth>
+    <Phone>655 451 1641</Phone>
+    <Email>csmart3h@microsoft.com</Email>
+  </student><student>
+    <CNE>1073</CNE>
+    <LastName>Matonin</LastName>
+    <FirstName>Devin</FirstName>
+    <DateofBirth>08/03/2000</DateofBirth>
+    <Phone>343 537 6748</Phone>
+    <Email>bjakov3i@dagondesign.com</Email>
+  </student><student>
+    <CNE>1074</CNE>
+    <LastName>Ward</LastName>
+    <FirstName>Barbey</FirstName>
+    <DateofBirth>07/05/2000</DateofBirth>
+    <Phone>521 126 3137</Phone>
+    <Email>cblazic3j@ow.ly</Email>
+  </student><student>
+    <CNE>1075</CNE>
+    <LastName>Robinet</LastName>
+    <FirstName>Curtis</FirstName>
+    <DateofBirth>08/01/1999</DateofBirth>
+    <Phone>848 450 5982</Phone>
+    <Email>asambells3k@cloudflare.com</Email>
+  </student><student>
+    <CNE>1076</CNE>
+    <LastName>Stearn</LastName>
+    <FirstName>Eadie</FirstName>
+    <DateofBirth>13/02/1998</DateofBirth>
+    <Phone>407 502 6960</Phone>
+    <Email>noertzen3l@opera.com</Email>
+  </student><student>
+    <CNE>1077</CNE>
+    <LastName>Pochet</LastName>
+    <FirstName>Brianna</FirstName>
+    <DateofBirth>28/04/2001</DateofBirth>
+    <Phone>786 272 9211</Phone>
+    <Email>osyddie3m@pagesperso-orange.fr</Email>
+  </student><student>
+    <CNE>1078</CNE>
+    <LastName>Duiguid</LastName>
+    <FirstName>Joyous</FirstName>
+    <DateofBirth>06/02/1998</DateofBirth>
+    <Phone>974 853 5607</Phone>
+    <Email>wcoleby3n@domainmarket.com</Email>
+  </student><student>
+    <CNE>1079</CNE>
+    <LastName>Badgers</LastName>
+    <FirstName>Euphemia</FirstName>
+    <DateofBirth>01/08/1999</DateofBirth>
+    <Phone>184 816 8774</Phone>
+    <Email>himason3o@amazon.co.jp</Email>
+  </student><student>
+    <CNE>1080</CNE>
+    <LastName>Gaspar</LastName>
+    <FirstName>Ab</FirstName>
+    <DateofBirth>15/08/2001</DateofBirth>
+    <Phone>571 546 5353</Phone>
+    <Email>zbroseke3p@devhub.com</Email>
+  </student><student>
+    <CNE>1081</CNE>
+    <LastName>Milland</LastName>
+    <FirstName>Kristina</FirstName>
+    <DateofBirth>01/03/1998</DateofBirth>
+    <Phone>840 202 0909</Phone>
+    <Email>cwhaplington3q@woothemes.com</Email>
+  </student><student>
+    <CNE>1082</CNE>
+    <LastName>Clift</LastName>
+    <FirstName>Gaby</FirstName>
+    <DateofBirth>09/04/1999</DateofBirth>
+    <Phone>881 566 6527</Phone>
+    <Email>rconkie3r@aol.com</Email>
+  </student><student>
+    <CNE>1083</CNE>
+    <LastName>McCreath</LastName>
+    <FirstName>Selby</FirstName>
+    <DateofBirth>03/01/1998</DateofBirth>
+    <Phone>416 600 3607</Phone>
+    <Email>msevior3s@princeton.edu</Email>
+  </student><student>
+    <CNE>1084</CNE>
+    <LastName>Hatherley</LastName>
+    <FirstName>Celestyn</FirstName>
+    <DateofBirth>10/06/1999</DateofBirth>
+    <Phone>942 494 3662</Phone>
+    <Email>cmatveichev3t@dagondesign.com</Email>
+  </student><student>
+    <CNE>1085</CNE>
+    <LastName>Lyffe</LastName>
+    <FirstName>Imogene</FirstName>
+    <DateofBirth>25/10/2000</DateofBirth>
+    <Phone>342 316 8466</Phone>
+    <Email>nhovy3u@livejournal.com</Email>
+  </student><student>
+    <CNE>1086</CNE>
+    <LastName>Filan</LastName>
+    <FirstName>Marci</FirstName>
+    <DateofBirth>04/06/2001</DateofBirth>
+    <Phone>874 285 1952</Phone>
+    <Email>dsuttling3v@omniture.com</Email>
+  </student><student>
+    <CNE>1087</CNE>
+    <LastName>Hun</LastName>
+    <FirstName>Michail</FirstName>
+    <DateofBirth>22/08/2001</DateofBirth>
+    <Phone>112 335 1991</Phone>
+    <Email>hblacklawe3w@imdb.com</Email>
+  </student><student>
+    <CNE>1088</CNE>
+    <LastName>Meritt</LastName>
+    <FirstName>Daphene</FirstName>
+    <DateofBirth>28/10/1998</DateofBirth>
+    <Phone>808 149 7234</Phone>
+    <Email>otrinke3x@java.com</Email>
+  </student><student>
+    <CNE>1089</CNE>
+    <LastName>Marcinkowski</LastName>
+    <FirstName>Pierrette</FirstName>
+    <DateofBirth>08/02/2001</DateofBirth>
+    <Phone>305 587 9398</Phone>
+    <Email>hcarletti3y@springer.com</Email>
+  </student><student>
+    <CNE>1090</CNE>
+    <LastName>Wooding</LastName>
+    <FirstName>Mandi</FirstName>
+    <DateofBirth>02/02/2001</DateofBirth>
+    <Phone>868 103 9679</Phone>
+    <Email>claidel3z@imageshack.us</Email>
+  </student></students>

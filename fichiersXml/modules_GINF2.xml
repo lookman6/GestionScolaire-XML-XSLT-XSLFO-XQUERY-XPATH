@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/modules.xsd">
+  <module>
+    <Code>GINF31</Code>
+    <Name>POO &amp; XML</Name>
+    <ChefModule>EL HADDAD</ChefModule>
+    <ElementName>Java</ElementName>
+    <ElementName>XML</ElementName>
+  </module>
+  <module>
+    <Code>GINF32</Code>
+    <Name>Qualit&#xE9; et approche processus</Name>
+    <ChefModule>BADIR</ChefModule>
+    <ElementName>Assurance Contr&#xF4;le Qualit&#xE9;</ElementName>
+    <ElementName> Cycle de vie Logiciel</ElementName>
+    <ElementName> Maitrise et Optimisation des processus</ElementName>
+  </module>
+  <module>
+    <Code>GINF33</Code>
+    <Name>Mod&#xE9;lisation POO &amp; IHM</Name>
+    <ChefModule>EL ALAMI HASSOUN</ChefModule>
+    <ElementName>UML</ElementName>
+    <ElementName>IHM</ElementName>
+  </module>
+  <module>
+    <Code>GINF34</Code>
+    <Name>BD Avanc&#xE9;es I</Name>
+    <ChefModule>BADIR</ChefModule>
+    <ElementName>Optimisation et Qualit&#xE9; BD</ElementName>
+    <ElementName> Administration et Securit&#xE9; BD</ElementName>
+    <ElementName> BD Distribu&#xE9;es</ElementName>
+  </module>
+  <module>
+    <Code>GINF35</Code>
+    <Name>Administration Et programmation Syst&#xE8;me</Name>
+    <ChefModule>EL ALAMI HASSOUN</ChefModule>
+    <ElementName>Administration Syst&#xE8;me</ElementName>
+    <ElementName> Programmation Syst&#xE8;me</ElementName>
+  </module>
+  <module>
+    <Code>GINF36</Code>
+    <Name>Langues et Communication</Name>
+    <ChefModule>El Haddad</ChefModule>
+    <ElementName>Anglais</ElementName>
+    <ElementName> Espagnol</ElementName>
+  </module>
+  <module>
+    <Code>GINF41</Code>
+    <Name>Technologies distribu&#xE9;es</Name>
+    <ChefModule>EL Haddad</ChefModule>
+    <ElementName>J2EE</ElementName>
+    <ElementName> C#</ElementName>
+  </module>
+  <module>
+    <Code>GINF42</Code>
+    <Name>BD Avanc&#xE9;es II &amp; Cloud</Name>
+    <ChefModule>El Alami Hassoun</ChefModule>
+    <ElementName>Gestion des donn&#xE9;es Complexes</ElementName>
+    <ElementName> NOSQL</ElementName>
+    <ElementName> Cloud Computing</ElementName>
+  </module>
+  <module>
+    <Code>GINF43</Code>
+    <Name>Traitement de l'image </Name>
+    <ChefModule>Badir</ChefModule>
+    <ElementName>Traitement d'image</ElementName>
+    <ElementName> vision num&#xE9;rique</ElementName>
+    <ElementName> Processus stochastique</ElementName>
+  </module>
+  <module>
+    <Code>GINF44</Code>
+    <Name>Programmation D&#xE9;clarative et TAV</Name>
+    <ChefModule>Ezzine</ChefModule>
+    <ElementName>Prog. D&#xE9;clarative</ElementName>
+    <ElementName> Technique algorithmique avanc&#xE9;e</ElementName>
+  </module>
+  <module>
+    <Code>GINF45</Code>
+    <Name>S&#xE9;curit&#xE9; des syst&#xE8;mes &amp; Cryptographie</Name>
+    <ChefModule>Ben Achrab</ChefModule>
+    <ElementName>S&#xE9;curit&#xE9; des syst&#xE8;mes</ElementName>
+    <ElementName> Cryptographie</ElementName>
+  </module>
+  <module>
+    <Code>GINF46</Code>
+    <Name>Management de l'entreprise</Name>
+    <ChefModule>EL Haddad</ChefModule>
+    <ElementName>Economie &amp; Compta 2</ElementName>
+    <ElementName> Projets collectifs</ElementName>
+    <ElementName> Management de projet</ElementName>
+  </module>
+</modules>

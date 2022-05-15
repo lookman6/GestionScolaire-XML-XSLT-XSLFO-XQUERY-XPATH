@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion_scolaire/fichiersDeValidation/students.xsd"><student>
+    <CNE>48</CNE>
+    <LastName>Valencia</LastName>
+    <FirstName>Zanetto</FirstName>
+    <DateofBirth>03/10/1997</DateofBirth>
+    <Phone>488 326 8313</Phone>
+    <Email>vzanetto0@cargocollective.com</Email>
+  </student><student>
+    <CNE>49</CNE>
+    <LastName>Blondell</LastName>
+    <FirstName>Salmoni</FirstName>
+    <DateofBirth>18/07/1998</DateofBirth>
+    <Phone>830 390 3346</Phone>
+    <Email>bsalmoni1@reverbnation.com</Email>
+  </student><student>
+    <CNE>50</CNE>
+    <LastName>Ina</LastName>
+    <FirstName>Peake</FirstName>
+    <DateofBirth>16/11/1997</DateofBirth>
+    <Phone>119 497 4625</Phone>
+    <Email>ipeake2@technorati.com</Email>
+  </student><student>
+    <CNE>51</CNE>
+    <LastName>Philippa</LastName>
+    <FirstName>Maxwell</FirstName>
+    <DateofBirth>15/01/1998</DateofBirth>
+    <Phone>542 280 5597</Phone>
+    <Email>pmaxwell3@cam.ac.uk</Email>
+  </student><student>
+    <CNE>52</CNE>
+    <LastName>Mackenzie</LastName>
+    <FirstName>Claxton</FirstName>
+    <DateofBirth>13/10/1997</DateofBirth>
+    <Phone>979 633 9227</Phone>
+    <Email>mclaxton4@ihg.com</Email>
+  </student><student>
+    <CNE>53</CNE>
+    <LastName>Conan</LastName>
+    <FirstName>Lawford</FirstName>
+    <DateofBirth>26/11/1997</DateofBirth>
+    <Phone>232 835 3067</Phone>
+    <Email>clawford5@newsvine.com</Email>
+  </student><student>
+    <CNE>54</CNE>
+    <LastName>Mackenzie</LastName>
+    <FirstName>Coltart</FirstName>
+    <DateofBirth>01/07/1998</DateofBirth>
+    <Phone>640 676 5938</Phone>
+    <Email>mcoltart6@washingtonpost.com</Email>
+  </student><student>
+    <CNE>55</CNE>
+    <LastName>Pren</LastName>
+    <FirstName>Sabban</FirstName>
+    <DateofBirth>21/03/1996</DateofBirth>
+    <Phone>386 895 4405</Phone>
+    <Email>psabban7@foxnews.com</Email>
+  </student><student>
+    <CNE>56</CNE>
+    <LastName>Peg</LastName>
+    <FirstName>Dobrowski</FirstName>
+    <DateofBirth>03/09/1999</DateofBirth>
+    <Phone>182 192 7214</Phone>
+    <Email>pdobrowski8@dyndns.org</Email>
+  </student><student>
+    <CNE>57</CNE>
+    <LastName>Kanya</LastName>
+    <FirstName>Gulliver</FirstName>
+    <DateofBirth>15/07/1998</DateofBirth>
+    <Phone>711 430 4221</Phone>
+    <Email>kgulliver9@rambler.ru</Email>
+  </student><student>
+    <CNE>58</CNE>
+    <LastName>Marilin</LastName>
+    <FirstName>Woodley</FirstName>
+    <DateofBirth>04/08/1996</DateofBirth>
+    <Phone>853 441 5835</Phone>
+    <Email>mwoodleya@miibeian.gov.cn</Email>
+  </student><student>
+    <CNE>59</CNE>
+    <LastName>Sondra</LastName>
+    <FirstName>Haig</FirstName>
+    <DateofBirth>03/08/1998</DateofBirth>
+    <Phone>723 139 9292</Phone>
+    <Email>shaigb@delicious.com</Email>
+  </student><student>
+    <CNE>60</CNE>
+    <LastName>Terrye</LastName>
+    <FirstName>Arcase</FirstName>
+    <DateofBirth>20/02/1995</DateofBirth>
+    <Phone>484 902 4532</Phone>
+    <Email>tarcasec@narod.ru</Email>
+  </student><student>
+    <CNE>61</CNE>
+    <LastName>Berry</LastName>
+    <FirstName>Hartle</FirstName>
+    <DateofBirth>13/05/1997</DateofBirth>
+    <Phone>166 413 2001</Phone>
+    <Email>bhartled@msn.com</Email>
+  </student><student>
+    <CNE>62</CNE>
+    <LastName>Parrnell</LastName>
+    <FirstName>Tinker</FirstName>
+    <DateofBirth>18/05/1998</DateofBirth>
+    <Phone>732 329 4818</Phone>
+    <Email>ptinkere@a8.net</Email>
+  </student><student>
+    <CNE>63</CNE>
+    <LastName>Rosy</LastName>
+    <FirstName>Maytom</FirstName>
+    <DateofBirth>21/05/1995</DateofBirth>
+    <Phone>334 477 1431</Phone>
+    <Email>rmaytomf@flavors.me</Email>
+  </student><student>
+    <CNE>64</CNE>
+    <LastName>Pru</LastName>
+    <FirstName>Pauluzzi</FirstName>
+    <DateofBirth>09/02/1996</DateofBirth>
+    <Phone>978 494 5519</Phone>
+    <Email>ppauluzzig@statcounter.com</Email>
+  </student><student>
+    <CNE>65</CNE>
+    <LastName>Nilson</LastName>
+    <FirstName>Deyes</FirstName>
+    <DateofBirth>12/06/1997</DateofBirth>
+    <Phone>600 787 1160</Phone>
+    <Email>ndeyesh@theglobeandmail.com</Email>
+  </student><student>
+    <CNE>66</CNE>
+    <LastName>Zsazsa</LastName>
+    <FirstName>Lancetter</FirstName>
+    <DateofBirth>18/05/2000</DateofBirth>
+    <Phone>483 517 3963</Phone>
+    <Email>zlancetteri@histats.com</Email>
+  </student><student>
+    <CNE>67</CNE>
+    <LastName>Courtney</LastName>
+    <FirstName>Gallego</FirstName>
+    <DateofBirth>30/09/2000</DateofBirth>
+    <Phone>543 957 1385</Phone>
+    <Email>cgallegoj@amazon.de</Email>
+  </student><student>
+    <CNE>68</CNE>
+    <LastName>Amalle</LastName>
+    <FirstName>Gavigan</FirstName>
+    <DateofBirth>04/01/1999</DateofBirth>
+    <Phone>978 822 9472</Phone>
+    <Email>agavigank@soundcloud.com</Email>
+  </student><student>
+    <CNE>69</CNE>
+    <LastName>Danica</LastName>
+    <FirstName>Le Guin</FirstName>
+    <DateofBirth>11/04/2000</DateofBirth>
+    <Phone>792 271 4594</Phone>
+    <Email>dleguinl@bluehost.com</Email>
+  </student><student>
+    <CNE>70</CNE>
+    <LastName>Fifi</LastName>
+    <FirstName>Wiffield</FirstName>
+    <DateofBirth>19/04/1998</DateofBirth>
+    <Phone>867 219 4343</Phone>
+    <Email>fwiffieldm@homestead.com</Email>
+  </student><student>
+    <CNE>71</CNE>
+    <LastName>Nicko</LastName>
+    <FirstName>Miners</FirstName>
+    <DateofBirth>26/11/1997</DateofBirth>
+    <Phone>720 300 7429</Phone>
+    <Email>nminersn@tripadvisor.com</Email>
+  </student></students>

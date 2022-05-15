@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<professeurs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/professeurs.xsd">
+  <professeur>
+    <CIN>1</CIN>
+    <LastName>El Haddad</LastName>
+    <FirstName>Mohamed</FirstName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Phone>06 82 02 22 11</Phone>
+    <Email>mattis.Integer@tellus.net</Email>
+    <matiere>GINF32</matiere>
+    <matiere>GINF52</matiere>
+  </professeur>
+  <professeur>
+    <CIN>2</CIN>
+    <LastName>Hassan</LastName>
+    <FirstName>Badir</FirstName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Phone>02 51 40 28 06</Phone>
+    <Email>hendrerit.a.arcu@massanonante.org</Email>
+    <matiere>GINF36</matiere>
+  </professeur>
+  <professeur>
+    <CIN>3</CIN>
+    <LastName>El Alami</LastName>
+    <FirstName>Hassoun</FirstName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Phone>08 55 45 51 46</Phone>
+    <Email>eros.non.enim@erosturpis.org</Email>
+    <matiere>GINF41</matiere>
+  </professeur>
+  <professeur>
+    <CIN>4</CIN>
+    <LastName>Amechnoue</LastName>
+    <FirstName>Khalid</FirstName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Phone>03 42 67 10 87</Phone>
+    <Email>mauris.sapien.cursus@dolor.net</Email>
+    <matiere>GINF33</matiere>
+    <matiere>GINF42</matiere>
+  </professeur>
+  <professeur>
+    <CIN>5</CIN>
+    <LastName>Fissoune</LastName>
+    <FirstName>Rachida</FirstName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Phone>08 89 02 36 34</Phone>
+    <Email>quis.turpis@congue.ca</Email>
+    <matiere>GINF25</matiere>
+  </professeur>
+  <professeur>
+    <CIN>6</CIN>
+    <LastName>El Azzouzi</LastName>
+    <FirstName>Rahali</FirstName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Phone>08 44 72 02 14</Phone>
+    <Email>at.fringilla@etcommodoat.net</Email>
+    <matiere>GINF34</matiere>
+  </professeur>
+</professeurs>

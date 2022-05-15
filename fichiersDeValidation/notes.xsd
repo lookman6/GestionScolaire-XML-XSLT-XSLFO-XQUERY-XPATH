@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+elementFormDefault="qualified">
+
+<xs:element name="notes">
+   <xs:complexType>
+     <xs:sequence>
+      <xs:element name="note">
+       <xs:complexType>
+        <xs:sequence>
+          <xs:element name="CNE" type="xs:string"/>
+          <xs:element name="LastName" type="xs:string"/>
+          <xs:element name="FirstName" type="xs:string"/>
+          <xs:element name="matiere" maxOccurs="12" minOccurs="12">
+              <xs:complexType>
+                <xs:attribute name="codeMat" type="xs:string" use="required" />
+                 <xs:restriction base="xs:float">
+                   <xs:minInclusive value="0"/>
+                   <xs:maxInclusive value="20"/>
+                  </xs:restriction>
+                 </xs:complexType> 
+           </xs:element>  
+        </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+   </xs:sequence>
+  </xs:complexType> 
+  </xs:element>
+
+  </xs:schema>  
